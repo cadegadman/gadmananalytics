@@ -1,21 +1,14 @@
+from datetime import date, timedelta
 from pathlib import Path
-from datetime import date
 from metric_functions import run_metric
 
 SEASONS = {
-    2026: ("2026-03-01", date.today().strftime("%Y-%m-%d")),
+    2026: ("2026-03-01", (date.today() - timedelta(days=1)).strftime("%Y-%m-%d")),
     2025: ("2025-03-01", "2025-09-30"),
     2024: ("2024-03-01", "2024-09-30"),
-    2023: ("2023-03-01", "2023-09-30"),
-    2022: ("2022-03-01", "2022-09-30"),
-    2021: ("2021-03-01", "2021-09-30"),
-    2020: ("2020-07-01", "2020-09-30"),
-    2019: ("2019-03-01", "2019-09-30"),
-    2018: ("2018-03-01", "2018-09-30"),
-    2017: ("2017-03-01", "2017-09-30"),
 }
 
-YEAR_TO_UPDATE = 2025
+YEAR_TO_UPDATE = 2026
 
 start_date, end_date = SEASONS[YEAR_TO_UPDATE]
 
