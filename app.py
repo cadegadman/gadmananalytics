@@ -77,6 +77,7 @@ base_situation_options = {
 
 def make_player_leaderboard(df, min_opps=0):
     lb = df.groupby("batter").agg(
+        team=("team", lambda x: x.mode().iloc[0] if not x.mode().empty else None),
         opportunities=("success", "count"),
         successes=("success", "sum")
     ).reset_index()
@@ -440,7 +441,7 @@ elif page == "Player Leaderboard":
         use_container_width=True,
         height=900,
         column_config={
-            "Logo": st.column_config.ImageColumn("Team", width="small")
+            "Logo": st.column_config.ImageColumn("", width="small")
         }
 )
     
