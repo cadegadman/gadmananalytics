@@ -77,6 +77,7 @@ base_situation_options = {
 
 def make_player_leaderboard(df, min_opps=0):
     lb = df.groupby("batter").agg(
+        team=("team", lambda x: x.mode().iloc[0] if not x.mode().empty else None),
         opportunities=("success", "count"),
         successes=("success", "sum")
     ).reset_index()
@@ -84,10 +85,21 @@ def make_player_leaderboard(df, min_opps=0):
     lb["success_rate"] = lb["successes"] / lb["opportunities"]
     lb = lb[lb["opportunities"] >= min_opps]
     lb["success_rate_display"] = lb["success_rate"].apply(format_avg)
+    lb["Logo"] = lb["team"].apply(get_team_logo)
     lb = lb.sort_values("success_rate", ascending=False)
 
-    display = lb[["batter", "opportunities", "successes", "success_rate_display"]].rename(columns={
+    display = lb[
+        [
+            "Logo",
+            "batter",
+            "team",
+            "opportunities",
+            "successes",
+            "success_rate_display"
+        ]
+    ].rename(columns={
         "batter": "Player",
+        "team": "Team",
         "opportunities": "Opportunities",
         "successes": "Successes",
         "success_rate_display": "OSR"
@@ -233,8 +245,11 @@ if page == "Home":
         st.dataframe(
         make_player_leaderboard(all_plays, min_opps=200).head(10),
         use_container_width=True,
-        height=400
-    )
+        height=400,
+        column_config={
+            "Logo": st.column_config.ImageColumn("Team", width="small")
+        }
+)
 
     with col2:
         st.subheader("Top 10 Teams")
@@ -425,8 +440,11 @@ elif page == "Player Leaderboard":
     st.subheader("Player Leaderboard")
     st.dataframe(
     make_player_leaderboard(filtered, min_opportunities),
-    use_container_width=True,
-    height=900
+        use_container_width=True,
+        height=900,
+        column_config={
+            "Logo": st.column_config.ImageColumn("Team", width="small")
+        }
 )
     
 elif page == "Team Leaderboard":
