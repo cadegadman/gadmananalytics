@@ -77,7 +77,6 @@ base_situation_options = {
 
 def make_player_leaderboard(df, min_opps=0):
     lb = df.groupby("batter").agg(
-        team=("team", lambda x: x.mode().iloc[0] if not x.mode().empty else None),
         opportunities=("success", "count"),
         successes=("success", "sum")
     ).reset_index()
@@ -92,14 +91,12 @@ def make_player_leaderboard(df, min_opps=0):
         [
             "Logo",
             "batter",
-            "team",
             "opportunities",
             "successes",
             "success_rate_display"
         ]
     ].rename(columns={
         "batter": "Player",
-        "team": "Team",
         "opportunities": "Opportunities",
         "successes": "Successes",
         "success_rate_display": "OSR"
@@ -247,7 +244,7 @@ if page == "Home":
         use_container_width=True,
         height=400,
         column_config={
-            "Logo": st.column_config.ImageColumn("Team", width="small")
+            "Logo": st.column_config.ImageColumn ("", width="small")
         }
 )
 
