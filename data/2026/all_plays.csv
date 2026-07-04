@@ -95066,7 +95066,7 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 7,bottom,Toronto Blue Jays,Texas Rangers,Alejandro Kirk,1,empty,Groundout,"Alejandro Kirk grounds out, shortstop Corey Seager to first baseman Jake Burger.",False,False,False,False,False,2026-06-28,822795
 7,bottom,Toronto Blue Jays,Texas Rangers,Yohendrick Piñango,2,empty,Strikeout,Yohendrick Piñango strikes out swinging.,False,False,False,False,False,2026-06-28,822795
 8,top,Texas Rangers,Toronto Blue Jays,Ezequiel Duran,0,empty,Flyout,Ezequiel Duran flies out to right fielder Nathan Lukes.,False,False,False,False,False,2026-06-28,822795
-8,top,Texas Rangers,Toronto Blue Jays,Nicky Lopez,1,empty,Single,"Nicky Lopez singles on a ground ball to shortstop Andrés Giménez, deflected by second baseman Ernie Clement.",True,False,False,False,True,2026-06-28,822795
+8,top,Texas Rangers,Toronto Blue Jays,Nicky Lopez,1,empty,Field Error,Nicky Lopez reaches on a fielding error by second baseman Ernie Clement.,False,False,False,False,False,2026-06-28,822795
 8,top,Texas Rangers,Toronto Blue Jays,Elias Díaz,1,1st,Strikeout,Elias Díaz strikes out swinging.,False,False,False,False,False,2026-06-28,822795
 8,top,Texas Rangers,Toronto Blue Jays,Alejandro Osuna,2,empty,Caught Stealing 2B,"Nicky Lopez caught stealing 2nd base, catcher Alejandro Kirk to shortstop Andrés Giménez.",False,False,False,False,False,2026-06-28,822795
 8,bottom,Toronto Blue Jays,Texas Rangers,Andrés Giménez,0,empty,Strikeout,Andrés Giménez called out on strikes.,False,False,False,False,False,2026-06-28,822795
@@ -95718,7 +95718,7 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 2,bottom,Los Angeles Angels,Athletics,Jo Adell,0,empty,Flyout,Jo Adell flies out sharply to center fielder Henry Bolte.,False,False,False,False,False,2026-06-28,824011
 2,bottom,Los Angeles Angels,Athletics,Vaughn Grissom,1,empty,Single,Vaughn Grissom singles on a line drive to center fielder Henry Bolte.,True,False,False,False,True,2026-06-28,824011
 2,bottom,Los Angeles Angels,Athletics,Wade Meckler,1,1st,Walk,Wade Meckler walks. Vaughn Grissom to 2nd.,True,True,False,False,True,2026-06-28,824011
-2,bottom,Los Angeles Angels,Athletics,Oswald Peraza,1,1st_2nd,Single,Oswald Peraza singles on a sharp ground ball to second baseman Jeff McNeil. Vaughn Grissom to 3rd. Wade Meckler to 2nd.,True,True,False,False,True,2026-06-28,824011
+2,bottom,Los Angeles Angels,Athletics,Oswald Peraza,1,1st_2nd,Field Error,"Oswald Peraza reaches on a missed catch error by first baseman Joey Meneses, assist to second baseman Jeff McNeil. Vaughn Grissom to 3rd. Wade Meckler to 2nd.",False,True,False,False,True,2026-06-28,824011
 2,bottom,Los Angeles Angels,Athletics,Josh Lowe,1,loaded,Home Run,Josh Lowe hits a grand slam (6) to right field. Vaughn Grissom scores. Wade Meckler scores. Oswald Peraza scores.,True,True,True,False,True,2026-06-28,824011
 2,bottom,Los Angeles Angels,Athletics,Tyler Heineman,1,empty,Single,Tyler Heineman singles on a line drive to left fielder Colby Thomas.,True,False,False,False,True,2026-06-28,824011
 2,bottom,Los Angeles Angels,Athletics,Zach Neto,1,1st,Strikeout,Zach Neto called out on strikes.,False,False,False,False,False,2026-06-28,824011
@@ -96603,7 +96603,7 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 2,bottom,Houston Astros,Minnesota Twins,Cam Smith,2,empty,Groundout,"Cam Smith grounds out, shortstop Tristan Gray to first baseman Royce Lewis.",False,False,False,False,False,2026-06-29,824176
 3,top,Minnesota Twins,Houston Astros,Tristan Gray,0,empty,Walk,Tristan Gray walks.,True,False,False,False,True,2026-06-29,824176
 3,top,Minnesota Twins,Houston Astros,Luke Keaschall,0,1st,Flyout,Luke Keaschall flies out to left fielder Joey Loperfido.,False,False,False,False,False,2026-06-29,824176
-3,top,Minnesota Twins,Houston Astros,Trevor Larnach,1,empty,Forceout,"Trevor Larnach grounds into a force out, first baseman Christian Walker to shortstop Nick Allen. Tristan Gray out at 2nd. Trevor Larnach advances to 2nd, on a throwing error by shortstop Nick Allen.",False,True,False,False,False,2026-06-29,824176
+3,top,Minnesota Twins,Houston Astros,Trevor Larnach,1,empty,Forceout,"Trevor Larnach grounds into a force out, first baseman Christian Walker to shortstop Nick Allen. Tristan Gray out at 2nd. Trevor Larnach advances to 2nd, on a missed catch error by pitcher Peter Lambert, assist to shortstop Nick Allen.",False,True,False,False,False,2026-06-29,824176
 3,top,Minnesota Twins,Houston Astros,Brooks Lee,2,1st_2nd,Groundout,"Brooks Lee grounds out, second baseman Jose Altuve to first baseman Christian Walker.",False,False,False,False,False,2026-06-29,824176
 3,bottom,Houston Astros,Minnesota Twins,Joey Loperfido,0,empty,Strikeout,Joey Loperfido strikes out swinging.,False,False,False,False,False,2026-06-29,824176
 3,bottom,Houston Astros,Minnesota Twins,Nick Allen,1,empty,Single,Nick Allen singles on a fly ball to center fielder Ryan Kreidler.,True,False,False,False,True,2026-06-29,824176
@@ -99890,3 +99890,998 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 9,top,San Diego Padres,Los Angeles Dodgers,Manny Machado,2,empty,Walk,Manny Machado walks.,True,True,False,False,True,2026-07-02,823935
 9,top,San Diego Padres,Los Angeles Dodgers,Miguel Andujar,2,1st_2nd,Single,Miguel Andujar singles on a line drive to center fielder Andy Pages. Samad Taylor scores. Manny Machado to 2nd.,True,True,True,False,True,2026-07-02,823935
 9,top,San Diego Padres,Los Angeles Dodgers,Ty France,2,loaded,Groundout,"Ty France grounds out sharply, shortstop Mookie Betts to first baseman Freddie Freeman.",False,False,False,False,False,2026-07-02,823935
+1,top,St. Louis Cardinals,Chicago Cubs,JJ Wetherholt,0,empty,Single,JJ Wetherholt singles on a fly ball to left fielder Ian Happ.,True,False,False,False,True,2026-07-03,824659
+1,top,St. Louis Cardinals,Chicago Cubs,Iván Herrera,0,1st,Lineout,"Iván Herrera lines out to shortstop Dansby Swanson. Missed catch error by first baseman Michael Busch, assist to shortstop Dansby Swanson.",False,True,False,False,True,2026-07-03,824659
+1,top,St. Louis Cardinals,Chicago Cubs,Jordan Walker,1,3rd,Strikeout,Jordan Walker strikes out swinging.,False,False,False,False,False,2026-07-03,824659
+1,top,St. Louis Cardinals,Chicago Cubs,Nelson Velázquez,2,empty,Lineout,Nelson Velázquez lines out sharply to right fielder Seiya Suzuki.,False,False,False,False,False,2026-07-03,824659
+1,bottom,Chicago Cubs,St. Louis Cardinals,Pete Crow-Armstrong,0,empty,Flyout,Pete Crow-Armstrong flies out to left fielder José Fermín.,False,False,False,False,False,2026-07-03,824659
+1,bottom,Chicago Cubs,St. Louis Cardinals,Alex Bregman,1,empty,Groundout,"Alex Bregman grounds out, pitcher Andre Pallante to first baseman Alec Burleson.",False,False,False,False,False,2026-07-03,824659
+1,bottom,Chicago Cubs,St. Louis Cardinals,Michael Busch,2,empty,Single,Michael Busch singles on a ground ball to third baseman Blaze Jordan.,True,False,False,False,True,2026-07-03,824659
+1,bottom,Chicago Cubs,St. Louis Cardinals,Seiya Suzuki,2,1st,Walk,Seiya Suzuki walks. Michael Busch to 2nd.,True,True,False,False,True,2026-07-03,824659
+1,bottom,Chicago Cubs,St. Louis Cardinals,Ian Happ,2,1st_2nd,Strikeout,Ian Happ strikes out swinging.,False,False,False,False,False,2026-07-03,824659
+2,top,St. Louis Cardinals,Chicago Cubs,Alec Burleson,0,empty,Groundout,"Alec Burleson grounds out, pitcher David Peterson to first baseman Michael Busch.",False,False,False,False,False,2026-07-03,824659
+2,top,St. Louis Cardinals,Chicago Cubs,Masyn Winn,1,empty,Strikeout,Masyn Winn called out on strikes.,False,False,False,False,False,2026-07-03,824659
+2,top,St. Louis Cardinals,Chicago Cubs,José Fermín,2,empty,Double,José Fermín doubles (7) on a line drive to left fielder Ian Happ.,True,False,False,False,True,2026-07-03,824659
+2,top,St. Louis Cardinals,Chicago Cubs,Blaze Jordan,2,2nd,Single,"Blaze Jordan singles on a line drive to shortstop Dansby Swanson, deflected by pitcher David Peterson. José Fermín to 3rd.",True,True,False,False,True,2026-07-03,824659
+2,top,St. Louis Cardinals,Chicago Cubs,Nathan Church,2,1st_3rd,Home Run,Nathan Church homers (8) on a fly ball to right field. José Fermín scores. Blaze Jordan scores.,True,True,True,False,True,2026-07-03,824659
+2,top,St. Louis Cardinals,Chicago Cubs,JJ Wetherholt,2,empty,Strikeout,JJ Wetherholt strikes out swinging.,False,False,False,False,False,2026-07-03,824659
+2,bottom,Chicago Cubs,St. Louis Cardinals,Nico Hoerner,0,empty,Lineout,Nico Hoerner lines out to right fielder Jordan Walker.,False,False,False,False,False,2026-07-03,824659
+2,bottom,Chicago Cubs,St. Louis Cardinals,Michael Conforto,1,empty,Groundout,"Michael Conforto grounds out, second baseman JJ Wetherholt to first baseman Alec Burleson.",False,False,False,False,False,2026-07-03,824659
+2,bottom,Chicago Cubs,St. Louis Cardinals,Carson Kelly,2,empty,Single,Carson Kelly singles on a ground ball to shortstop Masyn Winn.,True,False,False,False,True,2026-07-03,824659
+2,bottom,Chicago Cubs,St. Louis Cardinals,Dansby Swanson,2,1st,Flyout,Dansby Swanson flies out to right fielder Jordan Walker.,False,False,False,False,False,2026-07-03,824659
+3,top,St. Louis Cardinals,Chicago Cubs,Iván Herrera,0,empty,Single,Iván Herrera singles on a line drive to center fielder Pete Crow-Armstrong.,True,False,False,False,True,2026-07-03,824659
+3,top,St. Louis Cardinals,Chicago Cubs,Jordan Walker,0,1st,Double,Jordan Walker doubles (17) on a line drive to left fielder Ian Happ. Iván Herrera to 3rd.,True,True,False,False,True,2026-07-03,824659
+3,top,St. Louis Cardinals,Chicago Cubs,Nelson Velázquez,0,2nd_3rd,Sac Fly,Nelson Velázquez out on a sacrifice fly to center fielder Pete Crow-Armstrong. Iván Herrera scores. Jordan Walker to 3rd.,False,True,True,False,True,2026-07-03,824659
+3,top,St. Louis Cardinals,Chicago Cubs,Alec Burleson,1,3rd,Groundout,Alec Burleson grounds out to first baseman Michael Busch.,False,False,False,False,False,2026-07-03,824659
+3,top,St. Louis Cardinals,Chicago Cubs,Masyn Winn,2,empty,Single,Masyn Winn singles on a line drive to right fielder Seiya Suzuki. Jordan Walker scores.,True,True,True,False,True,2026-07-03,824659
+3,top,St. Louis Cardinals,Chicago Cubs,José Fermín,2,1st,Double,José Fermín doubles (8) on a line drive to center fielder Pete Crow-Armstrong. Masyn Winn scores.,True,True,True,False,True,2026-07-03,824659
+3,top,St. Louis Cardinals,Chicago Cubs,Blaze Jordan,2,2nd_3rd,Flyout,Blaze Jordan flies out to center fielder Pete Crow-Armstrong.,False,False,False,False,False,2026-07-03,824659
+3,bottom,Chicago Cubs,St. Louis Cardinals,Pete Crow-Armstrong,0,empty,Double,"Pete Crow-Armstrong doubles (14) on a sharp line drive to center fielder Nathan Church, deflected by right fielder Jordan Walker.",True,False,False,False,True,2026-07-03,824659
+3,bottom,Chicago Cubs,St. Louis Cardinals,Alex Bregman,0,2nd,Groundout,"Alex Bregman grounds out, third baseman Blaze Jordan to first baseman Alec Burleson. Pete Crow-Armstrong to 3rd.",False,True,False,False,True,2026-07-03,824659
+3,bottom,Chicago Cubs,St. Louis Cardinals,Michael Busch,1,3rd,Flyout,Michael Busch flies out to left fielder José Fermín.,False,False,False,False,False,2026-07-03,824659
+3,bottom,Chicago Cubs,St. Louis Cardinals,Seiya Suzuki,2,empty,Flyout,Seiya Suzuki flies out to center fielder Nathan Church.,False,False,False,False,False,2026-07-03,824659
+4,top,St. Louis Cardinals,Chicago Cubs,Nathan Church,0,empty,Flyout,Nathan Church flies out sharply to center fielder Pete Crow-Armstrong.,False,False,False,False,False,2026-07-03,824659
+4,top,St. Louis Cardinals,Chicago Cubs,JJ Wetherholt,1,empty,Lineout,JJ Wetherholt lines out to right fielder Seiya Suzuki.,False,False,False,False,False,2026-07-03,824659
+4,top,St. Louis Cardinals,Chicago Cubs,Iván Herrera,2,empty,Walk,Iván Herrera walks.,True,False,False,False,True,2026-07-03,824659
+4,top,St. Louis Cardinals,Chicago Cubs,Jordan Walker,2,1st,Walk,Jordan Walker walks. Iván Herrera to 2nd.,True,True,False,False,True,2026-07-03,824659
+4,top,St. Louis Cardinals,Chicago Cubs,Nelson Velázquez,2,1st_2nd,Walk,Nelson Velázquez walks. Iván Herrera to 3rd. Jordan Walker to 2nd.,True,True,False,False,True,2026-07-03,824659
+4,top,St. Louis Cardinals,Chicago Cubs,Alec Burleson,2,loaded,Single,Alec Burleson singles on a sharp line drive to right fielder Seiya Suzuki. Iván Herrera scores. Jordan Walker scores. Nelson Velázquez to 3rd.,True,True,True,False,True,2026-07-03,824659
+4,top,St. Louis Cardinals,Chicago Cubs,Masyn Winn,2,loaded,Home Run,Masyn Winn homers (4) on a fly ball to left center field. Nelson Velázquez scores. Alec Burleson scores.,True,True,True,False,True,2026-07-03,824659
+4,top,St. Louis Cardinals,Chicago Cubs,José Fermín,2,empty,Lineout,José Fermín lines out to right fielder Seiya Suzuki.,False,False,False,False,False,2026-07-03,824659
+4,bottom,Chicago Cubs,St. Louis Cardinals,Ian Happ,0,empty,Groundout,"Ian Happ grounds out, first baseman Alec Burleson to pitcher Andre Pallante.",False,False,False,False,False,2026-07-03,824659
+4,bottom,Chicago Cubs,St. Louis Cardinals,Nico Hoerner,1,empty,Field Error,Nico Hoerner reaches on a fielding error by first baseman Alec Burleson.,False,False,False,False,False,2026-07-03,824659
+4,bottom,Chicago Cubs,St. Louis Cardinals,Michael Conforto,1,1st,Flyout,Michael Conforto flies out to center fielder Nathan Church.,False,False,False,False,False,2026-07-03,824659
+4,bottom,Chicago Cubs,St. Louis Cardinals,Carson Kelly,2,empty,Forceout,"Carson Kelly grounds into a force out, second baseman JJ Wetherholt to shortstop Masyn Winn. Nico Hoerner out at 2nd.",False,False,False,False,False,2026-07-03,824659
+5,top,St. Louis Cardinals,Chicago Cubs,Blaze Jordan,0,empty,Single,Blaze Jordan singles on a line drive to right fielder Seiya Suzuki.,True,False,False,False,True,2026-07-03,824659
+5,top,St. Louis Cardinals,Chicago Cubs,Nathan Church,0,1st,Strikeout,Nathan Church strikes out swinging.,False,False,False,False,False,2026-07-03,824659
+5,top,St. Louis Cardinals,Chicago Cubs,JJ Wetherholt,1,empty,Lineout,JJ Wetherholt lines out sharply to left fielder Ian Happ.,False,False,False,False,False,2026-07-03,824659
+5,top,St. Louis Cardinals,Chicago Cubs,Iván Herrera,2,empty,Single,Iván Herrera singles on a fly ball to center fielder Pete Crow-Armstrong. Blaze Jordan to 3rd.,True,True,False,False,True,2026-07-03,824659
+5,top,St. Louis Cardinals,Chicago Cubs,Jordan Walker,2,loaded,Hit By Pitch,Jordan Walker hit by pitch. Iván Herrera to 2nd.,True,True,False,False,True,2026-07-03,824659
+5,top,St. Louis Cardinals,Chicago Cubs,Nelson Velázquez,2,1st_2nd,Walk,Nelson Velázquez walks. Blaze Jordan scores. Iván Herrera to 3rd. Jordan Walker to 2nd.,True,True,True,False,True,2026-07-03,824659
+5,top,St. Louis Cardinals,Chicago Cubs,Alec Burleson,2,loaded,Single,Alec Burleson singles on a sharp line drive to right fielder Seiya Suzuki. Iván Herrera scores. Jordan Walker scores. Nelson Velázquez to 3rd.,True,True,True,False,True,2026-07-03,824659
+5,top,St. Louis Cardinals,Chicago Cubs,Masyn Winn,2,loaded,Forceout,"Masyn Winn grounds into a force out, third baseman Alex Bregman to second baseman Nico Hoerner. Alec Burleson out at 2nd.",False,False,False,False,False,2026-07-03,824659
+5,bottom,Chicago Cubs,St. Louis Cardinals,Dansby Swanson,0,empty,Groundout,"Dansby Swanson grounds out, shortstop Masyn Winn to first baseman Alec Burleson.",False,False,False,False,False,2026-07-03,824659
+5,bottom,Chicago Cubs,St. Louis Cardinals,Pete Crow-Armstrong,1,empty,Flyout,Pete Crow-Armstrong flies out to center fielder Nathan Church.,False,False,False,False,False,2026-07-03,824659
+5,bottom,Chicago Cubs,St. Louis Cardinals,Alex Bregman,2,empty,Single,Alex Bregman singles on a line drive to left fielder José Fermín.,True,False,False,False,True,2026-07-03,824659
+5,bottom,Chicago Cubs,St. Louis Cardinals,Michael Busch,2,1st,Groundout,"Michael Busch grounds out, third baseman Blaze Jordan to first baseman Alec Burleson.",False,False,False,False,False,2026-07-03,824659
+6,top,St. Louis Cardinals,Chicago Cubs,José Fermín,0,empty,Strikeout,José Fermín strikes out swinging.,False,False,False,False,False,2026-07-03,824659
+6,top,St. Louis Cardinals,Chicago Cubs,Blaze Jordan,1,empty,Single,Blaze Jordan singles on a line drive to left fielder Ian Happ.,True,False,False,False,True,2026-07-03,824659
+6,top,St. Louis Cardinals,Chicago Cubs,Nathan Church,1,1st,Single,Nathan Church singles on a sharp line drive to center fielder Pete Crow-Armstrong. Blaze Jordan to 3rd.,True,True,False,False,True,2026-07-03,824659
+6,top,St. Louis Cardinals,Chicago Cubs,JJ Wetherholt,1,loaded,Hit By Pitch,JJ Wetherholt hit by pitch. Nathan Church to 2nd.,True,True,False,False,False,2026-07-03,824659
+6,top,St. Louis Cardinals,Chicago Cubs,Iván Herrera,1,1st_2nd,Single,Iván Herrera singles on a ground ball to center fielder Pete Crow-Armstrong. Blaze Jordan scores. Nathan Church scores. JJ Wetherholt to 2nd.,True,True,True,False,True,2026-07-03,824659
+6,top,St. Louis Cardinals,Chicago Cubs,Jordan Walker,1,loaded,Strikeout,Jordan Walker strikes out swinging.,False,False,False,False,False,2026-07-03,824659
+6,top,St. Louis Cardinals,Chicago Cubs,Nelson Velázquez,2,empty,Forceout,"Nelson Velázquez grounds into a force out, shortstop Dansby Swanson to second baseman Nico Hoerner. Iván Herrera out at 2nd.",False,False,False,False,False,2026-07-03,824659
+6,bottom,Chicago Cubs,St. Louis Cardinals,Seiya Suzuki,0,empty,Strikeout,Seiya Suzuki called out on strikes.,False,False,False,False,False,2026-07-03,824659
+6,bottom,Chicago Cubs,St. Louis Cardinals,Ian Happ,1,empty,Lineout,Ian Happ lines out sharply to center fielder Nathan Church.,False,False,False,False,False,2026-07-03,824659
+6,bottom,Chicago Cubs,St. Louis Cardinals,Nico Hoerner,2,empty,Double,Nico Hoerner doubles (22) on a ground ball to left fielder José Fermín.,True,False,False,False,True,2026-07-03,824659
+6,bottom,Chicago Cubs,St. Louis Cardinals,Michael Conforto,2,2nd,Strikeout,Michael Conforto called out on strikes.,False,False,False,False,False,2026-07-03,824659
+7,top,St. Louis Cardinals,Chicago Cubs,Alec Burleson,0,empty,Pop Out,Alec Burleson pops out to second baseman Pedro Ramírez.,False,False,False,False,False,2026-07-03,824659
+7,top,St. Louis Cardinals,Chicago Cubs,Bryan Torres,1,empty,Home Run,Bryan Torres homers (4) on a fly ball to right field.,True,False,True,False,True,2026-07-03,824659
+7,top,St. Louis Cardinals,Chicago Cubs,José Fermín,1,empty,Groundout,"José Fermín grounds out, shortstop Nico Hoerner to first baseman Michael Busch.",False,False,False,False,False,2026-07-03,824659
+7,top,St. Louis Cardinals,Chicago Cubs,Blaze Jordan,2,empty,Strikeout,Blaze Jordan strikes out swinging.,False,False,False,False,False,2026-07-03,824659
+7,bottom,Chicago Cubs,St. Louis Cardinals,Carson Kelly,0,empty,Flyout,Carson Kelly flies out to center fielder Nathan Church.,False,False,False,False,False,2026-07-03,824659
+7,bottom,Chicago Cubs,St. Louis Cardinals,Pedro Ramírez,1,empty,Triple,Pedro Ramírez triples (1) on a sharp line drive to right fielder Jordan Walker.,True,False,False,False,True,2026-07-03,824659
+7,bottom,Chicago Cubs,St. Louis Cardinals,Justin Dean,1,3rd,Strikeout,Justin Dean strikes out swinging.,False,False,False,False,False,2026-07-03,824659
+7,bottom,Chicago Cubs,St. Louis Cardinals,Alex Bregman,2,empty,Double,Alex Bregman doubles (12) on a ground ball to left fielder Bryan Torres. Pedro Ramírez scores.,True,True,True,False,True,2026-07-03,824659
+7,bottom,Chicago Cubs,St. Louis Cardinals,Michael Busch,2,2nd,Strikeout,Michael Busch strikes out on a foul tip.,False,False,False,False,False,2026-07-03,824659
+8,top,St. Louis Cardinals,Chicago Cubs,Nathan Church,0,empty,Pop Out,Nathan Church pops out to second baseman Pedro Ramírez.,False,False,False,False,False,2026-07-03,824659
+8,top,St. Louis Cardinals,Chicago Cubs,JJ Wetherholt,1,empty,Flyout,JJ Wetherholt flies out to center fielder Justin Dean.,False,False,False,False,False,2026-07-03,824659
+8,top,St. Louis Cardinals,Chicago Cubs,Jimmy Crooks,2,empty,Hit By Pitch,Jimmy Crooks hit by pitch.,True,False,False,False,True,2026-07-03,824659
+8,top,St. Louis Cardinals,Chicago Cubs,Jordan Walker,2,1st,Lineout,Jordan Walker lines out sharply to center fielder Justin Dean.,False,False,False,False,False,2026-07-03,824659
+8,bottom,Chicago Cubs,St. Louis Cardinals,Seiya Suzuki,0,empty,Groundout,"Seiya Suzuki grounds out, third baseman Blaze Jordan to first baseman Pedro Pagés.",False,False,False,False,False,2026-07-03,824659
+8,bottom,Chicago Cubs,St. Louis Cardinals,Kevin Alcántara,1,empty,Lineout,Kevin Alcántara lines out to left fielder Bryan Torres.,False,False,False,False,False,2026-07-03,824659
+8,bottom,Chicago Cubs,St. Louis Cardinals,Nico Hoerner,2,empty,Flyout,Nico Hoerner flies out to center fielder Nathan Church.,False,False,False,False,False,2026-07-03,824659
+9,top,St. Louis Cardinals,Chicago Cubs,Nelson Velázquez,0,empty,Flyout,Nelson Velázquez flies out to right fielder Seiya Suzuki.,False,False,False,False,False,2026-07-03,824659
+9,top,St. Louis Cardinals,Chicago Cubs,Pedro Pagés,1,empty,Groundout,"Pedro Pagés grounds out, shortstop Nico Hoerner to first baseman Michael Busch.",False,False,False,False,False,2026-07-03,824659
+9,top,St. Louis Cardinals,Chicago Cubs,Bryan Torres,2,empty,Groundout,Bryan Torres grounds out to first baseman Michael Busch.,False,False,False,False,False,2026-07-03,824659
+9,bottom,Chicago Cubs,St. Louis Cardinals,Michael Conforto,0,empty,Flyout,Michael Conforto flies out to right fielder Jordan Walker.,False,False,False,False,False,2026-07-03,824659
+9,bottom,Chicago Cubs,St. Louis Cardinals,Carson Kelly,1,empty,Strikeout,Carson Kelly strikes out on a foul tip.,False,False,False,False,False,2026-07-03,824659
+9,bottom,Chicago Cubs,St. Louis Cardinals,Pedro Ramírez,2,empty,Lineout,Pedro Ramírez lines out to first baseman Pedro Pagés.,False,False,False,False,False,2026-07-03,824659
+1,top,Pittsburgh Pirates,Washington Nationals,Konnor Griffin,0,empty,Single,Konnor Griffin singles on a sharp line drive to center fielder Dylan Crews.,True,False,False,False,True,2026-07-03,822714
+1,top,Pittsburgh Pirates,Washington Nationals,Brandon Lowe,0,1st,Flyout,Brandon Lowe flies out to shortstop CJ Abrams.,False,False,False,False,False,2026-07-03,822714
+1,top,Pittsburgh Pirates,Washington Nationals,Bryan Reynolds,1,empty,Fielders Choice,"Bryan Reynolds reaches on a fielder's choice. Konnor Griffin to 2nd. Konnor Griffin advances to 2nd, on a fielding error by shortstop CJ Abrams.",False,True,False,False,False,2026-07-03,822714
+1,top,Pittsburgh Pirates,Washington Nationals,Esmerlyn Valdez,1,1st_2nd,Grounded Into DP,"Esmerlyn Valdez grounds into a double play, third baseman Jorbit Vivas to second baseman Nasim Nuñez to first baseman Luis García Jr. Bryan Reynolds out at 2nd. Esmerlyn Valdez out at 1st.",False,False,False,True,False,2026-07-03,822714
+1,bottom,Washington Nationals,Pittsburgh Pirates,James Wood,0,empty,Lineout,James Wood lines out to left fielder Bryan Reynolds.,False,False,False,False,False,2026-07-03,822714
+1,bottom,Washington Nationals,Pittsburgh Pirates,Luis García Jr.,1,empty,Home Run,Luis García Jr. homers (17) on a line drive to right field.,True,False,True,False,True,2026-07-03,822714
+1,bottom,Washington Nationals,Pittsburgh Pirates,José Tena,1,empty,Lineout,José Tena lines out to shortstop Konnor Griffin.,False,False,False,False,False,2026-07-03,822714
+1,bottom,Washington Nationals,Pittsburgh Pirates,CJ Abrams,2,empty,Pop Out,CJ Abrams pops out to third baseman Jared Triolo in foul territory.,False,False,False,False,False,2026-07-03,822714
+2,top,Pittsburgh Pirates,Washington Nationals,Ryan O'Hearn,0,empty,Groundout,"Ryan O'Hearn grounds out, first baseman Luis García Jr. to pitcher Foster Griffin.",False,False,False,False,False,2026-07-03,822714
+2,top,Pittsburgh Pirates,Washington Nationals,Nick Gonzales,1,empty,Groundout,"Nick Gonzales grounds out, second baseman Nasim Nuñez to first baseman Luis García Jr.",False,False,False,False,False,2026-07-03,822714
+2,top,Pittsburgh Pirates,Washington Nationals,Jake Mangum,2,empty,Single,Jake Mangum singles on a line drive to right fielder James Wood.,True,False,False,False,True,2026-07-03,822714
+2,top,Pittsburgh Pirates,Washington Nationals,Endy Rodríguez,2,1st,Walk,Endy Rodríguez walks.,True,True,False,False,True,2026-07-03,822714
+2,top,Pittsburgh Pirates,Washington Nationals,Jared Triolo,2,1st_2nd,Groundout,"Jared Triolo grounds out, first baseman Luis García Jr. to pitcher Foster Griffin.",False,False,False,False,False,2026-07-03,822714
+2,bottom,Washington Nationals,Pittsburgh Pirates,Dylan Crews,0,empty,Flyout,Dylan Crews flies out to right fielder Esmerlyn Valdez in foul territory.,False,False,False,False,False,2026-07-03,822714
+2,bottom,Washington Nationals,Pittsburgh Pirates,Daylen Lile,1,empty,Home Run,Daylen Lile homers (9) on a line drive to center field.,True,False,True,False,True,2026-07-03,822714
+2,bottom,Washington Nationals,Pittsburgh Pirates,Keibert Ruiz,1,empty,Flyout,Keibert Ruiz flies out to center fielder Jake Mangum.,False,False,False,False,False,2026-07-03,822714
+2,bottom,Washington Nationals,Pittsburgh Pirates,Jorbit Vivas,2,empty,Single,Jorbit Vivas singles on a line drive to left fielder Bryan Reynolds.,True,False,False,False,True,2026-07-03,822714
+2,bottom,Washington Nationals,Pittsburgh Pirates,Nasim Nuñez,2,1st,Flyout,Nasim Nuñez flies out to left fielder Bryan Reynolds.,False,False,False,False,False,2026-07-03,822714
+3,top,Pittsburgh Pirates,Washington Nationals,Konnor Griffin,0,empty,Flyout,Konnor Griffin flies out to left fielder Daylen Lile.,False,False,False,False,False,2026-07-03,822714
+3,top,Pittsburgh Pirates,Washington Nationals,Brandon Lowe,1,empty,Strikeout,Brandon Lowe strikes out swinging.,False,False,False,False,False,2026-07-03,822714
+3,top,Pittsburgh Pirates,Washington Nationals,Bryan Reynolds,2,empty,Home Run,Bryan Reynolds homers (12) on a fly ball to center field.,True,False,True,False,True,2026-07-03,822714
+3,top,Pittsburgh Pirates,Washington Nationals,Esmerlyn Valdez,2,empty,Strikeout,Esmerlyn Valdez strikes out swinging.,False,False,False,False,False,2026-07-03,822714
+3,bottom,Washington Nationals,Pittsburgh Pirates,James Wood,0,empty,Triple,James Wood triples (1) on a sharp line drive to right fielder Esmerlyn Valdez.,True,False,False,False,True,2026-07-03,822714
+3,bottom,Washington Nationals,Pittsburgh Pirates,Luis García Jr.,0,3rd,Flyout,Luis García Jr. flies out to shortstop Konnor Griffin.,False,False,False,False,False,2026-07-03,822714
+3,bottom,Washington Nationals,Pittsburgh Pirates,José Tena,1,empty,Home Run,José Tena homers (4) on a fly ball to center field. James Wood scores.,True,True,True,False,True,2026-07-03,822714
+3,bottom,Washington Nationals,Pittsburgh Pirates,CJ Abrams,1,empty,Single,CJ Abrams singles on a line drive to right fielder Esmerlyn Valdez.,True,False,False,False,True,2026-07-03,822714
+3,bottom,Washington Nationals,Pittsburgh Pirates,Dylan Crews,1,1st,Lineout,Dylan Crews lines out to left fielder Bryan Reynolds.,False,False,False,False,False,2026-07-03,822714
+3,bottom,Washington Nationals,Pittsburgh Pirates,Daylen Lile,2,empty,Double,Daylen Lile doubles (20) on a line drive to right fielder Esmerlyn Valdez. CJ Abrams scores.,True,True,True,False,True,2026-07-03,822714
+3,bottom,Washington Nationals,Pittsburgh Pirates,Keibert Ruiz,2,2nd_3rd,Groundout,"Keibert Ruiz grounds out, first baseman Ryan O'Hearn to pitcher Mitch Keller.",False,False,False,False,False,2026-07-03,822714
+4,top,Pittsburgh Pirates,Washington Nationals,Ryan O'Hearn,0,empty,Flyout,Ryan O'Hearn flies out to left fielder Daylen Lile.,False,False,False,False,False,2026-07-03,822714
+4,top,Pittsburgh Pirates,Washington Nationals,Nick Gonzales,1,empty,Groundout,"Nick Gonzales grounds out, second baseman Nasim Nuñez to first baseman Luis García Jr.",False,False,False,False,False,2026-07-03,822714
+4,top,Pittsburgh Pirates,Washington Nationals,Jake Mangum,2,empty,Groundout,"Jake Mangum grounds out, pitcher Foster Griffin to second baseman Nasim Nuñez to first baseman Luis García Jr.",False,False,False,False,False,2026-07-03,822714
+4,bottom,Washington Nationals,Pittsburgh Pirates,Jorbit Vivas,0,empty,Groundout,"Jorbit Vivas grounds out, second baseman Nick Gonzales to first baseman Ryan O'Hearn.",False,False,False,False,False,2026-07-03,822714
+4,bottom,Washington Nationals,Pittsburgh Pirates,Nasim Nuñez,1,empty,Strikeout,Nasim Nuñez called out on strikes.,False,False,False,False,False,2026-07-03,822714
+4,bottom,Washington Nationals,Pittsburgh Pirates,James Wood,2,empty,Double,James Wood doubles (22) on a sharp line drive to right fielder Esmerlyn Valdez.,True,False,False,False,True,2026-07-03,822714
+4,bottom,Washington Nationals,Pittsburgh Pirates,Luis García Jr.,2,2nd,Lineout,Luis García Jr. lines out to center fielder Jake Mangum.,False,False,False,False,False,2026-07-03,822714
+5,top,Pittsburgh Pirates,Washington Nationals,Endy Rodríguez,0,empty,Groundout,"Endy Rodríguez grounds out, third baseman Jorbit Vivas to first baseman Luis García Jr.",False,False,False,False,False,2026-07-03,822714
+5,top,Pittsburgh Pirates,Washington Nationals,Jared Triolo,1,empty,Lineout,Jared Triolo lines out to center fielder Dylan Crews.,False,False,False,False,False,2026-07-03,822714
+5,top,Pittsburgh Pirates,Washington Nationals,Konnor Griffin,2,empty,Single,Konnor Griffin singles on a sharp line drive to left fielder Daylen Lile.,True,False,False,False,True,2026-07-03,822714
+5,top,Pittsburgh Pirates,Washington Nationals,Brandon Lowe,2,1st,Groundout,"Brandon Lowe grounds out softly, pitcher Foster Griffin to first baseman Luis García Jr.",False,False,False,False,False,2026-07-03,822714
+5,bottom,Washington Nationals,Pittsburgh Pirates,José Tena,0,empty,Groundout,"José Tena grounds out, second baseman Nick Gonzales to first baseman Ryan O'Hearn.",False,False,False,False,False,2026-07-03,822714
+5,bottom,Washington Nationals,Pittsburgh Pirates,CJ Abrams,1,empty,Groundout,"CJ Abrams grounds out, shortstop Konnor Griffin to first baseman Ryan O'Hearn.",False,False,False,False,False,2026-07-03,822714
+5,bottom,Washington Nationals,Pittsburgh Pirates,Dylan Crews,2,empty,Groundout,"Dylan Crews grounds out, second baseman Nick Gonzales to first baseman Ryan O'Hearn.",False,False,False,False,False,2026-07-03,822714
+6,top,Pittsburgh Pirates,Washington Nationals,Bryan Reynolds,0,empty,Strikeout,Bryan Reynolds strikes out swinging.,False,False,False,False,False,2026-07-03,822714
+6,top,Pittsburgh Pirates,Washington Nationals,Esmerlyn Valdez,1,empty,Single,Esmerlyn Valdez singles on a soft ground ball to third baseman Jorbit Vivas.,True,False,False,False,True,2026-07-03,822714
+6,top,Pittsburgh Pirates,Washington Nationals,Ryan O'Hearn,1,1st,Strikeout,Ryan O'Hearn called out on strikes.,False,False,False,False,False,2026-07-03,822714
+6,top,Pittsburgh Pirates,Washington Nationals,Nick Gonzales,2,empty,Flyout,Nick Gonzales flies out to right fielder James Wood.,False,False,False,False,False,2026-07-03,822714
+6,bottom,Washington Nationals,Pittsburgh Pirates,Daylen Lile,0,empty,Flyout,Daylen Lile flies out to right fielder Esmerlyn Valdez.,False,False,False,False,False,2026-07-03,822714
+6,bottom,Washington Nationals,Pittsburgh Pirates,Keibert Ruiz,1,empty,Flyout,Keibert Ruiz flies out to center fielder Jake Mangum.,False,False,False,False,False,2026-07-03,822714
+6,bottom,Washington Nationals,Pittsburgh Pirates,Jorbit Vivas,2,empty,Lineout,Jorbit Vivas lines out to center fielder Jake Mangum.,False,False,False,False,False,2026-07-03,822714
+7,top,Pittsburgh Pirates,Washington Nationals,Jake Mangum,0,empty,Flyout,Jake Mangum flies out to shortstop CJ Abrams.,False,False,False,False,False,2026-07-03,822714
+7,top,Pittsburgh Pirates,Washington Nationals,Endy Rodríguez,1,empty,Strikeout,Endy Rodríguez strikes out swinging.,False,False,False,False,False,2026-07-03,822714
+7,top,Pittsburgh Pirates,Washington Nationals,Jared Triolo,2,empty,Double,Jared Triolo hits a ground-rule double (9) on a line drive to left field.,True,False,False,False,True,2026-07-03,822714
+7,top,Pittsburgh Pirates,Washington Nationals,Konnor Griffin,2,2nd,Walk,Konnor Griffin walks.,True,True,False,False,True,2026-07-03,822714
+7,top,Pittsburgh Pirates,Washington Nationals,Brandon Lowe,2,1st_3rd,Walk,Brandon Lowe walks.,True,True,False,False,True,2026-07-03,822714
+7,top,Pittsburgh Pirates,Washington Nationals,Bryan Reynolds,2,1st_2nd,Strikeout,Bryan Reynolds strikes out swinging.,False,False,False,False,False,2026-07-03,822714
+7,bottom,Washington Nationals,Pittsburgh Pirates,Nasim Nuñez,0,empty,Single,Nasim Nuñez singles on a soft bunt ground ball to pitcher Isaac Mattson.,True,False,False,False,True,2026-07-03,822714
+7,bottom,Washington Nationals,Pittsburgh Pirates,James Wood,0,1st,Lineout,James Wood lines out sharply to left fielder Bryan Reynolds.,False,False,False,False,False,2026-07-03,822714
+7,bottom,Washington Nationals,Pittsburgh Pirates,Luis García Jr.,1,empty,Home Run,Luis García Jr. homers (18) on a line drive to right field. Nasim Nuñez scores.,True,True,True,False,True,2026-07-03,822714
+7,bottom,Washington Nationals,Pittsburgh Pirates,José Tena,1,empty,Groundout,"José Tena grounds out, shortstop Konnor Griffin to first baseman Ryan O'Hearn.",False,False,False,False,False,2026-07-03,822714
+7,bottom,Washington Nationals,Pittsburgh Pirates,CJ Abrams,2,empty,Strikeout,CJ Abrams strikes out swinging.,False,False,False,False,False,2026-07-03,822714
+8,top,Pittsburgh Pirates,Washington Nationals,Esmerlyn Valdez,0,empty,Single,Esmerlyn Valdez singles on a ground ball to center fielder Dylan Crews.,True,False,False,False,True,2026-07-03,822714
+8,top,Pittsburgh Pirates,Washington Nationals,Ryan O'Hearn,0,1st,Flyout,Ryan O'Hearn flies out to left fielder Daylen Lile.,False,False,False,False,False,2026-07-03,822714
+8,top,Pittsburgh Pirates,Washington Nationals,Nick Gonzales,1,empty,Strikeout,Nick Gonzales strikes out swinging.,False,False,False,False,False,2026-07-03,822714
+8,top,Pittsburgh Pirates,Washington Nationals,Jake Mangum,2,empty,Single,"Jake Mangum singles on a ground ball to shortstop CJ Abrams. Esmerlyn Valdez to 3rd. Esmerlyn Valdez advances to 3rd, on a throwing error by shortstop CJ Abrams.",True,True,False,False,True,2026-07-03,822714
+8,top,Pittsburgh Pirates,Washington Nationals,Endy Rodríguez,2,loaded,Flyout,Endy Rodríguez flies out to left fielder Daylen Lile.,False,True,False,False,False,2026-07-03,822714
+8,bottom,Washington Nationals,Pittsburgh Pirates,Dylan Crews,0,empty,Walk,Dylan Crews walks.,True,False,False,False,True,2026-07-03,822714
+8,bottom,Washington Nationals,Pittsburgh Pirates,Daylen Lile,0,1st,Home Run,Daylen Lile homers (10) on a fly ball to right field. Dylan Crews scores.,True,True,True,False,True,2026-07-03,822714
+8,bottom,Washington Nationals,Pittsburgh Pirates,Keibert Ruiz,0,empty,Flyout,Keibert Ruiz flies out to center fielder Jake Mangum.,False,False,False,False,False,2026-07-03,822714
+8,bottom,Washington Nationals,Pittsburgh Pirates,Jorbit Vivas,1,empty,Walk,Jorbit Vivas walks.,True,False,False,False,True,2026-07-03,822714
+8,bottom,Washington Nationals,Pittsburgh Pirates,Nasim Nuñez,1,1st,Single,Nasim Nuñez singles on a line drive to center fielder Jake Mangum. Jorbit Vivas to 2nd.,True,True,False,False,True,2026-07-03,822714
+8,bottom,Washington Nationals,Pittsburgh Pirates,James Wood,1,1st_2nd,Flyout,James Wood flies out to center fielder Jake Mangum.,False,False,False,False,False,2026-07-03,822714
+8,bottom,Washington Nationals,Pittsburgh Pirates,Luis García Jr.,2,empty,Walk,Luis García Jr. walks. Jorbit Vivas to 3rd. Nasim Nuñez to 2nd.,True,True,False,False,True,2026-07-03,822714
+8,bottom,Washington Nationals,Pittsburgh Pirates,José Tena,2,loaded,Groundout,"José Tena grounds out, pitcher Tyler Callihan to first baseman Ryan O'Hearn.",False,False,False,False,False,2026-07-03,822714
+9,top,Pittsburgh Pirates,Washington Nationals,Jared Triolo,0,empty,Double,Jared Triolo doubles (10) on a sharp line drive to center fielder Dylan Crews.,True,False,False,False,True,2026-07-03,822714
+9,top,Pittsburgh Pirates,Washington Nationals,Konnor Griffin,0,2nd,Groundout,"Konnor Griffin grounds out, shortstop CJ Abrams to first baseman Luis García Jr.",False,False,False,False,False,2026-07-03,822714
+9,top,Pittsburgh Pirates,Washington Nationals,Brandon Lowe,1,empty,Double,Brandon Lowe doubles (20) on a line drive to right fielder James Wood. Jared Triolo scores.,True,True,True,False,True,2026-07-03,822714
+9,top,Pittsburgh Pirates,Washington Nationals,Bryan Reynolds,1,2nd_3rd,Double,Bryan Reynolds doubles (21) on a sharp line drive to center fielder Dylan Crews. Brandon Lowe scores.,True,True,True,False,True,2026-07-03,822714
+9,top,Pittsburgh Pirates,Washington Nationals,Esmerlyn Valdez,1,2nd_3rd,Double,Esmerlyn Valdez doubles (5) on a sharp fly ball to right fielder James Wood. Bryan Reynolds scores.,True,True,True,False,True,2026-07-03,822714
+9,top,Pittsburgh Pirates,Washington Nationals,Ryan O'Hearn,1,2nd_3rd,Groundout,Ryan O'Hearn grounds out to pitcher Zak Kent. Esmerlyn Valdez to 3rd.,False,True,False,False,False,2026-07-03,822714
+9,top,Pittsburgh Pirates,Washington Nationals,Nick Gonzales,2,3rd,Double,Nick Gonzales doubles (12) on a line drive to right fielder James Wood. Esmerlyn Valdez scores.,True,True,True,False,True,2026-07-03,822714
+9,top,Pittsburgh Pirates,Washington Nationals,Jake Mangum,2,2nd,Pop Out,Jake Mangum pops out to shortstop CJ Abrams.,False,False,False,False,False,2026-07-03,822714
+1,top,Minnesota Twins,New York Yankees,Trevor Larnach,0,empty,Strikeout,Trevor Larnach called out on strikes.,False,False,False,False,False,2026-07-03,823527
+1,top,Minnesota Twins,New York Yankees,Brooks Lee,1,empty,Groundout,"Brooks Lee grounds out, first baseman Paul Goldschmidt to pitcher Gerrit Cole.",False,False,False,False,False,2026-07-03,823527
+1,top,Minnesota Twins,New York Yankees,Kody Clemens,2,empty,Home Run,Kody Clemens homers (15) on a fly ball to left center field.,True,False,True,False,True,2026-07-03,823527
+1,top,Minnesota Twins,New York Yankees,Josh Bell,2,empty,Strikeout,Josh Bell strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+1,bottom,New York Yankees,Minnesota Twins,Trent Grisham,0,empty,Home Run,Trent Grisham homers (9) on a fly ball to right field.,True,False,True,False,True,2026-07-03,823527
+1,bottom,New York Yankees,Minnesota Twins,Ben Rice,0,empty,Lineout,Ben Rice lines out to right fielder Luke Keaschall.,False,False,False,False,False,2026-07-03,823527
+1,bottom,New York Yankees,Minnesota Twins,Jasson Domínguez,1,empty,Lineout,Jasson Domínguez lines out to right fielder Luke Keaschall.,False,False,False,False,False,2026-07-03,823527
+1,bottom,New York Yankees,Minnesota Twins,Cody Bellinger,2,empty,Lineout,Cody Bellinger lines out sharply to right fielder Luke Keaschall.,False,False,False,False,False,2026-07-03,823527
+2,top,Minnesota Twins,New York Yankees,Royce Lewis,0,empty,Double,Royce Lewis doubles (9) on a sharp line drive to center fielder Trent Grisham.,True,False,False,False,True,2026-07-03,823527
+2,top,Minnesota Twins,New York Yankees,Victor Caratini,0,2nd,Flyout,Victor Caratini flies out to right fielder Jasson Domínguez.,False,False,False,False,False,2026-07-03,823527
+2,top,Minnesota Twins,New York Yankees,Ryan Kreidler,1,empty,Groundout,"Ryan Kreidler grounds out, shortstop José Caballero to first baseman Paul Goldschmidt. Royce Lewis to 3rd.",False,True,False,False,False,2026-07-03,823527
+2,top,Minnesota Twins,New York Yankees,Tristan Gray,2,3rd,Strikeout,Tristan Gray strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+2,bottom,New York Yankees,Minnesota Twins,Paul Goldschmidt,0,empty,Flyout,Paul Goldschmidt flies out to center fielder Ryan Kreidler.,False,False,False,False,False,2026-07-03,823527
+2,bottom,New York Yankees,Minnesota Twins,Jazz Chisholm Jr.,1,empty,Pop Out,Jazz Chisholm Jr. pops out to second baseman Kody Clemens.,False,False,False,False,False,2026-07-03,823527
+2,bottom,New York Yankees,Minnesota Twins,Ryan McMahon,2,empty,Groundout,"Ryan McMahon grounds out sharply, shortstop Tristan Gray to first baseman Royce Lewis.",False,False,False,False,False,2026-07-03,823527
+3,top,Minnesota Twins,New York Yankees,Luke Keaschall,0,empty,Lineout,Luke Keaschall lines out softly to second baseman Jazz Chisholm Jr.,False,False,False,False,False,2026-07-03,823527
+3,top,Minnesota Twins,New York Yankees,Trevor Larnach,1,empty,Flyout,Trevor Larnach flies out to center fielder Trent Grisham.,False,False,False,False,False,2026-07-03,823527
+3,top,Minnesota Twins,New York Yankees,Brooks Lee,2,empty,Strikeout,Brooks Lee strikes out on a foul tip.,False,False,False,False,False,2026-07-03,823527
+3,bottom,New York Yankees,Minnesota Twins,José Caballero,0,empty,Groundout,"José Caballero grounds out, third baseman Brooks Lee to first baseman Royce Lewis.",False,False,False,False,False,2026-07-03,823527
+3,bottom,New York Yankees,Minnesota Twins,Austin Wells,1,empty,Flyout,Austin Wells flies out to shortstop Tristan Gray.,False,False,False,False,False,2026-07-03,823527
+3,bottom,New York Yankees,Minnesota Twins,Trent Grisham,2,empty,Single,Trent Grisham singles on a ground ball to right fielder Luke Keaschall.,True,False,False,False,True,2026-07-03,823527
+3,bottom,New York Yankees,Minnesota Twins,Ben Rice,2,1st,Home Run,Ben Rice homers (24) on a fly ball to right field. Trent Grisham scores.,True,True,True,False,True,2026-07-03,823527
+3,bottom,New York Yankees,Minnesota Twins,Jasson Domínguez,2,empty,Single,Jasson Domínguez singles on a soft ground ball to third baseman Brooks Lee.,True,False,False,False,True,2026-07-03,823527
+3,bottom,New York Yankees,Minnesota Twins,Cody Bellinger,2,1st,Walk,"Victor Caratini challenged (pitch result), call on the field was confirmed: Cody Bellinger walks.",True,True,False,False,True,2026-07-03,823527
+3,bottom,New York Yankees,Minnesota Twins,Paul Goldschmidt,2,1st_2nd,Strikeout,Paul Goldschmidt strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+4,top,Minnesota Twins,New York Yankees,Kody Clemens,0,empty,Double,Kody Clemens doubles (17) on a ground ball to first baseman Paul Goldschmidt.,True,False,False,False,True,2026-07-03,823527
+4,top,Minnesota Twins,New York Yankees,Josh Bell,0,2nd,Strikeout,Josh Bell strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+4,top,Minnesota Twins,New York Yankees,Royce Lewis,1,empty,Strikeout,Royce Lewis called out on strikes.,False,False,False,False,False,2026-07-03,823527
+4,top,Minnesota Twins,New York Yankees,Victor Caratini,2,empty,Single,Victor Caratini singles on a ground ball to left fielder Cody Bellinger. Kody Clemens scores. Victor Caratini to 2nd.,True,True,True,False,True,2026-07-03,823527
+4,top,Minnesota Twins,New York Yankees,Ryan Kreidler,2,1st_2nd,Strikeout,Ryan Kreidler called out on strikes.,False,False,False,False,False,2026-07-03,823527
+4,bottom,New York Yankees,Minnesota Twins,Jazz Chisholm Jr.,0,empty,Strikeout,Jazz Chisholm Jr. strikes out on a foul tip.,False,False,False,False,False,2026-07-03,823527
+4,bottom,New York Yankees,Minnesota Twins,Ryan McMahon,1,empty,Walk,Ryan McMahon walks.,True,False,False,False,True,2026-07-03,823527
+4,bottom,New York Yankees,Minnesota Twins,José Caballero,1,1st,Pop Out,José Caballero pops out to second baseman Kody Clemens.,False,False,False,False,False,2026-07-03,823527
+4,bottom,New York Yankees,Minnesota Twins,Austin Wells,2,empty,Groundout,"Austin Wells grounds out, second baseman Kody Clemens to first baseman Royce Lewis.",False,False,False,False,False,2026-07-03,823527
+5,top,Minnesota Twins,New York Yankees,Tristan Gray,0,empty,Lineout,Tristan Gray lines out sharply to center fielder Trent Grisham.,False,False,False,False,False,2026-07-03,823527
+5,top,Minnesota Twins,New York Yankees,Luke Keaschall,1,empty,Double,Luke Keaschall doubles (13) on a ground ball to left fielder Cody Bellinger.,True,False,False,False,True,2026-07-03,823527
+5,top,Minnesota Twins,New York Yankees,Trevor Larnach,1,2nd,Groundout,"Trevor Larnach grounds out sharply, second baseman Jazz Chisholm Jr. to first baseman Paul Goldschmidt. Luke Keaschall to 3rd.",False,True,False,False,True,2026-07-03,823527
+5,top,Minnesota Twins,New York Yankees,Brooks Lee,2,3rd,Flyout,Brooks Lee flies out to left fielder Cody Bellinger.,False,False,False,False,False,2026-07-03,823527
+5,bottom,New York Yankees,Minnesota Twins,Trent Grisham,0,empty,Strikeout,Trent Grisham strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+5,bottom,New York Yankees,Minnesota Twins,Ben Rice,1,empty,Groundout,Ben Rice grounds out to first baseman Royce Lewis.,False,False,False,False,False,2026-07-03,823527
+5,bottom,New York Yankees,Minnesota Twins,Jasson Domínguez,2,empty,Strikeout,Jasson Domínguez strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+6,top,Minnesota Twins,New York Yankees,Kody Clemens,0,empty,Strikeout,Kody Clemens strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+6,top,Minnesota Twins,New York Yankees,Josh Bell,1,empty,Flyout,Josh Bell flies out to right fielder Jasson Domínguez.,False,False,False,False,False,2026-07-03,823527
+6,top,Minnesota Twins,New York Yankees,Royce Lewis,2,empty,Strikeout,Royce Lewis strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+6,bottom,New York Yankees,Minnesota Twins,Cody Bellinger,0,empty,Groundout,"Cody Bellinger grounds out, second baseman Kody Clemens to first baseman Royce Lewis.",False,False,False,False,False,2026-07-03,823527
+6,bottom,New York Yankees,Minnesota Twins,Paul Goldschmidt,1,empty,Flyout,Paul Goldschmidt flies out to center fielder Ryan Kreidler.,False,False,False,False,False,2026-07-03,823527
+6,bottom,New York Yankees,Minnesota Twins,Jazz Chisholm Jr.,2,empty,Groundout,Jazz Chisholm Jr. grounds out to first baseman Royce Lewis.,False,False,False,False,False,2026-07-03,823527
+7,top,Minnesota Twins,New York Yankees,Victor Caratini,0,empty,Groundout,"Victor Caratini grounds out, second baseman Jazz Chisholm Jr. to first baseman Paul Goldschmidt.",False,False,False,False,False,2026-07-03,823527
+7,top,Minnesota Twins,New York Yankees,Ryan Kreidler,1,empty,Strikeout,Ryan Kreidler strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+7,top,Minnesota Twins,New York Yankees,Tristan Gray,2,empty,Strikeout,Tristan Gray strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+7,bottom,New York Yankees,Minnesota Twins,Ryan McMahon,0,empty,Double,Ryan McMahon doubles (5) on a sharp line drive to right fielder Luke Keaschall.,True,False,False,False,True,2026-07-03,823527
+7,bottom,New York Yankees,Minnesota Twins,José Caballero,0,2nd,Single,José Caballero singles on a line drive to center fielder Ryan Kreidler. Ryan McMahon scores.,True,True,True,False,True,2026-07-03,823527
+7,bottom,New York Yankees,Minnesota Twins,Austin Wells,0,1st,Sac Bunt,"Austin Wells out on a sacrifice bunt, pitcher Eric Orze to first baseman Royce Lewis. José Caballero to 3rd.",False,True,False,False,True,2026-07-03,823527
+7,bottom,New York Yankees,Minnesota Twins,Trent Grisham,1,2nd_3rd,Sac Fly,Trent Grisham out on a sacrifice fly to right fielder Luke Keaschall. José Caballero scores.,False,True,True,False,True,2026-07-03,823527
+7,bottom,New York Yankees,Minnesota Twins,Ben Rice,2,empty,Walk,Ben Rice walks.,True,False,False,False,True,2026-07-03,823527
+7,bottom,New York Yankees,Minnesota Twins,Jasson Domínguez,2,1st,Flyout,Jasson Domínguez flies out to center fielder Ryan Kreidler.,False,False,False,False,False,2026-07-03,823527
+8,top,Minnesota Twins,New York Yankees,Luke Keaschall,0,empty,Single,Luke Keaschall singles on a soft ground ball to shortstop José Caballero.,True,False,False,False,True,2026-07-03,823527
+8,top,Minnesota Twins,New York Yankees,Trevor Larnach,0,1st,Walk,Trevor Larnach walks. Luke Keaschall to 2nd.,True,True,False,False,True,2026-07-03,823527
+8,top,Minnesota Twins,New York Yankees,Brooks Lee,0,1st_2nd,Lineout,Brooks Lee lines out to left fielder Cody Bellinger.,False,False,False,False,False,2026-07-03,823527
+8,top,Minnesota Twins,New York Yankees,Kody Clemens,1,empty,Groundout,Kody Clemens grounds out to first baseman Paul Goldschmidt. Luke Keaschall to 3rd. Trevor Larnach to 2nd.,False,True,False,False,False,2026-07-03,823527
+8,top,Minnesota Twins,New York Yankees,Josh Bell,2,2nd_3rd,Walk,Josh Bell walks.,True,False,False,False,True,2026-07-03,823527
+8,top,Minnesota Twins,New York Yankees,Royce Lewis,2,1st,Forceout,"Royce Lewis grounds into a force out, third baseman Ryan McMahon to second baseman Jazz Chisholm Jr. Kyler Fedko out at 2nd.",False,False,False,False,False,2026-07-03,823527
+8,bottom,New York Yankees,Minnesota Twins,Cody Bellinger,0,empty,Groundout,Cody Bellinger grounds out to first baseman Royce Lewis.,False,False,False,False,False,2026-07-03,823527
+8,bottom,New York Yankees,Minnesota Twins,Paul Goldschmidt,1,empty,Lineout,Paul Goldschmidt lines out sharply to third baseman Brooks Lee.,False,False,False,False,False,2026-07-03,823527
+8,bottom,New York Yankees,Minnesota Twins,Jazz Chisholm Jr.,2,empty,Groundout,"Jazz Chisholm Jr. grounds out sharply, second baseman Kody Clemens to first baseman Royce Lewis.",False,False,False,False,False,2026-07-03,823527
+9,top,Minnesota Twins,New York Yankees,Victor Caratini,0,empty,Strikeout,Victor Caratini strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+9,top,Minnesota Twins,New York Yankees,Ryan Kreidler,1,empty,Strikeout,Ryan Kreidler strikes out swinging.,False,False,False,False,False,2026-07-03,823527
+9,top,Minnesota Twins,New York Yankees,Tristan Gray,2,empty,Strikeout,Tristan Gray called out on strikes.,False,False,False,False,False,2026-07-03,823527
+1,top,Baltimore Orioles,Cincinnati Reds,Gunnar Henderson,0,empty,Walk,Gunnar Henderson walks.,True,False,False,False,True,2026-07-03,824498
+1,top,Baltimore Orioles,Cincinnati Reds,Adley Rutschman,0,1st,Strikeout,Adley Rutschman strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+1,top,Baltimore Orioles,Cincinnati Reds,Taylor Ward,1,empty,Single,Taylor Ward singles on a line drive to right fielder Noelvi Marte. Gunnar Henderson to 2nd.,True,True,False,False,True,2026-07-03,824498
+1,top,Baltimore Orioles,Cincinnati Reds,Pete Alonso,1,1st_2nd,Strikeout,Pete Alonso called out on strikes. Taylor Ward to 3rd. Gunnar Henderson steals (7) 3rd base. Taylor Ward steals (3) 2nd base. Throwing error by catcher Tyler Stephenson.,False,True,True,False,True,2026-07-03,824498
+1,top,Baltimore Orioles,Cincinnati Reds,Samuel Basallo,2,2nd_3rd,Walk,Samuel Basallo walks.,True,False,False,False,True,2026-07-03,824498
+1,top,Baltimore Orioles,Cincinnati Reds,Dylan Beavers,2,1st,Flyout,Dylan Beavers flies out to center fielder Matt McLain.,False,False,False,False,False,2026-07-03,824498
+1,bottom,Cincinnati Reds,Baltimore Orioles,Elly De La Cruz,0,empty,Walk,Elly De La Cruz walks.,True,False,False,False,True,2026-07-03,824498
+1,bottom,Cincinnati Reds,Baltimore Orioles,Sal Stewart,0,1st,Strikeout,Sal Stewart strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+1,bottom,Cincinnati Reds,Baltimore Orioles,Spencer Steer,1,empty,Single,Spencer Steer singles on a sharp ground ball to center fielder Colton Cowser. Elly De La Cruz to 3rd.,True,True,False,False,True,2026-07-03,824498
+1,bottom,Cincinnati Reds,Baltimore Orioles,Eugenio Suárez,1,loaded,Strikeout,Eugenio Suárez strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+1,bottom,Cincinnati Reds,Baltimore Orioles,Noelvi Marte,2,empty,Strikeout,Noelvi Marte strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+2,top,Baltimore Orioles,Cincinnati Reds,Colton Cowser,0,empty,Strikeout,Colton Cowser strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+2,top,Baltimore Orioles,Cincinnati Reds,Blaze Alexander,1,empty,Walk,Blaze Alexander walks.,True,False,False,False,True,2026-07-03,824498
+2,top,Baltimore Orioles,Cincinnati Reds,Jackson Holliday,1,1st,Forceout,"Jackson Holliday grounds into a force out, pitcher Brady Singer to shortstop Elly De La Cruz. Blaze Alexander out at 2nd. Jackson Holliday to 1st.",False,False,False,False,False,2026-07-03,824498
+2,top,Baltimore Orioles,Cincinnati Reds,Gunnar Henderson,2,1st,Lineout,Gunnar Henderson lines out sharply to center fielder Matt McLain.,False,False,False,False,False,2026-07-03,824498
+2,bottom,Cincinnati Reds,Baltimore Orioles,JJ Bleday,0,empty,Lineout,JJ Bleday lines out to center fielder Colton Cowser.,False,False,False,False,False,2026-07-03,824498
+2,bottom,Cincinnati Reds,Baltimore Orioles,Tyler Stephenson,1,empty,Walk,Tyler Stephenson walks.,True,False,False,False,True,2026-07-03,824498
+2,bottom,Cincinnati Reds,Baltimore Orioles,Matt McLain,1,1st,Strikeout,Matt McLain strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+2,bottom,Cincinnati Reds,Baltimore Orioles,Edwin Arroyo,2,empty,Pop Out,Edwin Arroyo pops out to first baseman Pete Alonso in foul territory.,False,False,False,False,False,2026-07-03,824498
+3,top,Baltimore Orioles,Cincinnati Reds,Adley Rutschman,0,empty,Double,Adley Rutschman hits a ground-rule double (16) on a fly ball to right field.,True,False,False,False,True,2026-07-03,824498
+3,top,Baltimore Orioles,Cincinnati Reds,Taylor Ward,0,2nd,Walk,Taylor Ward walks.,True,False,False,False,False,2026-07-03,824498
+3,top,Baltimore Orioles,Cincinnati Reds,Pete Alonso,0,1st,Grounded Into DP,"Pete Alonso grounds into a double play, shortstop Elly De La Cruz to second baseman Edwin Arroyo to first baseman Spencer Steer. Adley Rutschman to 3rd. Taylor Ward out at 2nd. Pete Alonso out at 1st.",False,True,False,True,False,2026-07-03,824498
+3,top,Baltimore Orioles,Cincinnati Reds,Samuel Basallo,2,3rd,Home Run,Samuel Basallo homers (13) on a fly ball to left center field. Adley Rutschman scores.,True,True,True,False,True,2026-07-03,824498
+3,top,Baltimore Orioles,Cincinnati Reds,Dylan Beavers,2,empty,Pop Out,Dylan Beavers pops out to shortstop Elly De La Cruz.,False,False,False,False,False,2026-07-03,824498
+3,bottom,Cincinnati Reds,Baltimore Orioles,Elly De La Cruz,0,empty,Walk,"Samuel Basallo challenged (pitch result), call on the field was confirmed: Elly De La Cruz walks.",True,False,False,False,True,2026-07-03,824498
+3,bottom,Cincinnati Reds,Baltimore Orioles,Sal Stewart,0,1st,Flyout,Sal Stewart flies out to center fielder Colton Cowser.,False,False,False,False,False,2026-07-03,824498
+3,bottom,Cincinnati Reds,Baltimore Orioles,Spencer Steer,1,empty,Flyout,Spencer Steer flies out to center fielder Colton Cowser.,False,False,False,False,False,2026-07-03,824498
+3,bottom,Cincinnati Reds,Baltimore Orioles,Eugenio Suárez,2,empty,Walk,Eugenio Suárez walks.,True,True,False,False,True,2026-07-03,824498
+3,bottom,Cincinnati Reds,Baltimore Orioles,Noelvi Marte,2,1st_2nd,Flyout,Noelvi Marte flies out sharply to left fielder Taylor Ward.,False,False,False,False,False,2026-07-03,824498
+4,top,Baltimore Orioles,Cincinnati Reds,Colton Cowser,0,empty,Strikeout,Colton Cowser called out on strikes.,False,False,False,False,False,2026-07-03,824498
+4,top,Baltimore Orioles,Cincinnati Reds,Blaze Alexander,1,empty,Strikeout,"Tyler Stephenson challenged (pitch result), call on the field was overturned: Blaze Alexander called out on strikes.",False,False,False,False,False,2026-07-03,824498
+4,top,Baltimore Orioles,Cincinnati Reds,Jackson Holliday,2,empty,Groundout,"Jackson Holliday grounds out, second baseman Edwin Arroyo to first baseman Spencer Steer.",False,False,False,False,False,2026-07-03,824498
+4,bottom,Cincinnati Reds,Baltimore Orioles,JJ Bleday,0,empty,Groundout,JJ Bleday grounds out to first baseman Pete Alonso.,False,False,False,False,False,2026-07-03,824498
+4,bottom,Cincinnati Reds,Baltimore Orioles,Tyler Stephenson,1,empty,Flyout,Tyler Stephenson flies out to center fielder Colton Cowser.,False,False,False,False,False,2026-07-03,824498
+4,bottom,Cincinnati Reds,Baltimore Orioles,Matt McLain,2,empty,Groundout,"Matt McLain grounds out, shortstop Gunnar Henderson to first baseman Pete Alonso.",False,False,False,False,False,2026-07-03,824498
+5,top,Baltimore Orioles,Cincinnati Reds,Gunnar Henderson,0,empty,Walk,Gunnar Henderson walks.,True,False,False,False,True,2026-07-03,824498
+5,top,Baltimore Orioles,Cincinnati Reds,Adley Rutschman,0,1st,Strikeout,Adley Rutschman strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+5,top,Baltimore Orioles,Cincinnati Reds,Taylor Ward,2,empty,Flyout,Taylor Ward flies out to center fielder Matt McLain.,False,False,False,False,False,2026-07-03,824498
+5,bottom,Cincinnati Reds,Baltimore Orioles,Edwin Arroyo,0,empty,Groundout,"Edwin Arroyo grounds out, shortstop Gunnar Henderson to first baseman Pete Alonso.",False,False,False,False,False,2026-07-03,824498
+5,bottom,Cincinnati Reds,Baltimore Orioles,Elly De La Cruz,1,empty,Single,Elly De La Cruz singles on a ground ball to shortstop Gunnar Henderson.,True,False,False,False,True,2026-07-03,824498
+5,bottom,Cincinnati Reds,Baltimore Orioles,Sal Stewart,1,1st,Lineout,Sal Stewart lines out sharply to shortstop Gunnar Henderson.,False,False,False,False,False,2026-07-03,824498
+5,bottom,Cincinnati Reds,Baltimore Orioles,Spencer Steer,2,empty,Walk,Spencer Steer walks.,True,True,False,False,True,2026-07-03,824498
+5,bottom,Cincinnati Reds,Baltimore Orioles,Eugenio Suárez,2,1st_2nd,Lineout,Eugenio Suárez lines out sharply to left fielder Taylor Ward.,False,False,False,False,False,2026-07-03,824498
+6,top,Baltimore Orioles,Cincinnati Reds,Pete Alonso,0,empty,Single,Pete Alonso singles on a sharp line drive to left fielder JJ Bleday.,True,False,False,False,True,2026-07-03,824498
+6,top,Baltimore Orioles,Cincinnati Reds,Samuel Basallo,0,1st,Grounded Into DP,"Samuel Basallo grounds into a double play, second baseman Edwin Arroyo to shortstop Elly De La Cruz to first baseman Spencer Steer. Pete Alonso out at 2nd. Samuel Basallo out at 1st.",False,False,False,True,False,2026-07-03,824498
+6,top,Baltimore Orioles,Cincinnati Reds,Dylan Beavers,2,empty,Flyout,Dylan Beavers flies out to left fielder JJ Bleday.,False,False,False,False,False,2026-07-03,824498
+6,bottom,Cincinnati Reds,Baltimore Orioles,Noelvi Marte,0,empty,Groundout,"Noelvi Marte grounds out, shortstop Gunnar Henderson to first baseman Pete Alonso.",False,False,False,False,False,2026-07-03,824498
+6,bottom,Cincinnati Reds,Baltimore Orioles,JJ Bleday,1,empty,Single,JJ Bleday singles on a line drive to right fielder Dylan Beavers.,True,False,False,False,True,2026-07-03,824498
+6,bottom,Cincinnati Reds,Baltimore Orioles,Tyler Stephenson,1,1st,Flyout,Tyler Stephenson flies out to left fielder Taylor Ward.,False,False,False,False,False,2026-07-03,824498
+6,bottom,Cincinnati Reds,Baltimore Orioles,TJ Friedl,2,empty,Walk,TJ Friedl walks. JJ Bleday to 2nd.,True,True,False,False,True,2026-07-03,824498
+6,bottom,Cincinnati Reds,Baltimore Orioles,Edwin Arroyo,2,1st_2nd,Pop Out,Edwin Arroyo pops out to first baseman Pete Alonso in foul territory.,False,False,False,False,False,2026-07-03,824498
+7,top,Baltimore Orioles,Cincinnati Reds,Colton Cowser,0,empty,Strikeout,Colton Cowser strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+7,top,Baltimore Orioles,Cincinnati Reds,Blaze Alexander,1,empty,Groundout,"Blaze Alexander grounds out, second baseman Edwin Arroyo to first baseman Spencer Steer.",False,False,False,False,False,2026-07-03,824498
+7,top,Baltimore Orioles,Cincinnati Reds,Jackson Holliday,2,empty,Lineout,Jackson Holliday lines out to second baseman Edwin Arroyo.,False,False,False,False,False,2026-07-03,824498
+7,bottom,Cincinnati Reds,Baltimore Orioles,Elly De La Cruz,0,empty,Strikeout,Elly De La Cruz strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+7,bottom,Cincinnati Reds,Baltimore Orioles,Sal Stewart,1,empty,Strikeout,Sal Stewart strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+7,bottom,Cincinnati Reds,Baltimore Orioles,Spencer Steer,2,empty,Lineout,Spencer Steer lines out sharply to center fielder Colton Cowser.,False,False,False,False,False,2026-07-03,824498
+8,top,Baltimore Orioles,Cincinnati Reds,Gunnar Henderson,0,empty,Groundout,"Gunnar Henderson grounds out, second baseman Edwin Arroyo to first baseman Spencer Steer.",False,False,False,False,False,2026-07-03,824498
+8,top,Baltimore Orioles,Cincinnati Reds,Adley Rutschman,1,empty,Flyout,Adley Rutschman flies out to right fielder Noelvi Marte.,False,False,False,False,False,2026-07-03,824498
+8,top,Baltimore Orioles,Cincinnati Reds,Taylor Ward,2,empty,Groundout,"Taylor Ward grounds out, shortstop Elly De La Cruz to first baseman Spencer Steer.",False,False,False,False,False,2026-07-03,824498
+8,bottom,Cincinnati Reds,Baltimore Orioles,Eugenio Suárez,0,empty,Flyout,Eugenio Suárez flies out to right fielder Dylan Beavers.,False,False,False,False,False,2026-07-03,824498
+8,bottom,Cincinnati Reds,Baltimore Orioles,Noelvi Marte,1,empty,Single,Noelvi Marte singles on a ground ball to catcher Samuel Basallo.,True,False,False,False,True,2026-07-03,824498
+8,bottom,Cincinnati Reds,Baltimore Orioles,JJ Bleday,1,1st,Flyout,JJ Bleday flies out to left fielder Taylor Ward.,False,False,False,False,False,2026-07-03,824498
+8,bottom,Cincinnati Reds,Baltimore Orioles,Tyler Stephenson,2,empty,Groundout,"Tyler Stephenson grounds out, shortstop Gunnar Henderson to first baseman Pete Alonso.",False,False,False,False,False,2026-07-03,824498
+9,top,Baltimore Orioles,Cincinnati Reds,Pete Alonso,0,empty,Flyout,Pete Alonso flies out to right fielder Noelvi Marte in foul territory.,False,False,False,False,False,2026-07-03,824498
+9,top,Baltimore Orioles,Cincinnati Reds,Samuel Basallo,1,empty,Flyout,Samuel Basallo flies out to left fielder JJ Bleday.,False,False,False,False,False,2026-07-03,824498
+9,top,Baltimore Orioles,Cincinnati Reds,Dylan Beavers,2,empty,Groundout,"Dylan Beavers grounds out, pitcher Julian Garcia to first baseman Spencer Steer.",False,False,False,False,False,2026-07-03,824498
+9,bottom,Cincinnati Reds,Baltimore Orioles,TJ Friedl,0,empty,Strikeout,TJ Friedl strikes out swinging.,False,False,False,False,False,2026-07-03,824498
+9,bottom,Cincinnati Reds,Baltimore Orioles,Edwin Arroyo,1,empty,Groundout,Edwin Arroyo grounds out to first baseman Pete Alonso.,False,False,False,False,False,2026-07-03,824498
+9,bottom,Cincinnati Reds,Baltimore Orioles,Elly De La Cruz,2,empty,Groundout,"Elly De La Cruz grounds out, first baseman Pete Alonso to pitcher Tyler Wells.",False,False,False,False,False,2026-07-03,824498
+1,top,Chicago White Sox,Cleveland Guardians,Sam Antonacci,0,empty,Groundout,"Sam Antonacci grounds out, second baseman Travis Bazzana to first baseman Rhys Hoskins.",False,False,False,False,False,2026-07-03,824417
+1,top,Chicago White Sox,Cleveland Guardians,Miguel Vargas,1,empty,Single,Miguel Vargas singles on a ground ball to left fielder David Fry.,True,False,False,False,True,2026-07-03,824417
+1,top,Chicago White Sox,Cleveland Guardians,Kyle Teel,1,1st,Lineout,Kyle Teel lines out sharply to left fielder David Fry.,False,False,False,False,False,2026-07-03,824417
+1,top,Chicago White Sox,Cleveland Guardians,Andrew Benintendi,2,empty,Strikeout,Andrew Benintendi strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+1,bottom,Cleveland Guardians,Chicago White Sox,Travis Bazzana,0,empty,Flyout,Travis Bazzana flies out to right fielder Braden Montgomery.,False,False,False,False,False,2026-07-03,824417
+1,bottom,Cleveland Guardians,Chicago White Sox,David Fry,1,empty,Pop Out,David Fry pops out softly to pitcher Anthony Kay in foul territory.,False,False,False,False,False,2026-07-03,824417
+1,bottom,Cleveland Guardians,Chicago White Sox,Chase DeLauter,2,empty,Groundout,"Chase DeLauter grounds out, second baseman Chase Meidroth to first baseman Jacob Gonzalez.",False,False,False,False,False,2026-07-03,824417
+2,top,Chicago White Sox,Cleveland Guardians,Colson Montgomery,0,empty,Strikeout,Colson Montgomery called out on strikes.,False,False,False,False,False,2026-07-03,824417
+2,top,Chicago White Sox,Cleveland Guardians,Braden Montgomery,1,empty,Single,Braden Montgomery singles on a ground ball to center fielder Steven Kwan.,True,False,False,False,True,2026-07-03,824417
+2,top,Chicago White Sox,Cleveland Guardians,Chase Meidroth,2,1st,Groundout,"Chase Meidroth grounds out softly, second baseman Travis Bazzana to first baseman Rhys Hoskins.",False,False,False,False,False,2026-07-03,824417
+2,bottom,Cleveland Guardians,Chicago White Sox,Rhys Hoskins,0,empty,Pop Out,Rhys Hoskins pops out to first baseman Jacob Gonzalez.,False,False,False,False,False,2026-07-03,824417
+2,bottom,Cleveland Guardians,Chicago White Sox,Kyle Manzardo,1,empty,Strikeout,Kyle Manzardo strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+2,bottom,Cleveland Guardians,Chicago White Sox,Brayan Rocchio,2,empty,Strikeout,Brayan Rocchio strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+3,top,Chicago White Sox,Cleveland Guardians,Tristan Peters,0,empty,Strikeout,Tristan Peters strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+3,top,Chicago White Sox,Cleveland Guardians,Jacob Gonzalez,1,empty,Flyout,Jacob Gonzalez flies out to left fielder David Fry.,False,False,False,False,False,2026-07-03,824417
+3,top,Chicago White Sox,Cleveland Guardians,Sam Antonacci,2,empty,Strikeout,Sam Antonacci strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+3,bottom,Cleveland Guardians,Chicago White Sox,Gabriel Arias,0,empty,Walk,Gabriel Arias walks.,True,False,False,False,True,2026-07-03,824417
+3,bottom,Cleveland Guardians,Chicago White Sox,Austin Hedges,0,1st,Walk,"Kyle Teel challenged (pitch result), call on the field was confirmed: Austin Hedges walks. Gabriel Arias to 2nd.",True,True,False,False,True,2026-07-03,824417
+3,bottom,Cleveland Guardians,Chicago White Sox,Steven Kwan,0,1st_2nd,Sac Bunt,"Steven Kwan out on a sacrifice bunt, third baseman Miguel Vargas to second baseman Chase Meidroth. Gabriel Arias to 3rd. Austin Hedges to 2nd.",False,True,False,False,True,2026-07-03,824417
+3,bottom,Cleveland Guardians,Chicago White Sox,Travis Bazzana,1,2nd_3rd,Single,Travis Bazzana singles on a line drive to center fielder Tristan Peters. Gabriel Arias scores. Austin Hedges to 3rd.,True,True,True,False,True,2026-07-03,824417
+3,bottom,Cleveland Guardians,Chicago White Sox,David Fry,1,1st_3rd,Grounded Into DP,"David Fry grounds into a double play, third baseman Miguel Vargas to second baseman Chase Meidroth to first baseman Jacob Gonzalez. Travis Bazzana out at 2nd. David Fry out at 1st.",False,False,False,True,False,2026-07-03,824417
+4,top,Chicago White Sox,Cleveland Guardians,Miguel Vargas,0,empty,Walk,Miguel Vargas walks.,True,False,False,False,True,2026-07-03,824417
+4,top,Chicago White Sox,Cleveland Guardians,Kyle Teel,0,1st,Strikeout,Kyle Teel called out on strikes.,False,False,False,False,False,2026-07-03,824417
+4,top,Chicago White Sox,Cleveland Guardians,Andrew Benintendi,1,empty,Walk,Andrew Benintendi walks. Miguel Vargas to 2nd.,True,True,False,False,True,2026-07-03,824417
+4,top,Chicago White Sox,Cleveland Guardians,Colson Montgomery,1,1st_2nd,Strikeout,Colson Montgomery called out on strikes.,False,False,False,False,False,2026-07-03,824417
+4,top,Chicago White Sox,Cleveland Guardians,Braden Montgomery,2,empty,Groundout,Braden Montgomery grounds out to first baseman Rhys Hoskins.,False,False,False,False,False,2026-07-03,824417
+4,bottom,Cleveland Guardians,Chicago White Sox,Chase DeLauter,0,empty,Groundout,"Chase DeLauter grounds out, shortstop Colson Montgomery to first baseman Jacob Gonzalez.",False,False,False,False,False,2026-07-03,824417
+4,bottom,Cleveland Guardians,Chicago White Sox,Rhys Hoskins,1,empty,Groundout,"Rhys Hoskins grounds out, third baseman Miguel Vargas to first baseman Jacob Gonzalez.",False,False,False,False,False,2026-07-03,824417
+4,bottom,Cleveland Guardians,Chicago White Sox,Kyle Manzardo,2,empty,Flyout,Kyle Manzardo flies out to right fielder Braden Montgomery in foul territory.,False,False,False,False,False,2026-07-03,824417
+5,top,Chicago White Sox,Cleveland Guardians,Chase Meidroth,0,empty,Single,Chase Meidroth singles on a ground ball to right fielder Chase DeLauter.,True,False,False,False,True,2026-07-03,824417
+5,top,Chicago White Sox,Cleveland Guardians,Tristan Peters,0,1st,Single,Tristan Peters singles on a line drive to left fielder David Fry. Chase Meidroth to 2nd.,True,True,False,False,True,2026-07-03,824417
+5,top,Chicago White Sox,Cleveland Guardians,Jacob Gonzalez,0,1st_2nd,Sac Bunt,"Jacob Gonzalez out on a sacrifice bunt, third baseman Gabriel Arias to first baseman Rhys Hoskins. Chase Meidroth to 3rd. Tristan Peters to 2nd.",False,True,False,False,True,2026-07-03,824417
+5,top,Chicago White Sox,Cleveland Guardians,Sam Antonacci,1,2nd_3rd,Fielders Choice Out,"Sam Antonacci reaches on a fielder's choice out, first baseman Rhys Hoskins to catcher Austin Hedges. Chase Meidroth out at home. Tristan Peters to 3rd.",False,True,False,False,False,2026-07-03,824417
+5,top,Chicago White Sox,Cleveland Guardians,Miguel Vargas,2,1st_3rd,Home Run,Miguel Vargas homers (20) on a fly ball to left field. Tristan Peters scores. Sam Antonacci scores.,True,True,True,False,True,2026-07-03,824417
+5,top,Chicago White Sox,Cleveland Guardians,Kyle Teel,2,empty,Flyout,Kyle Teel flies out to left fielder David Fry.,False,False,False,False,False,2026-07-03,824417
+5,bottom,Cleveland Guardians,Chicago White Sox,Brayan Rocchio,0,empty,Single,Brayan Rocchio singles on a line drive to center fielder Tristan Peters.,True,False,False,False,True,2026-07-03,824417
+5,bottom,Cleveland Guardians,Chicago White Sox,Gabriel Arias,0,1st,Strikeout,Gabriel Arias called out on strikes.,False,False,False,False,False,2026-07-03,824417
+5,bottom,Cleveland Guardians,Chicago White Sox,Austin Hedges,1,empty,Strikeout,Austin Hedges called out on strikes.,False,False,False,False,False,2026-07-03,824417
+5,bottom,Cleveland Guardians,Chicago White Sox,Steven Kwan,2,empty,Strikeout,Steven Kwan called out on strikes.,False,False,False,False,False,2026-07-03,824417
+6,top,Chicago White Sox,Cleveland Guardians,Andrew Benintendi,0,empty,Strikeout,Andrew Benintendi strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+6,top,Chicago White Sox,Cleveland Guardians,Colson Montgomery,1,empty,Pop Out,Colson Montgomery pops out to third baseman Gabriel Arias in foul territory.,False,False,False,False,False,2026-07-03,824417
+6,top,Chicago White Sox,Cleveland Guardians,Braden Montgomery,2,empty,Groundout,"Braden Montgomery grounds out, second baseman Travis Bazzana to first baseman Rhys Hoskins.",False,False,False,False,False,2026-07-03,824417
+6,bottom,Cleveland Guardians,Chicago White Sox,Travis Bazzana,0,empty,Flyout,Travis Bazzana flies out to center fielder Tristan Peters.,False,False,False,False,False,2026-07-03,824417
+6,bottom,Cleveland Guardians,Chicago White Sox,David Fry,1,empty,Strikeout,David Fry strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+6,bottom,Cleveland Guardians,Chicago White Sox,Chase DeLauter,2,empty,Strikeout,Chase DeLauter strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+7,top,Chicago White Sox,Cleveland Guardians,Chase Meidroth,0,empty,Lineout,Chase Meidroth lines out to left fielder David Fry.,False,False,False,False,False,2026-07-03,824417
+7,top,Chicago White Sox,Cleveland Guardians,Tristan Peters,1,empty,Strikeout,Tristan Peters strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+7,top,Chicago White Sox,Cleveland Guardians,Jacob Gonzalez,2,empty,Single,Jacob Gonzalez singles on a line drive to right fielder Chase DeLauter.,True,False,False,False,True,2026-07-03,824417
+7,top,Chicago White Sox,Cleveland Guardians,Sam Antonacci,2,1st,Flyout,Sam Antonacci flies out to center fielder Steven Kwan.,False,False,False,False,False,2026-07-03,824417
+7,bottom,Cleveland Guardians,Chicago White Sox,Rhys Hoskins,0,empty,Walk,Rhys Hoskins walks.,True,False,False,False,True,2026-07-03,824417
+7,bottom,Cleveland Guardians,Chicago White Sox,Kyle Manzardo,0,1st,Strikeout,Kyle Manzardo strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+7,bottom,Cleveland Guardians,Chicago White Sox,Brayan Rocchio,1,empty,Walk,Brayan Rocchio walks.,True,True,False,False,True,2026-07-03,824417
+7,bottom,Cleveland Guardians,Chicago White Sox,Daniel Schneemann,1,1st_2nd,Strikeout,Daniel Schneemann called out on strikes.,False,False,False,False,False,2026-07-03,824417
+7,bottom,Cleveland Guardians,Chicago White Sox,Austin Hedges,2,empty,Single,Austin Hedges singles on a ground ball to shortstop Colson Montgomery. Rhys Hoskins scores. Brayan Rocchio to 2nd.,True,True,True,False,True,2026-07-03,824417
+7,bottom,Cleveland Guardians,Chicago White Sox,Steven Kwan,2,loaded,Single,Steven Kwan singles on a line drive to left fielder Sam Antonacci. Brayan Rocchio scores. Austin Hedges to 3rd. Steven Kwan to 2nd. Fielding error by left fielder Sam Antonacci.,True,True,True,False,True,2026-07-03,824417
+7,bottom,Cleveland Guardians,Chicago White Sox,Travis Bazzana,2,loaded,Strikeout,Travis Bazzana strikes out on a foul tip.,False,False,False,False,False,2026-07-03,824417
+8,top,Chicago White Sox,Cleveland Guardians,Miguel Vargas,0,empty,Strikeout,Miguel Vargas strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+8,top,Chicago White Sox,Cleveland Guardians,Kyle Teel,1,empty,Lineout,Kyle Teel lines out sharply to center fielder Steven Kwan.,False,False,False,False,False,2026-07-03,824417
+8,top,Chicago White Sox,Cleveland Guardians,Andrew Benintendi,2,empty,Flyout,Andrew Benintendi flies out to center fielder Steven Kwan.,False,False,False,False,False,2026-07-03,824417
+8,bottom,Cleveland Guardians,Chicago White Sox,Kahlil Watson,0,empty,Strikeout,Kahlil Watson strikes out swinging.,False,False,False,False,False,2026-07-03,824417
+8,bottom,Cleveland Guardians,Chicago White Sox,Chase DeLauter,1,empty,Flyout,Chase DeLauter flies out to left fielder Sam Antonacci.,False,False,False,False,False,2026-07-03,824417
+8,bottom,Cleveland Guardians,Chicago White Sox,Rhys Hoskins,2,empty,Walk,Rhys Hoskins walks.,True,False,False,False,True,2026-07-03,824417
+8,bottom,Cleveland Guardians,Chicago White Sox,Kyle Manzardo,2,1st,Strikeout,"Kyle Teel challenged (pitch result), call on the field was overturned: Kyle Manzardo called out on strikes.",False,False,False,False,False,2026-07-03,824417
+9,top,Chicago White Sox,Cleveland Guardians,Colson Montgomery,0,empty,Lineout,Colson Montgomery lines out to first baseman Rhys Hoskins.,False,False,False,False,False,2026-07-03,824417
+9,top,Chicago White Sox,Cleveland Guardians,Braden Montgomery,1,empty,Groundout,"Braden Montgomery grounds out, third baseman Daniel Schneemann to first baseman Rhys Hoskins.",False,False,False,False,False,2026-07-03,824417
+9,top,Chicago White Sox,Cleveland Guardians,Chase Meidroth,2,empty,Groundout,"Chase Meidroth grounds out, shortstop Brayan Rocchio to first baseman Rhys Hoskins.",False,False,False,False,False,2026-07-03,824417
+9,bottom,Cleveland Guardians,Chicago White Sox,Brayan Rocchio,0,empty,Flyout,Brayan Rocchio flies out to right fielder Braden Montgomery.,False,False,False,False,False,2026-07-03,824417
+9,bottom,Cleveland Guardians,Chicago White Sox,Daniel Schneemann,1,empty,Flyout,Daniel Schneemann flies out sharply to center fielder Tristan Peters.,False,False,False,False,False,2026-07-03,824417
+9,bottom,Cleveland Guardians,Chicago White Sox,Austin Hedges,2,empty,Strikeout,Austin Hedges strikes out swinging. Austin Hedges to 1st. Wild pitch by pitcher Trevor Richards.,False,False,False,False,False,2026-07-03,824417
+9,bottom,Cleveland Guardians,Chicago White Sox,Steven Kwan,2,1st,Flyout,Steven Kwan flies out to left fielder Sam Antonacci.,False,False,False,False,False,2026-07-03,824417
+10,top,Chicago White Sox,Cleveland Guardians,Randal Grichuk,0,empty,Strikeout,Randal Grichuk called out on strikes.,False,False,False,False,False,2026-07-03,824417
+10,top,Chicago White Sox,Cleveland Guardians,Junior Perez,1,empty,Strikeout,Junior Perez called out on strikes.,False,False,False,False,False,2026-07-03,824417
+10,top,Chicago White Sox,Cleveland Guardians,Sam Antonacci,2,empty,Flyout,Sam Antonacci flies out to right fielder Chase DeLauter.,False,False,False,False,False,2026-07-03,824417
+10,bottom,Cleveland Guardians,Chicago White Sox,Travis Bazzana,0,empty,Single,Travis Bazzana singles on a ground ball to left fielder Randal Grichuk. Steven Kwan to 3rd.,True,True,False,False,True,2026-07-03,824417
+10,bottom,Cleveland Guardians,Chicago White Sox,Kahlil Watson,0,1st_3rd,Single,Kahlil Watson singles on a ground ball to center fielder Junior Perez. Steven Kwan scores. Travis Bazzana to 2nd.,True,True,True,False,True,2026-07-03,824417
+1,top,New York Mets,Atlanta Braves,A.J. Ewing,0,empty,Flyout,A.J. Ewing flies out to center fielder Michael Harris II.,False,False,False,False,False,2026-07-03,824904
+1,top,New York Mets,Atlanta Braves,Juan Soto,1,empty,Strikeout,Juan Soto strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+1,top,New York Mets,Atlanta Braves,Bo Bichette,2,empty,Walk,Bo Bichette walks.,True,False,False,False,True,2026-07-03,824904
+1,top,New York Mets,Atlanta Braves,Francisco Lindor,2,1st,Single,Francisco Lindor singles on a ground ball to right fielder Mike Yastrzemski. Bo Bichette to 2nd.,True,True,False,False,True,2026-07-03,824904
+1,top,New York Mets,Atlanta Braves,Carson Benge,2,1st_2nd,Lineout,Carson Benge lines out to center fielder Michael Harris II.,False,False,False,False,False,2026-07-03,824904
+1,bottom,Atlanta Braves,New York Mets,Drake Baldwin,0,empty,Groundout,"Drake Baldwin grounds out, third baseman Bo Bichette to first baseman Jared Young.",False,False,False,False,False,2026-07-03,824904
+1,bottom,Atlanta Braves,New York Mets,Ozzie Albies,1,empty,Strikeout,Ozzie Albies strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+1,bottom,Atlanta Braves,New York Mets,Matt Olson,2,empty,Strikeout,Matt Olson strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+2,top,New York Mets,Atlanta Braves,Jared Young,0,empty,Lineout,Jared Young lines out to left fielder Mauricio Dubón.,False,False,False,False,False,2026-07-03,824904
+2,top,New York Mets,Atlanta Braves,Francisco Alvarez,1,empty,Flyout,Francisco Alvarez flies out to center fielder Michael Harris II.,False,False,False,False,False,2026-07-03,824904
+2,top,New York Mets,Atlanta Braves,Brett Baty,2,empty,Flyout,Brett Baty flies out to right fielder Mike Yastrzemski.,False,False,False,False,False,2026-07-03,824904
+2,bottom,Atlanta Braves,New York Mets,Mauricio Dubón,0,empty,Walk,Mauricio Dubón walks.,True,False,False,False,True,2026-07-03,824904
+2,bottom,Atlanta Braves,New York Mets,Michael Harris II,0,1st,Home Run,Michael Harris II homers (15) on a fly ball to center field. Mauricio Dubón scores.,True,True,True,False,True,2026-07-03,824904
+2,bottom,Atlanta Braves,New York Mets,Dominic Smith,0,empty,Groundout,"Dominic Smith grounds out, third baseman Bo Bichette to first baseman Jared Young.",False,False,False,False,False,2026-07-03,824904
+2,bottom,Atlanta Braves,New York Mets,Austin Riley,1,empty,Walk,Austin Riley walks.,True,False,False,False,True,2026-07-03,824904
+2,bottom,Atlanta Braves,New York Mets,Mike Yastrzemski,1,1st,Strikeout,Mike Yastrzemski strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+2,bottom,Atlanta Braves,New York Mets,Jorge Mateo,2,empty,Flyout,Jorge Mateo flies out sharply to center fielder A.J. Ewing.,False,False,False,False,False,2026-07-03,824904
+3,top,New York Mets,Atlanta Braves,Luis Torrens,0,empty,Groundout,"Luis Torrens grounds out, second baseman Ozzie Albies to first baseman Matt Olson.",False,False,False,False,False,2026-07-03,824904
+3,top,New York Mets,Atlanta Braves,A.J. Ewing,1,empty,Field Error,A.J. Ewing reaches on a fielding error by first baseman Matt Olson.,False,False,False,False,False,2026-07-03,824904
+3,top,New York Mets,Atlanta Braves,Juan Soto,1,1st,Home Run,Juan Soto homers (18) on a fly ball to left field. A.J. Ewing scores.,True,True,True,False,True,2026-07-03,824904
+3,top,New York Mets,Atlanta Braves,Bo Bichette,1,empty,Pop Out,Bo Bichette pops out to shortstop Jorge Mateo.,False,False,False,False,False,2026-07-03,824904
+3,top,New York Mets,Atlanta Braves,Francisco Lindor,2,empty,Groundout,"Francisco Lindor grounds out, second baseman Ozzie Albies to first baseman Matt Olson.",False,False,False,False,False,2026-07-03,824904
+3,bottom,Atlanta Braves,New York Mets,Drake Baldwin,0,empty,Flyout,Drake Baldwin flies out to center fielder A.J. Ewing.,False,False,False,False,False,2026-07-03,824904
+3,bottom,Atlanta Braves,New York Mets,Ozzie Albies,1,empty,Home Run,Ozzie Albies homers (14) on a fly ball to right field.,True,False,True,False,True,2026-07-03,824904
+3,bottom,Atlanta Braves,New York Mets,Matt Olson,1,empty,Walk,Matt Olson walks.,True,False,False,False,True,2026-07-03,824904
+3,bottom,Atlanta Braves,New York Mets,Mauricio Dubón,1,1st,Walk,Mauricio Dubón walks. Matt Olson to 2nd.,True,True,False,False,True,2026-07-03,824904
+3,bottom,Atlanta Braves,New York Mets,Michael Harris II,1,1st_2nd,Groundout,"Michael Harris II grounds out, second baseman Brett Baty to first baseman Jared Young. Matt Olson to 3rd. Mauricio Dubón to 2nd.",False,True,False,False,True,2026-07-03,824904
+3,bottom,Atlanta Braves,New York Mets,Dominic Smith,2,2nd_3rd,Strikeout,Dominic Smith strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+4,top,New York Mets,Atlanta Braves,Carson Benge,0,empty,Lineout,Carson Benge lines out to center fielder Michael Harris II.,False,False,False,False,False,2026-07-03,824904
+4,top,New York Mets,Atlanta Braves,Jared Young,1,empty,Flyout,Jared Young flies out to left fielder Mauricio Dubón.,False,False,False,False,False,2026-07-03,824904
+4,top,New York Mets,Atlanta Braves,Francisco Alvarez,2,empty,Single,Francisco Alvarez singles on a ground ball to left fielder Mauricio Dubón.,True,False,False,False,True,2026-07-03,824904
+4,top,New York Mets,Atlanta Braves,Brett Baty,2,1st,Double,Brett Baty doubles (11) on a ground ball to left fielder Mauricio Dubón. Francisco Alvarez to 3rd.,True,True,False,False,True,2026-07-03,824904
+4,top,New York Mets,Atlanta Braves,Luis Torrens,2,2nd_3rd,Strikeout,Luis Torrens strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+4,bottom,Atlanta Braves,New York Mets,Austin Riley,0,empty,Strikeout,Austin Riley strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+4,bottom,Atlanta Braves,New York Mets,Mike Yastrzemski,1,empty,Strikeout,Mike Yastrzemski strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+4,bottom,Atlanta Braves,New York Mets,Jorge Mateo,2,empty,Strikeout,Jorge Mateo strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+5,top,New York Mets,Atlanta Braves,A.J. Ewing,0,empty,Flyout,A.J. Ewing flies out to center fielder Michael Harris II.,False,False,False,False,False,2026-07-03,824904
+5,top,New York Mets,Atlanta Braves,Juan Soto,1,empty,Groundout,"Juan Soto grounds out, second baseman Ozzie Albies to first baseman Matt Olson.",False,False,False,False,False,2026-07-03,824904
+5,top,New York Mets,Atlanta Braves,Bo Bichette,2,empty,Single,Bo Bichette singles on a line drive to right fielder Mike Yastrzemski.,True,False,False,False,True,2026-07-03,824904
+5,top,New York Mets,Atlanta Braves,Francisco Lindor,2,1st,Groundout,"Francisco Lindor grounds out, second baseman Ozzie Albies to first baseman Matt Olson.",False,False,False,False,False,2026-07-03,824904
+5,bottom,Atlanta Braves,New York Mets,Drake Baldwin,0,empty,Groundout,"Drake Baldwin grounds out, shortstop Francisco Lindor to first baseman Jared Young.",False,False,False,False,False,2026-07-03,824904
+5,bottom,Atlanta Braves,New York Mets,Ozzie Albies,1,empty,Groundout,"Ozzie Albies grounds out, third baseman Bo Bichette to first baseman Jared Young.",False,False,False,False,False,2026-07-03,824904
+5,bottom,Atlanta Braves,New York Mets,Matt Olson,2,empty,Home Run,Matt Olson homers (21) on a fly ball to right center field.,True,False,True,False,True,2026-07-03,824904
+5,bottom,Atlanta Braves,New York Mets,Mauricio Dubón,2,empty,Flyout,Mauricio Dubón flies out to left fielder Juan Soto.,False,False,False,False,False,2026-07-03,824904
+6,top,New York Mets,Atlanta Braves,Carson Benge,0,empty,Pop Out,Carson Benge pops out to third baseman Austin Riley.,False,False,False,False,False,2026-07-03,824904
+6,top,New York Mets,Atlanta Braves,Jared Young,1,empty,Strikeout,Jared Young strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+6,top,New York Mets,Atlanta Braves,Francisco Alvarez,2,empty,Single,"Francisco Alvarez singles on a ground ball to third baseman Austin Riley, deflected by pitcher Dylan Dodd.",True,False,False,False,True,2026-07-03,824904
+6,top,New York Mets,Atlanta Braves,Brett Baty,2,1st,Groundout,"Brett Baty grounds out, shortstop Jorge Mateo to first baseman Matt Olson.",False,False,False,False,False,2026-07-03,824904
+6,bottom,Atlanta Braves,New York Mets,Michael Harris II,0,empty,Strikeout,Michael Harris II strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+6,bottom,Atlanta Braves,New York Mets,Dominic Smith,1,empty,Groundout,"Dominic Smith grounds out, first baseman Jared Young to pitcher Kodai Senga.",False,False,False,False,False,2026-07-03,824904
+6,bottom,Atlanta Braves,New York Mets,Austin Riley,2,empty,Flyout,Austin Riley flies out to center fielder A.J. Ewing.,False,False,False,False,False,2026-07-03,824904
+7,top,New York Mets,Atlanta Braves,Luis Torrens,0,empty,Groundout,"Luis Torrens grounds out, third baseman Austin Riley to first baseman Matt Olson.",False,False,False,False,False,2026-07-03,824904
+7,top,New York Mets,Atlanta Braves,Tyrone Taylor,1,empty,Groundout,"Tyrone Taylor grounds out, shortstop Jorge Mateo to first baseman Matt Olson.",False,False,False,False,False,2026-07-03,824904
+7,top,New York Mets,Atlanta Braves,Juan Soto,2,empty,Walk,"Juan Soto challenged (pitch result), call on the field was overturned: Juan Soto walks.",True,False,False,False,True,2026-07-03,824904
+7,top,New York Mets,Atlanta Braves,Bo Bichette,2,1st,Groundout,Bo Bichette grounds out to first baseman Matt Olson.,False,False,False,False,False,2026-07-03,824904
+7,bottom,Atlanta Braves,New York Mets,Mike Yastrzemski,0,empty,Groundout,"Mike Yastrzemski grounds out, first baseman Jared Young to pitcher Kodai Senga.",False,False,False,False,False,2026-07-03,824904
+7,bottom,Atlanta Braves,New York Mets,Jorge Mateo,1,empty,Strikeout,Jorge Mateo strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+7,bottom,Atlanta Braves,New York Mets,Drake Baldwin,2,empty,Strikeout,Drake Baldwin called out on strikes.,False,False,False,False,False,2026-07-03,824904
+8,top,New York Mets,Atlanta Braves,Francisco Lindor,0,empty,Strikeout,Francisco Lindor strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+8,top,New York Mets,Atlanta Braves,Carson Benge,1,empty,Single,Carson Benge singles on a line drive to left fielder Mauricio Dubón.,True,False,False,False,True,2026-07-03,824904
+8,top,New York Mets,Atlanta Braves,Jared Young,1,1st,Flyout,Jared Young flies out to left fielder Mauricio Dubón.,False,False,False,False,False,2026-07-03,824904
+8,top,New York Mets,Atlanta Braves,Francisco Alvarez,2,empty,Groundout,"Francisco Alvarez grounds out, shortstop Jorge Mateo to first baseman Matt Olson.",False,False,False,False,False,2026-07-03,824904
+8,bottom,Atlanta Braves,New York Mets,Ozzie Albies,0,empty,Groundout,Ozzie Albies grounds out to first baseman Jared Young.,False,False,False,False,False,2026-07-03,824904
+8,bottom,Atlanta Braves,New York Mets,Matt Olson,1,empty,Home Run,Matt Olson homers (22) on a fly ball to right field.,True,False,True,False,True,2026-07-03,824904
+8,bottom,Atlanta Braves,New York Mets,Mauricio Dubón,1,empty,Strikeout,Mauricio Dubón strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+8,bottom,Atlanta Braves,New York Mets,Michael Harris II,2,empty,Single,Michael Harris II singles on a ground ball to right fielder Carson Benge.,True,False,False,False,True,2026-07-03,824904
+8,bottom,Atlanta Braves,New York Mets,Dominic Smith,2,1st,Flyout,Dominic Smith flies out to center fielder Tyrone Taylor.,False,False,False,False,False,2026-07-03,824904
+9,top,New York Mets,Atlanta Braves,Brett Baty,0,empty,Pop Out,Brett Baty pops out to shortstop Jorge Mateo.,False,False,False,False,False,2026-07-03,824904
+9,top,New York Mets,Atlanta Braves,Luis Torrens,1,empty,Single,Luis Torrens singles on a ground ball to right fielder Mike Yastrzemski.,True,False,False,False,True,2026-07-03,824904
+9,top,New York Mets,Atlanta Braves,Tyrone Taylor,1,1st,Strikeout,Tyrone Taylor strikes out swinging.,False,False,False,False,False,2026-07-03,824904
+9,top,New York Mets,Atlanta Braves,Juan Soto,2,empty,Single,Juan Soto singles on a sharp line drive to right fielder Mike Yastrzemski. Luis Torrens to 3rd.,True,True,False,False,True,2026-07-03,824904
+9,top,New York Mets,Atlanta Braves,Bo Bichette,2,loaded,Single,Bo Bichette singles on a ground ball to right fielder Mike Yastrzemski. Luis Torrens scores. Juan Soto to 3rd.,True,True,True,False,True,2026-07-03,824904
+9,top,New York Mets,Atlanta Braves,Francisco Lindor,2,loaded,Groundout,"Francisco Lindor grounds out, second baseman Ozzie Albies to first baseman Matt Olson.",False,False,False,False,False,2026-07-03,824904
+1,top,San Francisco Giants,Colorado Rockies,Luis Arraez,0,empty,Strikeout,Luis Arraez strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+1,top,San Francisco Giants,Colorado Rockies,Casey Schmitt,1,empty,Single,Casey Schmitt singles on a sharp ground ball to left fielder Jake McCarthy.,True,False,False,False,True,2026-07-03,824336
+1,top,San Francisco Giants,Colorado Rockies,Heliot Ramos,1,1st,Flyout,Heliot Ramos flies out to center fielder Cole Carrigg.,False,False,False,False,False,2026-07-03,824336
+1,top,San Francisco Giants,Colorado Rockies,Rafael Devers,2,empty,Lineout,Rafael Devers lines out to right fielder Tyler Freeman.,False,False,False,False,False,2026-07-03,824336
+1,bottom,Colorado Rockies,San Francisco Giants,Jake McCarthy,0,empty,Home Run,Jake McCarthy homers (8) on a fly ball to right center field.,True,False,True,False,True,2026-07-03,824336
+1,bottom,Colorado Rockies,San Francisco Giants,Mickey Moniak,0,empty,Single,Mickey Moniak singles on a ground ball to center fielder Jung Hoo Lee.,True,False,False,False,True,2026-07-03,824336
+1,bottom,Colorado Rockies,San Francisco Giants,Hunter Goodman,0,1st,Single,Hunter Goodman singles on a line drive to right fielder Heliot Ramos. Mickey Moniak to 2nd.,True,True,False,False,True,2026-07-03,824336
+1,bottom,Colorado Rockies,San Francisco Giants,TJ Rumfield,0,1st_2nd,Single,TJ Rumfield singles on a line drive to right fielder Heliot Ramos. Mickey Moniak to 3rd. Hunter Goodman to 2nd.,True,True,False,False,True,2026-07-03,824336
+1,bottom,Colorado Rockies,San Francisco Giants,Cole Carrigg,0,loaded,Walk,Cole Carrigg walks. Mickey Moniak scores. Hunter Goodman to 3rd. TJ Rumfield to 2nd.,True,True,True,False,True,2026-07-03,824336
+1,bottom,Colorado Rockies,San Francisco Giants,Tyler Freeman,0,loaded,Grounded Into DP,"Tyler Freeman grounds into a double play, third baseman Casey Schmitt to first baseman Bryce Eldridge. Hunter Goodman scores. TJ Rumfield out at 3rd. Cole Carrigg to 2nd. Tyler Freeman out at 1st.",False,True,True,True,True,2026-07-03,824336
+1,bottom,Colorado Rockies,San Francisco Giants,Edouard Julien,2,2nd,Groundout,Edouard Julien grounds out to first baseman Bryce Eldridge.,False,False,False,False,False,2026-07-03,824336
+2,top,San Francisco Giants,Colorado Rockies,Jung Hoo Lee,0,empty,Strikeout,Jung Hoo Lee strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+2,top,San Francisco Giants,Colorado Rockies,Willy Adames,1,empty,Strikeout,Willy Adames strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+2,top,San Francisco Giants,Colorado Rockies,Bryce Eldridge,2,empty,Strikeout,Bryce Eldridge strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+2,bottom,Colorado Rockies,San Francisco Giants,Kyle Karros,0,empty,Single,Kyle Karros singles on a sharp line drive to center fielder Jung Hoo Lee.,True,False,False,False,True,2026-07-03,824336
+2,bottom,Colorado Rockies,San Francisco Giants,Ezequiel Tovar,0,1st,Home Run,Ezequiel Tovar homers (7) on a fly ball to right center field. Kyle Karros scores.,True,True,True,False,True,2026-07-03,824336
+2,bottom,Colorado Rockies,San Francisco Giants,Jake McCarthy,0,2nd,Single,Jake McCarthy singles on a sharp line drive to right fielder Heliot Ramos.,True,False,False,False,False,2026-07-03,824336
+2,bottom,Colorado Rockies,San Francisco Giants,Mickey Moniak,0,1st,Single,"Mickey Moniak singles on a ground ball to second baseman Luis Arraez, deflected by first baseman Bryce Eldridge. Jake McCarthy to 2nd.",True,True,False,False,True,2026-07-03,824336
+2,bottom,Colorado Rockies,San Francisco Giants,Hunter Goodman,0,1st_2nd,Grounded Into DP,"Rockies challenged (force play), call on the field was upheld: Hunter Goodman grounds into a double play, shortstop Willy Adames to second baseman Luis Arraez to first baseman Bryce Eldridge. Jake McCarthy to 3rd. Mickey Moniak out at 2nd. Hunter Goodman out at 1st.",False,True,False,True,False,2026-07-03,824336
+2,bottom,Colorado Rockies,San Francisco Giants,TJ Rumfield,2,3rd,Strikeout,TJ Rumfield strikes out on a foul tip.,False,False,False,False,False,2026-07-03,824336
+3,top,San Francisco Giants,Colorado Rockies,Victor Bericoto,0,empty,Strikeout,Victor Bericoto called out on strikes.,False,False,False,False,False,2026-07-03,824336
+3,top,San Francisco Giants,Colorado Rockies,Drew Cavanaugh,1,empty,Flyout,Drew Cavanaugh flies out to center fielder Cole Carrigg.,False,False,False,False,False,2026-07-03,824336
+3,top,San Francisco Giants,Colorado Rockies,Luis Arraez,2,empty,Double,Luis Arraez doubles (19) on a line drive to left fielder Jake McCarthy.,True,False,False,False,True,2026-07-03,824336
+3,top,San Francisco Giants,Colorado Rockies,Casey Schmitt,2,2nd,Single,Casey Schmitt singles on a sharp ground ball to right fielder Tyler Freeman. Luis Arraez scores.,True,True,True,False,True,2026-07-03,824336
+3,top,San Francisco Giants,Colorado Rockies,Heliot Ramos,2,1st,Groundout,"Heliot Ramos grounds out, third baseman Kyle Karros to first baseman TJ Rumfield.",False,False,False,False,False,2026-07-03,824336
+3,bottom,Colorado Rockies,San Francisco Giants,Cole Carrigg,0,empty,Triple,"Cole Carrigg triples (2) on a line drive to right fielder Heliot Ramos, deflected by center fielder Jung Hoo Lee.",True,False,False,False,True,2026-07-03,824336
+3,bottom,Colorado Rockies,San Francisco Giants,Tyler Freeman,0,3rd,Groundout,"Tyler Freeman grounds out, third baseman Casey Schmitt to first baseman Bryce Eldridge.",False,False,False,False,False,2026-07-03,824336
+3,bottom,Colorado Rockies,San Francisco Giants,Edouard Julien,1,empty,Fielders Choice,"Edouard Julien reaches on a fielder's choice, fielded by second baseman Luis Arraez. Cole Carrigg scores.",False,True,True,False,False,2026-07-03,824336
+3,bottom,Colorado Rockies,San Francisco Giants,Kyle Karros,1,1st,Flyout,Kyle Karros flies out to right fielder Heliot Ramos.,False,False,False,False,False,2026-07-03,824336
+3,bottom,Colorado Rockies,San Francisco Giants,Ezequiel Tovar,2,empty,Single,Ezequiel Tovar singles on a line drive to right fielder Heliot Ramos. Edouard Julien to 2nd.,True,True,False,False,True,2026-07-03,824336
+3,bottom,Colorado Rockies,San Francisco Giants,Jake McCarthy,2,1st_2nd,Single,Jake McCarthy singles on a line drive to right fielder Heliot Ramos. Edouard Julien scores. Ezequiel Tovar to 3rd.,True,True,True,False,True,2026-07-03,824336
+3,bottom,Colorado Rockies,San Francisco Giants,Mickey Moniak,2,loaded,Walk,Mickey Moniak walks.,True,True,False,False,True,2026-07-03,824336
+3,bottom,Colorado Rockies,San Francisco Giants,Hunter Goodman,2,1st_2nd,Strikeout,Hunter Goodman strikes out on a foul tip.,False,False,False,False,False,2026-07-03,824336
+4,top,San Francisco Giants,Colorado Rockies,Rafael Devers,0,empty,Groundout,"Rafael Devers grounds out, first baseman TJ Rumfield to pitcher Ryan Feltner.",False,False,False,False,False,2026-07-03,824336
+4,top,San Francisco Giants,Colorado Rockies,Jung Hoo Lee,1,empty,Single,"Jung Hoo Lee singles on a bunt ground ball to pitcher Ryan Feltner. Jung Hoo Lee to 2nd. Jung Hoo Lee advances to 2nd, on a throwing error by pitcher Ryan Feltner.",True,True,False,False,True,2026-07-03,824336
+4,top,San Francisco Giants,Colorado Rockies,Willy Adames,1,1st_2nd,Groundout,"Willy Adames grounds out, first baseman TJ Rumfield to pitcher Ryan Feltner. Jung Hoo Lee to 3rd.",False,True,False,False,True,2026-07-03,824336
+4,top,San Francisco Giants,Colorado Rockies,Bryce Eldridge,2,3rd,Single,Bryce Eldridge singles on a line drive to right fielder Tyler Freeman. Jung Hoo Lee scores.,True,True,True,False,True,2026-07-03,824336
+4,top,San Francisco Giants,Colorado Rockies,Victor Bericoto,2,1st,Groundout,"Victor Bericoto grounds out, second baseman Edouard Julien to first baseman TJ Rumfield.",False,False,False,False,False,2026-07-03,824336
+4,bottom,Colorado Rockies,San Francisco Giants,TJ Rumfield,0,empty,Groundout,"TJ Rumfield grounds out softly, second baseman Luis Arraez to first baseman Bryce Eldridge.",False,False,False,False,False,2026-07-03,824336
+4,bottom,Colorado Rockies,San Francisco Giants,Cole Carrigg,1,empty,Strikeout,Cole Carrigg strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+4,bottom,Colorado Rockies,San Francisco Giants,Tyler Freeman,2,empty,Flyout,Tyler Freeman flies out to left fielder Victor Bericoto.,False,False,False,False,False,2026-07-03,824336
+5,top,San Francisco Giants,Colorado Rockies,Drew Cavanaugh,0,empty,Strikeout,Drew Cavanaugh strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+5,top,San Francisco Giants,Colorado Rockies,Luis Arraez,1,empty,Flyout,Luis Arraez flies out to center fielder Cole Carrigg.,False,False,False,False,False,2026-07-03,824336
+5,top,San Francisco Giants,Colorado Rockies,Casey Schmitt,2,empty,Strikeout,Casey Schmitt strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Edouard Julien,0,empty,Walk,Edouard Julien walks.,True,False,False,False,True,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Kyle Karros,0,1st,Single,Kyle Karros singles on a line drive to center fielder Jung Hoo Lee. Edouard Julien to 2nd.,True,True,False,False,True,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Ezequiel Tovar,0,1st_2nd,Single,Ezequiel Tovar singles on a ground ball to left fielder Victor Bericoto. Edouard Julien to 3rd. Kyle Karros to 2nd.,True,True,False,False,True,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Jake McCarthy,0,loaded,Home Run,Jake McCarthy hits a grand slam (9) to right center field. Edouard Julien scores. Kyle Karros scores. Ezequiel Tovar scores.,True,True,True,False,True,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Mickey Moniak,0,empty,Groundout,"Mickey Moniak grounds out, second baseman Luis Arraez to first baseman Bryce Eldridge.",False,False,False,False,False,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Hunter Goodman,1,empty,Double,Hunter Goodman doubles (14) on a sharp line drive to left fielder Victor Bericoto.,True,False,False,False,True,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,TJ Rumfield,1,2nd,Walk,TJ Rumfield walks.,True,False,False,False,False,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Cole Carrigg,1,1st,Triple,Cole Carrigg triples (3) on a sharp line drive to center fielder Jung Hoo Lee. Hunter Goodman scores. TJ Rumfield scores.,True,True,True,False,True,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Tyler Freeman,1,3rd,Single,Tyler Freeman singles on a ground ball to center fielder Jung Hoo Lee. Cole Carrigg scores.,True,True,True,False,True,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Edouard Julien,1,1st,Strikeout,"Edouard Julien challenged (pitch result), call on the field was confirmed: Edouard Julien called out on strikes.",False,False,False,False,False,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Kyle Karros,2,empty,Walk,Kyle Karros walks. Tyler Freeman to 2nd.,True,True,False,False,True,2026-07-03,824336
+5,bottom,Colorado Rockies,San Francisco Giants,Ezequiel Tovar,2,1st_2nd,Pop Out,Ezequiel Tovar pops out softly to first baseman Bryce Eldridge in foul territory.,False,False,False,False,False,2026-07-03,824336
+6,top,San Francisco Giants,Colorado Rockies,Heliot Ramos,0,empty,Strikeout,Heliot Ramos strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+6,top,San Francisco Giants,Colorado Rockies,Rafael Devers,1,empty,Home Run,Rafael Devers homers (16) on a fly ball to right field.,True,False,True,False,True,2026-07-03,824336
+6,top,San Francisco Giants,Colorado Rockies,Jung Hoo Lee,1,empty,Flyout,Jung Hoo Lee flies out to left fielder Jake McCarthy.,False,False,False,False,False,2026-07-03,824336
+6,top,San Francisco Giants,Colorado Rockies,Willy Adames,2,empty,Strikeout,Willy Adames strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+6,bottom,Colorado Rockies,San Francisco Giants,Jake McCarthy,0,empty,Lineout,Jake McCarthy lines out to center fielder Drew Gilbert.,False,False,False,False,False,2026-07-03,824336
+6,bottom,Colorado Rockies,San Francisco Giants,Mickey Moniak,1,empty,Groundout,"Mickey Moniak grounds out softly, shortstop Christian Koss to first baseman Bryce Eldridge.",False,False,False,False,False,2026-07-03,824336
+6,bottom,Colorado Rockies,San Francisco Giants,Braxton Fulford,2,empty,Groundout,"Braxton Fulford grounds out, shortstop Christian Koss to first baseman Bryce Eldridge.",False,False,False,False,False,2026-07-03,824336
+7,top,San Francisco Giants,Colorado Rockies,Bryce Eldridge,0,empty,Field Error,Bryce Eldridge reaches on a fielding error by third baseman Kyle Karros.,False,False,False,False,False,2026-07-03,824336
+7,top,San Francisco Giants,Colorado Rockies,Victor Bericoto,0,1st,Grounded Into DP,"Victor Bericoto grounds into a double play, shortstop Ezequiel Tovar to second baseman Edouard Julien to first baseman Brett Sullivan. Bryce Eldridge out at 2nd. Victor Bericoto out at 1st.",False,False,False,True,False,2026-07-03,824336
+7,top,San Francisco Giants,Colorado Rockies,Drew Cavanaugh,2,empty,Lineout,Drew Cavanaugh lines out to center fielder Cole Carrigg.,False,False,False,False,False,2026-07-03,824336
+7,bottom,Colorado Rockies,San Francisco Giants,Brett Sullivan,0,empty,Walk,Brett Sullivan walks.,True,False,False,False,True,2026-07-03,824336
+7,bottom,Colorado Rockies,San Francisco Giants,Cole Carrigg,0,1st,Forceout,"Cole Carrigg grounds into a force out, second baseman Jonah Cox to shortstop Christian Koss. Brett Sullivan out at 2nd. Cole Carrigg to 1st.",False,False,False,False,False,2026-07-03,824336
+7,bottom,Colorado Rockies,San Francisco Giants,Tyler Freeman,1,1st,Groundout,"Tyler Freeman grounds out sharply, second baseman Jonah Cox to first baseman Bryce Eldridge. Cole Carrigg to 2nd.",False,True,False,False,True,2026-07-03,824336
+7,bottom,Colorado Rockies,San Francisco Giants,Edouard Julien,2,2nd,Groundout,"Edouard Julien grounds out, second baseman Jonah Cox to first baseman Bryce Eldridge.",False,False,False,False,False,2026-07-03,824336
+8,top,San Francisco Giants,Colorado Rockies,Jonah Cox,0,empty,Strikeout,Jonah Cox strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+8,top,San Francisco Giants,Colorado Rockies,Casey Schmitt,1,empty,Flyout,Casey Schmitt flies out to right fielder Tyler Freeman.,False,False,False,False,False,2026-07-03,824336
+8,top,San Francisco Giants,Colorado Rockies,Heliot Ramos,2,empty,Single,Heliot Ramos singles on a sharp line drive to left fielder Troy Johnston.,True,False,False,False,True,2026-07-03,824336
+8,top,San Francisco Giants,Colorado Rockies,Rafael Devers,2,1st,Single,Rafael Devers singles on a line drive to left fielder Troy Johnston. Heliot Ramos to 2nd.,True,True,False,False,True,2026-07-03,824336
+8,top,San Francisco Giants,Colorado Rockies,Drew Gilbert,2,1st_2nd,Groundout,"Drew Gilbert grounds out, second baseman Edouard Julien to first baseman Brett Sullivan.",False,False,False,False,False,2026-07-03,824336
+8,bottom,Colorado Rockies,San Francisco Giants,Kyle Karros,0,empty,Triple,Kyle Karros triples (2) on a sharp ground ball to right fielder Heliot Ramos.,True,False,False,False,True,2026-07-03,824336
+8,bottom,Colorado Rockies,San Francisco Giants,Ezequiel Tovar,0,3rd,Sac Fly,Ezequiel Tovar out on a sacrifice fly to center fielder Drew Gilbert. Kyle Karros scores.,False,True,True,False,True,2026-07-03,824336
+8,bottom,Colorado Rockies,San Francisco Giants,Troy Johnston,1,empty,Walk,Troy Johnston walks.,True,False,False,False,True,2026-07-03,824336
+8,bottom,Colorado Rockies,San Francisco Giants,Mickey Moniak,1,1st,Strikeout,Mickey Moniak strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+8,bottom,Colorado Rockies,San Francisco Giants,Braxton Fulford,2,empty,Strikeout,Braxton Fulford strikes out swinging.,False,False,False,False,False,2026-07-03,824336
+9,top,San Francisco Giants,Colorado Rockies,Christian Koss,0,empty,Flyout,Christian Koss flies out to center fielder Cole Carrigg.,False,False,False,False,False,2026-07-03,824336
+9,top,San Francisco Giants,Colorado Rockies,Bryce Eldridge,1,empty,Walk,Bryce Eldridge walks.,True,False,False,False,True,2026-07-03,824336
+9,top,San Francisco Giants,Colorado Rockies,Victor Bericoto,1,1st,Grounded Into DP,"Victor Bericoto grounds into a double play, shortstop Ezequiel Tovar to second baseman Edouard Julien to first baseman Brett Sullivan. Bryce Eldridge out at 2nd. Victor Bericoto out at 1st.",False,False,False,True,False,2026-07-03,824336
+1,top,Tampa Bay Rays,Houston Astros,Yandy Díaz,0,empty,Single,Yandy Díaz singles on a sharp line drive to center fielder Jake Meyers.,True,False,False,False,True,2026-07-03,824173
+1,top,Tampa Bay Rays,Houston Astros,Jonathan Aranda,0,1st,Grounded Into DP,"Jonathan Aranda grounds into a double play, second baseman Jose Altuve to shortstop Nick Allen to first baseman Christian Walker. Yandy Díaz out at 2nd. Jonathan Aranda out at 1st.",False,False,False,True,False,2026-07-03,824173
+1,top,Tampa Bay Rays,Houston Astros,Junior Caminero,2,empty,Groundout,"Junior Caminero grounds out, third baseman Isaac Paredes to first baseman Christian Walker.",False,False,False,False,False,2026-07-03,824173
+1,bottom,Houston Astros,Tampa Bay Rays,Jose Altuve,0,empty,Strikeout,"Jose Altuve strikes out swinging, catcher Nick Fortes to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+1,bottom,Houston Astros,Tampa Bay Rays,Yordan Alvarez,1,empty,Groundout,"Yordan Alvarez grounds out, second baseman Ben Williamson to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+1,bottom,Houston Astros,Tampa Bay Rays,Isaac Paredes,2,empty,Hit By Pitch,Isaac Paredes hit by pitch.,True,False,False,False,True,2026-07-03,824173
+1,bottom,Houston Astros,Tampa Bay Rays,Christian Walker,2,1st,Lineout,Christian Walker lines out to center fielder Cedric Mullins.,False,True,False,False,False,2026-07-03,824173
+2,top,Tampa Bay Rays,Houston Astros,Cedric Mullins,0,empty,Pop Out,Cedric Mullins pops out to second baseman Jose Altuve.,False,False,False,False,False,2026-07-03,824173
+2,top,Tampa Bay Rays,Houston Astros,Jonny DeLuca,1,empty,Walk,Jonny DeLuca walks.,True,False,False,False,True,2026-07-03,824173
+2,top,Tampa Bay Rays,Houston Astros,Victor Mesa Jr.,2,1st,Strikeout,Victor Mesa Jr. strikes out swinging.,False,False,False,False,False,2026-07-03,824173
+2,bottom,Houston Astros,Tampa Bay Rays,Cam Smith,0,empty,Flyout,Cam Smith flies out sharply to center fielder Cedric Mullins.,False,False,False,False,False,2026-07-03,824173
+2,bottom,Houston Astros,Tampa Bay Rays,Taylor Trammell,1,empty,Bunt Groundout,"Taylor Trammell bunt grounds out, third baseman Junior Caminero to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+2,bottom,Houston Astros,Tampa Bay Rays,Yainer Diaz,2,empty,Groundout,"Yainer Diaz grounds out, shortstop Taylor Walls to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+3,top,Tampa Bay Rays,Houston Astros,Ben Williamson,0,empty,Flyout,Ben Williamson flies out to right fielder Cam Smith in foul territory.,False,False,False,False,False,2026-07-03,824173
+3,top,Tampa Bay Rays,Houston Astros,Taylor Walls,1,empty,Groundout,"Taylor Walls grounds out, first baseman Christian Walker to pitcher Spencer Arrighetti.",False,False,False,False,False,2026-07-03,824173
+3,top,Tampa Bay Rays,Houston Astros,Nick Fortes,2,empty,Groundout,"Nick Fortes grounds out, third baseman Isaac Paredes to first baseman Christian Walker.",False,False,False,False,False,2026-07-03,824173
+3,bottom,Houston Astros,Tampa Bay Rays,Jake Meyers,0,empty,Field Error,Jake Meyers reaches on a fielding error by third baseman Junior Caminero.,False,False,False,False,False,2026-07-03,824173
+3,bottom,Houston Astros,Tampa Bay Rays,Nick Allen,0,1st,Groundout,"Nick Allen grounds out, shortstop Taylor Walls to first baseman Jonathan Aranda. Jake Meyers to 2nd.",False,True,False,False,True,2026-07-03,824173
+3,bottom,Houston Astros,Tampa Bay Rays,Jose Altuve,1,2nd,Strikeout,"Nick Fortes challenged (pitch result), call on the field was overturned: Jose Altuve called out on strikes.",False,False,False,False,False,2026-07-03,824173
+3,bottom,Houston Astros,Tampa Bay Rays,Yordan Alvarez,2,empty,Strikeout,Yordan Alvarez strikes out swinging.,False,False,False,False,False,2026-07-03,824173
+4,top,Tampa Bay Rays,Houston Astros,Yandy Díaz,0,empty,Strikeout,Yandy Díaz strikes out swinging.,False,False,False,False,False,2026-07-03,824173
+4,top,Tampa Bay Rays,Houston Astros,Jonathan Aranda,1,empty,Groundout,"Jonathan Aranda grounds out, first baseman Christian Walker to pitcher Spencer Arrighetti.",False,False,False,False,False,2026-07-03,824173
+4,top,Tampa Bay Rays,Houston Astros,Junior Caminero,2,empty,Flyout,Junior Caminero flies out to third baseman Isaac Paredes in foul territory.,False,False,False,False,False,2026-07-03,824173
+4,bottom,Houston Astros,Tampa Bay Rays,Isaac Paredes,0,empty,Lineout,Isaac Paredes lines out to second baseman Ben Williamson.,False,False,False,False,False,2026-07-03,824173
+4,bottom,Houston Astros,Tampa Bay Rays,Christian Walker,1,empty,Walk,Christian Walker walks.,True,False,False,False,True,2026-07-03,824173
+4,bottom,Houston Astros,Tampa Bay Rays,Cam Smith,1,1st,Single,Cam Smith singles on a line drive to right fielder Jonny DeLuca. Christian Walker to 2nd.,True,True,False,False,True,2026-07-03,824173
+4,bottom,Houston Astros,Tampa Bay Rays,Taylor Trammell,1,1st_2nd,Double Play,"Taylor Trammell flies into a double play, center fielder Cedric Mullins to shortstop Taylor Walls. Cam Smith out at 2nd.",False,False,False,False,False,2026-07-03,824173
+5,top,Tampa Bay Rays,Houston Astros,Cedric Mullins,0,empty,Groundout,"Cedric Mullins grounds out, shortstop Nick Allen to first baseman Christian Walker.",False,False,False,False,False,2026-07-03,824173
+5,top,Tampa Bay Rays,Houston Astros,Jonny DeLuca,1,empty,Strikeout,Jonny DeLuca strikes out swinging.,False,False,False,False,False,2026-07-03,824173
+5,top,Tampa Bay Rays,Houston Astros,Victor Mesa Jr.,2,empty,Strikeout,Victor Mesa Jr. strikes out on a foul tip.,False,False,False,False,False,2026-07-03,824173
+5,bottom,Houston Astros,Tampa Bay Rays,Yainer Diaz,0,empty,Groundout,"Yainer Diaz grounds out, third baseman Junior Caminero to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+5,bottom,Houston Astros,Tampa Bay Rays,Jake Meyers,1,empty,Flyout,Jake Meyers flies out to left fielder Victor Mesa Jr.,False,False,False,False,False,2026-07-03,824173
+5,bottom,Houston Astros,Tampa Bay Rays,Nick Allen,2,empty,Flyout,Nick Allen flies out to center fielder Cedric Mullins.,False,False,False,False,False,2026-07-03,824173
+6,top,Tampa Bay Rays,Houston Astros,Ben Williamson,0,empty,Flyout,Ben Williamson flies out to right fielder Cam Smith in foul territory.,False,False,False,False,False,2026-07-03,824173
+6,top,Tampa Bay Rays,Houston Astros,Taylor Walls,1,empty,Lineout,Taylor Walls lines out to left fielder Taylor Trammell.,False,False,False,False,False,2026-07-03,824173
+6,top,Tampa Bay Rays,Houston Astros,Nick Fortes,2,empty,Home Run,Nick Fortes homers (2) on a fly ball to left center field.,True,False,True,False,True,2026-07-03,824173
+6,top,Tampa Bay Rays,Houston Astros,Yandy Díaz,2,empty,Lineout,Yandy Díaz lines out to shortstop Nick Allen.,False,False,False,False,False,2026-07-03,824173
+6,bottom,Houston Astros,Tampa Bay Rays,Jose Altuve,0,empty,Flyout,Jose Altuve flies out to left fielder Victor Mesa Jr.,False,False,False,False,False,2026-07-03,824173
+6,bottom,Houston Astros,Tampa Bay Rays,Yordan Alvarez,1,empty,Home Run,Yordan Alvarez homers (27) on a fly ball to right center field.,True,False,True,False,True,2026-07-03,824173
+6,bottom,Houston Astros,Tampa Bay Rays,Isaac Paredes,1,empty,Single,Isaac Paredes singles on a ground ball to third baseman Junior Caminero.,True,False,False,False,True,2026-07-03,824173
+6,bottom,Houston Astros,Tampa Bay Rays,Christian Walker,1,1st,Lineout,Christian Walker lines out to second baseman Ben Williamson.,False,False,False,False,False,2026-07-03,824173
+6,bottom,Houston Astros,Tampa Bay Rays,Cam Smith,2,empty,Forceout,"Cam Smith grounds into a force out, third baseman Junior Caminero to second baseman Ben Williamson. Isaac Paredes out at 2nd.",False,False,False,False,False,2026-07-03,824173
+7,top,Tampa Bay Rays,Houston Astros,Jonathan Aranda,0,empty,Strikeout,Jonathan Aranda strikes out swinging.,False,False,False,False,False,2026-07-03,824173
+7,top,Tampa Bay Rays,Houston Astros,Junior Caminero,1,empty,Home Run,Junior Caminero homers (25) on a fly ball to left field.,True,False,True,False,True,2026-07-03,824173
+7,top,Tampa Bay Rays,Houston Astros,Cedric Mullins,1,empty,Pop Out,Cedric Mullins pops out to catcher Yainer Diaz in foul territory.,False,False,False,False,False,2026-07-03,824173
+7,top,Tampa Bay Rays,Houston Astros,Jonny DeLuca,2,empty,Strikeout,Jonny DeLuca called out on strikes.,False,False,False,False,False,2026-07-03,824173
+7,bottom,Houston Astros,Tampa Bay Rays,Taylor Trammell,0,empty,Groundout,"Taylor Trammell grounds out, shortstop Taylor Walls to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+7,bottom,Houston Astros,Tampa Bay Rays,Yainer Diaz,1,empty,Groundout,"Yainer Diaz grounds out, shortstop Taylor Walls to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+7,bottom,Houston Astros,Tampa Bay Rays,Jake Meyers,2,empty,Groundout,"Jake Meyers grounds out, third baseman Junior Caminero to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+8,top,Tampa Bay Rays,Houston Astros,Victor Mesa Jr.,0,empty,Pop Out,Victor Mesa Jr. pops out to shortstop Nick Allen.,False,False,False,False,False,2026-07-03,824173
+8,top,Tampa Bay Rays,Houston Astros,Ben Williamson,1,empty,Single,Ben Williamson singles on a line drive to left fielder Taylor Trammell.,True,False,False,False,True,2026-07-03,824173
+8,top,Tampa Bay Rays,Houston Astros,Taylor Walls,1,1st,Forceout,"Taylor Walls grounds into a force out, second baseman Jose Altuve to shortstop Nick Allen. Ben Williamson out at 2nd. Taylor Walls to 1st.",False,False,False,False,False,2026-07-03,824173
+8,top,Tampa Bay Rays,Houston Astros,Nick Fortes,2,1st,Double,Nick Fortes doubles (11) on a fly ball to center fielder Jake Meyers. Taylor Walls scores.,True,True,True,False,True,2026-07-03,824173
+8,top,Tampa Bay Rays,Houston Astros,Yandy Díaz,2,2nd_3rd,Strikeout,Yandy Díaz strikes out swinging.,False,False,False,False,False,2026-07-03,824173
+8,bottom,Houston Astros,Tampa Bay Rays,Raynel Delgado,0,empty,Groundout,"Raynel Delgado grounds out, third baseman Junior Caminero to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+8,bottom,Houston Astros,Tampa Bay Rays,Jose Altuve,1,empty,Groundout,"Jose Altuve grounds out, pitcher Casey Legumina to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+8,bottom,Houston Astros,Tampa Bay Rays,Yordan Alvarez,2,empty,Groundout,"Yordan Alvarez grounds out, second baseman Ben Williamson to first baseman Jonathan Aranda.",False,False,False,False,False,2026-07-03,824173
+9,top,Tampa Bay Rays,Houston Astros,Jonathan Aranda,0,empty,Groundout,"Jonathan Aranda grounds out, shortstop Raynel Delgado to first baseman Christian Walker.",False,False,False,False,False,2026-07-03,824173
+9,top,Tampa Bay Rays,Houston Astros,Junior Caminero,1,empty,Strikeout,Junior Caminero strikes out swinging.,False,False,False,False,False,2026-07-03,824173
+9,top,Tampa Bay Rays,Houston Astros,Cedric Mullins,2,empty,Groundout,Cedric Mullins grounds out to first baseman Christian Walker.,False,False,False,False,False,2026-07-03,824173
+9,bottom,Houston Astros,Tampa Bay Rays,Isaac Paredes,0,empty,Lineout,Isaac Paredes lines out to second baseman Ben Williamson.,False,False,False,False,False,2026-07-03,824173
+9,bottom,Houston Astros,Tampa Bay Rays,Christian Walker,1,empty,Strikeout,Christian Walker strikes out swinging.,False,False,False,False,False,2026-07-03,824173
+9,bottom,Houston Astros,Tampa Bay Rays,Cam Smith,2,empty,Lineout,Cam Smith lines out to shortstop Taylor Walls.,False,False,False,False,False,2026-07-03,824173
+1,top,Boston Red Sox,Los Angeles Angels,Nate Eaton,0,empty,Strikeout,Nate Eaton strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+1,top,Boston Red Sox,Los Angeles Angels,Ceddanne Rafaela,1,empty,Single,Ceddanne Rafaela singles on a line drive to right fielder Jo Adell.,True,False,False,False,True,2026-07-03,824013
+1,top,Boston Red Sox,Los Angeles Angels,Wilyer Abreu,1,1st,Flyout,Wilyer Abreu flies out to center fielder Jose Siri.,False,True,False,False,True,2026-07-03,824013
+1,top,Boston Red Sox,Los Angeles Angels,Willson Contreras,2,2nd,Walk,Willson Contreras walks.,True,False,False,False,True,2026-07-03,824013
+1,top,Boston Red Sox,Los Angeles Angels,Caleb Durbin,2,1st,Flyout,Caleb Durbin flies out to left fielder Josh Lowe.,False,False,False,False,False,2026-07-03,824013
+1,bottom,Los Angeles Angels,Boston Red Sox,Zach Neto,0,empty,Groundout,"Zach Neto grounds out softly, pitcher Jake Bennett to first baseman Willson Contreras.",False,False,False,False,False,2026-07-03,824013
+1,bottom,Los Angeles Angels,Boston Red Sox,Nolan Schanuel,1,empty,Groundout,"Nolan Schanuel grounds out, second baseman Romy Gonzalez to first baseman Willson Contreras.",False,False,False,False,False,2026-07-03,824013
+1,bottom,Los Angeles Angels,Boston Red Sox,Denzer Guzman,2,empty,Strikeout,Denzer Guzman strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+2,top,Boston Red Sox,Los Angeles Angels,Romy Gonzalez,0,empty,Triple,Romy Gonzalez triples (1) on a line drive to right fielder Jo Adell.,True,False,False,False,True,2026-07-03,824013
+2,top,Boston Red Sox,Los Angeles Angels,Jarren Duran,0,3rd,Sac Fly,Jarren Duran out on a sacrifice fly to left fielder Josh Lowe. Romy Gonzalez scores.,False,True,True,False,True,2026-07-03,824013
+2,top,Boston Red Sox,Los Angeles Angels,Andruw Monasterio,1,empty,Groundout,"Andruw Monasterio grounds out, second baseman Vaughn Grissom to first baseman Nolan Schanuel.",False,False,False,False,False,2026-07-03,824013
+2,top,Boston Red Sox,Los Angeles Angels,Carlos Narváez,2,empty,Single,Carlos Narváez singles on a ground ball to center fielder Jose Siri.,True,False,False,False,True,2026-07-03,824013
+2,top,Boston Red Sox,Los Angeles Angels,Nate Eaton,2,1st,Strikeout,Nate Eaton strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+2,bottom,Los Angeles Angels,Boston Red Sox,Jorge Soler,0,empty,Groundout,"Jorge Soler grounds out, shortstop Andruw Monasterio to first baseman Willson Contreras.",False,False,False,False,False,2026-07-03,824013
+2,bottom,Los Angeles Angels,Boston Red Sox,Vaughn Grissom,1,empty,Strikeout,Vaughn Grissom strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+2,bottom,Los Angeles Angels,Boston Red Sox,Jo Adell,2,empty,Lineout,Jo Adell lines out to first baseman Willson Contreras.,False,False,False,False,False,2026-07-03,824013
+3,top,Boston Red Sox,Los Angeles Angels,Ceddanne Rafaela,0,empty,Groundout,"Ceddanne Rafaela grounds out, shortstop Zach Neto to first baseman Nolan Schanuel.",False,False,False,False,False,2026-07-03,824013
+3,top,Boston Red Sox,Los Angeles Angels,Wilyer Abreu,1,empty,Double,Wilyer Abreu doubles (17) on a line drive to right fielder Jo Adell.,True,False,False,False,True,2026-07-03,824013
+3,top,Boston Red Sox,Los Angeles Angels,Willson Contreras,1,2nd,Single,Willson Contreras singles on a fly ball to right fielder Jo Adell. Wilyer Abreu to 3rd.,True,True,False,False,True,2026-07-03,824013
+3,top,Boston Red Sox,Los Angeles Angels,Caleb Durbin,1,1st_3rd,Walk,Caleb Durbin walks. Willson Contreras to 2nd.,True,True,False,False,False,2026-07-03,824013
+3,top,Boston Red Sox,Los Angeles Angels,Romy Gonzalez,1,1st_2nd,Single,Romy Gonzalez singles on a ground ball to right fielder Jo Adell. Wilyer Abreu scores. Willson Contreras scores. Caleb Durbin to 3rd.,True,True,True,False,True,2026-07-03,824013
+3,top,Boston Red Sox,Los Angeles Angels,Jarren Duran,1,loaded,Sac Bunt,"Jarren Duran hits a sacrifice bunt. Missed catch error by first baseman Nolan Schanuel, assist to pitcher Reid Detmers. Caleb Durbin scores. Romy Gonzalez to 3rd. Jarren Duran to 2nd.",False,True,True,False,True,2026-07-03,824013
+3,top,Boston Red Sox,Los Angeles Angels,Andruw Monasterio,1,loaded,Pop Out,Andruw Monasterio pops out to first baseman Nolan Schanuel in foul territory.,False,False,False,False,False,2026-07-03,824013
+3,top,Boston Red Sox,Los Angeles Angels,Carlos Narváez,2,empty,Flyout,Carlos Narváez flies out to right fielder Jo Adell.,False,False,False,False,False,2026-07-03,824013
+3,bottom,Los Angeles Angels,Boston Red Sox,Jose Siri,0,empty,Groundout,"Jose Siri grounds out, third baseman Caleb Durbin to first baseman Willson Contreras.",False,False,False,False,False,2026-07-03,824013
+3,bottom,Los Angeles Angels,Boston Red Sox,Josh Lowe,1,empty,Lineout,Josh Lowe lines out to third baseman Caleb Durbin.,False,False,False,False,False,2026-07-03,824013
+3,bottom,Los Angeles Angels,Boston Red Sox,Tyler Heineman,2,empty,Strikeout,Tyler Heineman strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+4,top,Boston Red Sox,Los Angeles Angels,Nate Eaton,0,empty,Strikeout,Nate Eaton called out on strikes.,False,False,False,False,False,2026-07-03,824013
+4,top,Boston Red Sox,Los Angeles Angels,Ceddanne Rafaela,1,empty,Pop Out,Ceddanne Rafaela pops out to first baseman Nolan Schanuel in foul territory.,False,False,False,False,False,2026-07-03,824013
+4,top,Boston Red Sox,Los Angeles Angels,Wilyer Abreu,2,empty,Walk,Wilyer Abreu walks.,True,False,False,False,True,2026-07-03,824013
+4,top,Boston Red Sox,Los Angeles Angels,Willson Contreras,2,1st,Flyout,Willson Contreras flies out to left fielder Josh Lowe.,False,True,False,False,False,2026-07-03,824013
+4,bottom,Los Angeles Angels,Boston Red Sox,Zach Neto,0,empty,Flyout,Zach Neto flies out to right fielder Nate Eaton.,False,False,False,False,False,2026-07-03,824013
+4,bottom,Los Angeles Angels,Boston Red Sox,Nolan Schanuel,1,empty,Groundout,Nolan Schanuel grounds out to first baseman Willson Contreras.,False,False,False,False,False,2026-07-03,824013
+4,bottom,Los Angeles Angels,Boston Red Sox,Denzer Guzman,2,empty,Flyout,Denzer Guzman flies out to left fielder Jarren Duran.,False,False,False,False,False,2026-07-03,824013
+5,top,Boston Red Sox,Los Angeles Angels,Caleb Durbin,0,empty,Home Run,Caleb Durbin homers (8) on a line drive to left field.,True,False,True,False,True,2026-07-03,824013
+5,top,Boston Red Sox,Los Angeles Angels,Romy Gonzalez,0,empty,Strikeout,Romy Gonzalez strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+5,top,Boston Red Sox,Los Angeles Angels,Jarren Duran,1,empty,Strikeout,Jarren Duran strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+5,top,Boston Red Sox,Los Angeles Angels,Andruw Monasterio,2,empty,Flyout,Andruw Monasterio flies out sharply to center fielder Jose Siri.,False,False,False,False,False,2026-07-03,824013
+5,bottom,Los Angeles Angels,Boston Red Sox,Jorge Soler,0,empty,Flyout,Jorge Soler flies out to left fielder Jarren Duran.,False,False,False,False,False,2026-07-03,824013
+5,bottom,Los Angeles Angels,Boston Red Sox,Vaughn Grissom,1,empty,Single,Vaughn Grissom singles on a line drive to right fielder Nate Eaton.,True,False,False,False,True,2026-07-03,824013
+5,bottom,Los Angeles Angels,Boston Red Sox,Jo Adell,1,1st,Flyout,Jo Adell flies out sharply to center fielder Ceddanne Rafaela.,False,False,False,False,False,2026-07-03,824013
+5,bottom,Los Angeles Angels,Boston Red Sox,Jose Siri,2,empty,Forceout,"Jose Siri grounds into a force out, shortstop Andruw Monasterio to second baseman Romy Gonzalez. Vaughn Grissom out at 2nd.",False,False,False,False,False,2026-07-03,824013
+6,top,Boston Red Sox,Los Angeles Angels,Carlos Narváez,0,empty,Strikeout,Carlos Narváez strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+6,top,Boston Red Sox,Los Angeles Angels,Nate Eaton,1,empty,Pop Out,Nate Eaton pops out to first baseman Nolan Schanuel.,False,False,False,False,False,2026-07-03,824013
+6,top,Boston Red Sox,Los Angeles Angels,Ceddanne Rafaela,2,empty,Single,Ceddanne Rafaela singles on a line drive to right fielder Jo Adell.,True,False,False,False,True,2026-07-03,824013
+6,top,Boston Red Sox,Los Angeles Angels,Wilyer Abreu,2,1st,Strikeout,Wilyer Abreu strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+6,bottom,Los Angeles Angels,Boston Red Sox,Josh Lowe,0,empty,Groundout,"Josh Lowe grounds out, second baseman Romy Gonzalez to first baseman Willson Contreras.",False,False,False,False,False,2026-07-03,824013
+6,bottom,Los Angeles Angels,Boston Red Sox,Tyler Heineman,1,empty,Flyout,Tyler Heineman flies out to center fielder Ceddanne Rafaela.,False,False,False,False,False,2026-07-03,824013
+6,bottom,Los Angeles Angels,Boston Red Sox,Zach Neto,2,empty,Single,Zach Neto singles on a sharp line drive to left fielder Jarren Duran.,True,False,False,False,True,2026-07-03,824013
+6,bottom,Los Angeles Angels,Boston Red Sox,Nolan Schanuel,2,1st,Strikeout,Nolan Schanuel called out on strikes.,False,False,False,False,False,2026-07-03,824013
+7,top,Boston Red Sox,Los Angeles Angels,Willson Contreras,0,empty,Groundout,"Willson Contreras grounds out, shortstop Zach Neto to first baseman Nolan Schanuel.",False,False,False,False,False,2026-07-03,824013
+7,top,Boston Red Sox,Los Angeles Angels,Caleb Durbin,1,empty,Lineout,Caleb Durbin lines out sharply to left fielder Josh Lowe.,False,False,False,False,False,2026-07-03,824013
+7,top,Boston Red Sox,Los Angeles Angels,Romy Gonzalez,2,empty,Single,Romy Gonzalez singles on a sharp line drive to center fielder Jose Siri.,True,False,False,False,True,2026-07-03,824013
+7,top,Boston Red Sox,Los Angeles Angels,Jarren Duran,2,1st,Flyout,Jarren Duran flies out sharply to left fielder Josh Lowe.,False,False,False,False,False,2026-07-03,824013
+7,bottom,Los Angeles Angels,Boston Red Sox,Denzer Guzman,0,empty,Strikeout,Denzer Guzman strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+7,bottom,Los Angeles Angels,Boston Red Sox,Jorge Soler,1,empty,Flyout,Jorge Soler flies out to right fielder Nate Eaton.,False,False,False,False,False,2026-07-03,824013
+7,bottom,Los Angeles Angels,Boston Red Sox,Vaughn Grissom,2,empty,Strikeout,Vaughn Grissom strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+8,top,Boston Red Sox,Los Angeles Angels,Andruw Monasterio,0,empty,Single,Andruw Monasterio singles on a line drive to center fielder Jose Siri.,True,False,False,False,True,2026-07-03,824013
+8,top,Boston Red Sox,Los Angeles Angels,Carlos Narváez,0,1st,Strikeout,Carlos Narváez strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+8,top,Boston Red Sox,Los Angeles Angels,Nate Eaton,1,empty,Double Play,"Nate Eaton lines into a double play, shortstop Zach Neto to first baseman Nolan Schanuel. Andruw Monasterio out at 1st.",False,False,False,False,False,2026-07-03,824013
+8,bottom,Los Angeles Angels,Boston Red Sox,Jo Adell,0,empty,Groundout,"Jo Adell grounds out, third baseman Caleb Durbin to first baseman Willson Contreras.",False,False,False,False,False,2026-07-03,824013
+8,bottom,Los Angeles Angels,Boston Red Sox,Jose Siri,1,empty,Home Run,Jose Siri homers (5) on a fly ball to right center field.,True,False,True,False,True,2026-07-03,824013
+8,bottom,Los Angeles Angels,Boston Red Sox,Josh Lowe,1,empty,Single,Josh Lowe singles on a ground ball to first baseman Willson Contreras.,True,False,False,False,True,2026-07-03,824013
+8,bottom,Los Angeles Angels,Boston Red Sox,Tyler Heineman,1,1st,Pop Out,Tyler Heineman pops out to first baseman Willson Contreras in foul territory.,False,False,False,False,False,2026-07-03,824013
+8,bottom,Los Angeles Angels,Boston Red Sox,Zach Neto,2,empty,Single,Zach Neto singles on a ground ball to right fielder Nate Eaton. Josh Lowe scores.,True,True,True,False,True,2026-07-03,824013
+8,bottom,Los Angeles Angels,Boston Red Sox,Nolan Schanuel,2,1st_2nd,Groundout,"Nolan Schanuel grounds out, second baseman Romy Gonzalez to first baseman Willson Contreras.",False,False,False,False,False,2026-07-03,824013
+9,top,Boston Red Sox,Los Angeles Angels,Ceddanne Rafaela,0,empty,Strikeout,Ceddanne Rafaela strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+9,top,Boston Red Sox,Los Angeles Angels,Wilyer Abreu,1,empty,Strikeout,Wilyer Abreu strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+9,top,Boston Red Sox,Los Angeles Angels,Willson Contreras,2,empty,Double,"Willson Contreras doubles (15) on a sharp line drive to left fielder Josh Lowe. Willson Contreras out at 3rd on the throw, left fielder Josh Lowe to shortstop Zach Neto to third baseman Denzer Guzman.",True,False,False,False,True,2026-07-03,824013
+9,bottom,Los Angeles Angels,Boston Red Sox,Denzer Guzman,0,empty,Strikeout,Denzer Guzman strikes out swinging.,False,False,False,False,False,2026-07-03,824013
+9,bottom,Los Angeles Angels,Boston Red Sox,Jorge Soler,1,empty,Single,Jorge Soler singles on a ground ball to left fielder Jarren Duran.,True,False,False,False,True,2026-07-03,824013
+9,bottom,Los Angeles Angels,Boston Red Sox,Vaughn Grissom,1,1st,Single,Vaughn Grissom singles on a line drive to center fielder Ceddanne Rafaela. Jorge Soler to 2nd.,True,True,False,False,True,2026-07-03,824013
+9,bottom,Los Angeles Angels,Boston Red Sox,Jo Adell,1,1st_2nd,Grounded Into DP,"Jo Adell grounds into a double play, third baseman Caleb Durbin to second baseman Romy Gonzalez to first baseman Willson Contreras. Vaughn Grissom out at 2nd. Jo Adell out at 1st.",False,False,False,True,False,2026-07-03,824013
+1,top,Miami Marlins,Athletics,Liam Hicks,0,empty,Single,Liam Hicks singles on a sharp ground ball to right fielder Lawrence Butler.,True,False,False,False,True,2026-07-03,824982
+1,top,Miami Marlins,Athletics,Kyle Stowers,0,1st,Single,Kyle Stowers singles on a line drive to right fielder Lawrence Butler. Liam Hicks to 2nd.,True,True,False,False,True,2026-07-03,824982
+1,top,Miami Marlins,Athletics,Otto Lopez,0,1st_2nd,Single,Otto Lopez singles on a fly ball to center fielder Henry Bolte. Liam Hicks to 3rd. Kyle Stowers to 2nd.,True,True,False,False,True,2026-07-03,824982
+1,top,Miami Marlins,Athletics,Xavier Edwards,0,loaded,Walk,Xavier Edwards walks. Liam Hicks scores. Kyle Stowers to 3rd. Otto Lopez to 2nd.,True,True,True,False,True,2026-07-03,824982
+1,top,Miami Marlins,Athletics,Heriberto Hernández,0,loaded,Home Run,Heriberto Hernández homers (9) on a fly ball to center field. Otto Lopez scores. Xavier Edwards scores.,True,True,True,False,True,2026-07-03,824982
+1,top,Miami Marlins,Athletics,Griffin Conine,0,2nd_3rd,Strikeout,Griffin Conine strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+1,top,Miami Marlins,Athletics,Owen Caissie,1,empty,Strikeout,Owen Caissie strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+1,top,Miami Marlins,Athletics,Jakob Marsee,2,empty,Home Run,Jakob Marsee homers (5) on a fly ball to right field.,True,False,True,False,True,2026-07-03,824982
+1,top,Miami Marlins,Athletics,Leo Jiménez,2,empty,Strikeout,Leo Jiménez called out on strikes.,False,False,False,False,False,2026-07-03,824982
+1,bottom,Athletics,Miami Marlins,Nick Kurtz,0,empty,Single,Nick Kurtz singles on a sharp line drive to center fielder Jakob Marsee.,True,False,False,False,True,2026-07-03,824982
+1,bottom,Athletics,Miami Marlins,Shea Langeliers,0,1st,Strikeout,Shea Langeliers strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+1,bottom,Athletics,Miami Marlins,Lawrence Butler,1,empty,Single,Lawrence Butler singles on a ground ball to left fielder Heriberto Hernández. Nick Kurtz to 2nd.,True,True,False,False,True,2026-07-03,824982
+1,bottom,Athletics,Miami Marlins,Colby Thomas,1,1st_2nd,Flyout,Colby Thomas flies out to center fielder Jakob Marsee. Nick Kurtz to 3rd.,False,True,False,False,True,2026-07-03,824982
+1,bottom,Athletics,Miami Marlins,Joshua Kuroda-Grauer,2,3rd,Forceout,"Joshua Kuroda-Grauer grounds into a force out, shortstop Otto Lopez to second baseman Xavier Edwards. Lawrence Butler out at 2nd.",False,False,False,False,False,2026-07-03,824982
+2,top,Miami Marlins,Athletics,Liam Hicks,0,empty,Walk,Liam Hicks walks.,True,False,False,False,True,2026-07-03,824982
+2,top,Miami Marlins,Athletics,Kyle Stowers,0,1st,Groundout,"Kyle Stowers grounds out softly, pitcher Jack Perkins to first baseman Nick Kurtz. Liam Hicks to 2nd.",False,True,False,False,True,2026-07-03,824982
+2,top,Miami Marlins,Athletics,Otto Lopez,1,2nd,Single,Otto Lopez singles on a line drive to center fielder Henry Bolte. Liam Hicks to 3rd.,True,True,False,False,True,2026-07-03,824982
+2,top,Miami Marlins,Athletics,Xavier Edwards,1,1st_3rd,Sac Fly,Xavier Edwards out on a sacrifice fly to center fielder Henry Bolte. Liam Hicks scores.,False,True,True,False,True,2026-07-03,824982
+2,top,Miami Marlins,Athletics,Heriberto Hernández,2,empty,Strikeout,Heriberto Hernández strikes out swinging.,False,True,False,False,False,2026-07-03,824982
+2,bottom,Athletics,Miami Marlins,Carlos Cortes,0,empty,Groundout,"Carlos Cortes grounds out, first baseman Kyle Stowers to pitcher Tyler Phillips.",False,False,False,False,False,2026-07-03,824982
+2,bottom,Athletics,Miami Marlins,Henry Bolte,1,empty,Lineout,Henry Bolte lines out to shortstop Otto Lopez.,False,False,False,False,False,2026-07-03,824982
+2,bottom,Athletics,Miami Marlins,Jeff McNeil,2,empty,Flyout,Jeff McNeil flies out to center fielder Jakob Marsee.,False,False,False,False,False,2026-07-03,824982
+3,top,Miami Marlins,Athletics,Griffin Conine,0,empty,Walk,Griffin Conine walks.,True,False,False,False,True,2026-07-03,824982
+3,top,Miami Marlins,Athletics,Owen Caissie,0,1st,Strikeout,Owen Caissie strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+3,top,Miami Marlins,Athletics,Jakob Marsee,1,empty,Strikeout,Jakob Marsee strikes out on a foul tip.,False,False,False,False,False,2026-07-03,824982
+3,top,Miami Marlins,Athletics,Leo Jiménez,2,empty,Strikeout,Leo Jiménez called out on strikes.,False,False,False,False,False,2026-07-03,824982
+3,bottom,Athletics,Miami Marlins,Alika Williams,0,empty,Double,Alika Williams doubles (7) on a line drive to center fielder Jakob Marsee.,True,False,False,False,True,2026-07-03,824982
+3,bottom,Athletics,Miami Marlins,Nick Kurtz,0,2nd,Home Run,Nick Kurtz homers (20) on a fly ball to center field. Alika Williams scores.,True,True,True,False,True,2026-07-03,824982
+3,bottom,Athletics,Miami Marlins,Shea Langeliers,0,empty,Strikeout,Shea Langeliers strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+3,bottom,Athletics,Miami Marlins,Lawrence Butler,1,empty,Walk,Lawrence Butler walks.,True,False,False,False,True,2026-07-03,824982
+3,bottom,Athletics,Miami Marlins,Colby Thomas,1,1st,Grounded Into DP,"Colby Thomas grounds into a double play, shortstop Otto Lopez to second baseman Xavier Edwards to first baseman Kyle Stowers. Lawrence Butler out at 2nd. Colby Thomas out at 1st.",False,False,False,True,False,2026-07-03,824982
+4,top,Miami Marlins,Athletics,Liam Hicks,0,empty,Strikeout,Liam Hicks strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+4,top,Miami Marlins,Athletics,Kyle Stowers,1,empty,Single,Kyle Stowers singles on a sharp line drive to right fielder Lawrence Butler.,True,False,False,False,True,2026-07-03,824982
+4,top,Miami Marlins,Athletics,Otto Lopez,1,1st,Groundout,"Otto Lopez grounds out softly, catcher Shea Langeliers to first baseman Nick Kurtz. Kyle Stowers to 2nd.",False,True,False,False,True,2026-07-03,824982
+4,top,Miami Marlins,Athletics,Xavier Edwards,2,2nd,Walk,Xavier Edwards walks.,True,False,False,False,True,2026-07-03,824982
+4,top,Miami Marlins,Athletics,Heriberto Hernández,2,1st,Field Error,Heriberto Hernández reaches on a fielding error by shortstop Alika Williams. Kyle Stowers to 3rd. Xavier Edwards to 2nd.,False,True,False,False,False,2026-07-03,824982
+4,top,Miami Marlins,Athletics,Griffin Conine,2,loaded,Lineout,Griffin Conine lines out sharply to first baseman Nick Kurtz.,False,False,False,False,False,2026-07-03,824982
+4,bottom,Athletics,Miami Marlins,Joshua Kuroda-Grauer,0,empty,Single,Joshua Kuroda-Grauer singles on a line drive to left fielder Heriberto Hernández.,True,False,False,False,True,2026-07-03,824982
+4,bottom,Athletics,Miami Marlins,Carlos Cortes,0,1st,Single,Carlos Cortes singles on a line drive to left fielder Heriberto Hernández. Joshua Kuroda-Grauer to 3rd.,True,True,False,False,True,2026-07-03,824982
+4,bottom,Athletics,Miami Marlins,Henry Bolte,0,loaded,Walk,Henry Bolte walks. Carlos Cortes to 2nd.,True,True,False,False,False,2026-07-03,824982
+4,bottom,Athletics,Miami Marlins,Jeff McNeil,0,1st_2nd,Double,Jeff McNeil doubles (11) on a line drive to center fielder Jakob Marsee. Joshua Kuroda-Grauer scores. Carlos Cortes scores. Henry Bolte scores.,True,True,True,False,True,2026-07-03,824982
+4,bottom,Athletics,Miami Marlins,Alika Williams,0,2nd_3rd,Groundout,"Alika Williams grounds out, shortstop Otto Lopez to first baseman Kyle Stowers.",False,False,False,False,False,2026-07-03,824982
+4,bottom,Athletics,Miami Marlins,Nick Kurtz,1,empty,Walk,Nick Kurtz walks.,True,True,False,False,True,2026-07-03,824982
+4,bottom,Athletics,Miami Marlins,Jonah Heim,1,1st_3rd,Pop Out,Jonah Heim pops out to shortstop Otto Lopez.,False,False,False,False,False,2026-07-03,824982
+4,bottom,Athletics,Miami Marlins,Lawrence Butler,2,empty,Walk,Lawrence Butler walks. Nick Kurtz to 2nd.,True,True,False,False,True,2026-07-03,824982
+4,bottom,Athletics,Miami Marlins,Colby Thomas,2,1st_2nd,Strikeout,Colby Thomas strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+5,top,Miami Marlins,Athletics,Owen Caissie,0,empty,Lineout,Owen Caissie lines out to center fielder Henry Bolte.,False,False,False,False,False,2026-07-03,824982
+5,top,Miami Marlins,Athletics,Jakob Marsee,1,empty,Walk,Jakob Marsee walks.,True,False,False,False,True,2026-07-03,824982
+5,top,Miami Marlins,Athletics,Leo Jiménez,1,1st,Lineout,Leo Jiménez lines out to left fielder Colby Thomas.,False,False,False,False,False,2026-07-03,824982
+5,top,Miami Marlins,Athletics,Liam Hicks,2,empty,Flyout,Liam Hicks flies out to center fielder Henry Bolte.,False,False,False,False,False,2026-07-03,824982
+5,bottom,Athletics,Miami Marlins,Joshua Kuroda-Grauer,0,empty,Groundout,"Joshua Kuroda-Grauer grounds out, third baseman Leo Jiménez to first baseman Kyle Stowers.",False,False,False,False,False,2026-07-03,824982
+5,bottom,Athletics,Miami Marlins,Carlos Cortes,1,empty,Single,Carlos Cortes singles on a sharp line drive to right fielder Griffin Conine.,True,False,False,False,True,2026-07-03,824982
+5,bottom,Athletics,Miami Marlins,Henry Bolte,1,1st,Single,Henry Bolte singles on a ground ball to right fielder Griffin Conine. Carlos Cortes to 2nd.,True,True,False,False,True,2026-07-03,824982
+5,bottom,Athletics,Miami Marlins,Jeff McNeil,1,1st_2nd,Lineout,Jeff McNeil lines out to center fielder Jakob Marsee.,False,False,False,False,False,2026-07-03,824982
+5,bottom,Athletics,Miami Marlins,Alika Williams,2,empty,Strikeout,Alika Williams called out on strikes.,False,False,False,False,False,2026-07-03,824982
+6,top,Miami Marlins,Athletics,Kyle Stowers,0,empty,Home Run,Kyle Stowers homers (9) on a fly ball to right field.,True,False,True,False,True,2026-07-03,824982
+6,top,Miami Marlins,Athletics,Otto Lopez,0,empty,Groundout,"Otto Lopez grounds out, shortstop Alika Williams to first baseman Nick Kurtz.",False,False,False,False,False,2026-07-03,824982
+6,top,Miami Marlins,Athletics,Xavier Edwards,1,empty,Flyout,Xavier Edwards flies out to center fielder Henry Bolte.,False,False,False,False,False,2026-07-03,824982
+6,top,Miami Marlins,Athletics,Heriberto Hernández,2,empty,Groundout,"Heriberto Hernández grounds out, shortstop Alika Williams to first baseman Nick Kurtz.",False,False,False,False,False,2026-07-03,824982
+6,bottom,Athletics,Miami Marlins,Nick Kurtz,0,empty,Strikeout,"Nick Kurtz strikes out swinging, catcher Liam Hicks to first baseman Kyle Stowers.",False,False,False,False,False,2026-07-03,824982
+6,bottom,Athletics,Miami Marlins,Jonah Heim,1,empty,Strikeout,Jonah Heim called out on strikes.,False,False,False,False,False,2026-07-03,824982
+6,bottom,Athletics,Miami Marlins,Lawrence Butler,2,empty,Groundout,"Lawrence Butler grounds out, second baseman Xavier Edwards to first baseman Kyle Stowers.",False,False,False,False,False,2026-07-03,824982
+7,top,Miami Marlins,Athletics,Griffin Conine,0,empty,Strikeout,Griffin Conine strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+7,top,Miami Marlins,Athletics,Owen Caissie,1,empty,Strikeout,Owen Caissie strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+7,top,Miami Marlins,Athletics,Jakob Marsee,2,empty,Hit By Pitch,Jakob Marsee hit by pitch.,True,False,False,False,True,2026-07-03,824982
+7,top,Miami Marlins,Athletics,Leo Jiménez,2,1st,Caught Stealing 2B,"Jakob Marsee caught stealing 2nd base, catcher Jonah Heim to second baseman Jeff McNeil.",False,False,False,False,False,2026-07-03,824982
+7,bottom,Athletics,Miami Marlins,Colby Thomas,0,empty,Pop Out,Colby Thomas pops out to second baseman Xavier Edwards.,False,False,False,False,False,2026-07-03,824982
+7,bottom,Athletics,Miami Marlins,Joshua Kuroda-Grauer,1,empty,Groundout,"Joshua Kuroda-Grauer grounds out, second baseman Xavier Edwards to first baseman Kyle Stowers.",False,False,False,False,False,2026-07-03,824982
+7,bottom,Athletics,Miami Marlins,Carlos Cortes,2,empty,Flyout,Carlos Cortes flies out to center fielder Jakob Marsee.,False,False,False,False,False,2026-07-03,824982
+8,top,Miami Marlins,Athletics,Leo Jiménez,0,empty,Groundout,"Leo Jiménez grounds out, pitcher Mason Barnett to first baseman Nick Kurtz.",False,False,False,False,False,2026-07-03,824982
+8,top,Miami Marlins,Athletics,Liam Hicks,1,empty,Walk,Liam Hicks walks.,True,False,False,False,True,2026-07-03,824982
+8,top,Miami Marlins,Athletics,Kyle Stowers,1,1st,Home Run,Kyle Stowers homers (10) on a fly ball to right center field. Liam Hicks scores.,True,True,True,False,True,2026-07-03,824982
+8,top,Miami Marlins,Athletics,Otto Lopez,1,empty,Strikeout,Otto Lopez called out on strikes.,False,False,False,False,False,2026-07-03,824982
+8,top,Miami Marlins,Athletics,Xavier Edwards,2,empty,Flyout,Xavier Edwards flies out to left fielder Colby Thomas.,False,False,False,False,False,2026-07-03,824982
+8,bottom,Athletics,Miami Marlins,Henry Bolte,0,empty,Flyout,Henry Bolte flies out sharply to center fielder Jakob Marsee.,False,False,False,False,False,2026-07-03,824982
+8,bottom,Athletics,Miami Marlins,Jeff McNeil,1,empty,Flyout,Jeff McNeil flies out to center fielder Jakob Marsee.,False,False,False,False,False,2026-07-03,824982
+8,bottom,Athletics,Miami Marlins,Alika Williams,2,empty,Strikeout,Alika Williams strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+9,top,Miami Marlins,Athletics,Heriberto Hernández,0,empty,Single,Heriberto Hernández singles on a ground ball to center fielder Henry Bolte.,True,False,False,False,True,2026-07-03,824982
+9,top,Miami Marlins,Athletics,Griffin Conine,0,1st,Strikeout,Griffin Conine strikes out swinging.,False,False,False,False,False,2026-07-03,824982
+9,top,Miami Marlins,Athletics,Owen Caissie,1,empty,Home Run,Owen Caissie homers (11) on a fly ball to left field. Esteury Ruiz scores.,True,True,True,False,True,2026-07-03,824982
+9,top,Miami Marlins,Athletics,Jakob Marsee,1,2nd,Lineout,Jakob Marsee lines out to shortstop Alika Williams.,False,False,False,False,False,2026-07-03,824982
+9,top,Miami Marlins,Athletics,Javier Sanoja,2,empty,Walk,Javier Sanoja walks.,True,False,False,False,True,2026-07-03,824982
+9,top,Miami Marlins,Athletics,Liam Hicks,2,1st,Flyout,Liam Hicks flies out to center fielder Henry Bolte.,False,False,False,False,False,2026-07-03,824982
+9,bottom,Athletics,Miami Marlins,Nick Kurtz,0,empty,Strikeout,"Joe Mack challenged (pitch result), call on the field was overturned: Nick Kurtz called out on strikes.",False,False,False,False,False,2026-07-03,824982
+9,bottom,Athletics,Miami Marlins,Jonah Heim,1,empty,Groundout,"Jonah Heim grounds out, shortstop Otto Lopez to first baseman Liam Hicks.",False,False,False,False,False,2026-07-03,824982
+9,bottom,Athletics,Miami Marlins,Lawrence Butler,2,empty,Flyout,Lawrence Butler flies out to center fielder Jakob Marsee.,False,False,False,False,False,2026-07-03,824982
+1,top,Milwaukee Brewers,Arizona Diamondbacks,Christian Yelich,0,empty,Walk,Christian Yelich walks.,True,False,False,False,True,2026-07-03,825062
+1,top,Milwaukee Brewers,Arizona Diamondbacks,Jackson Chourio,0,1st,Strikeout,Jackson Chourio strikes out swinging.,False,False,False,False,False,2026-07-03,825062
+1,top,Milwaukee Brewers,Arizona Diamondbacks,Brice Turang,1,empty,Lineout,Brice Turang lines out to right fielder Corbin Carroll.,False,False,False,False,False,2026-07-03,825062
+1,top,Milwaukee Brewers,Arizona Diamondbacks,William Contreras,2,empty,Forceout,"William Contreras grounds into a force out, shortstop Geraldo Perdomo to second baseman Ketel Marte. Christian Yelich out at 2nd.",False,False,False,False,False,2026-07-03,825062
+1,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ketel Marte,0,empty,Groundout,"Ketel Marte grounds out, shortstop Cooper Pratt to first baseman Jake Bauers.",False,False,False,False,False,2026-07-03,825062
+1,bottom,Arizona Diamondbacks,Milwaukee Brewers,Geraldo Perdomo,1,empty,Groundout,"Geraldo Perdomo grounds out, second baseman Brice Turang to first baseman Jake Bauers.",False,False,False,False,False,2026-07-03,825062
+1,bottom,Arizona Diamondbacks,Milwaukee Brewers,Corbin Carroll,2,empty,Strikeout,Corbin Carroll called out on strikes.,False,False,False,False,False,2026-07-03,825062
+2,top,Milwaukee Brewers,Arizona Diamondbacks,Jake Bauers,0,empty,Single,Jake Bauers singles on a line drive to center fielder Tommy Troy.,True,False,False,False,True,2026-07-03,825062
+2,top,Milwaukee Brewers,Arizona Diamondbacks,Garrett Mitchell,0,1st,Home Run,"Umpire reviewed (home run), call on the field was upheld: Garrett Mitchell homers (8) on a fly ball to center field. Jake Bauers scores.",True,True,True,False,True,2026-07-03,825062
+2,top,Milwaukee Brewers,Arizona Diamondbacks,Sal Frelick,0,empty,Lineout,Sal Frelick lines out to left fielder Lourdes Gurriel Jr.,False,False,False,False,False,2026-07-03,825062
+2,top,Milwaukee Brewers,Arizona Diamondbacks,Cooper Pratt,1,empty,Walk,Cooper Pratt walks.,True,False,False,False,True,2026-07-03,825062
+2,top,Milwaukee Brewers,Arizona Diamondbacks,David Hamilton,1,1st,Strikeout,David Hamilton called out on strikes.,False,True,False,False,True,2026-07-03,825062
+2,top,Milwaukee Brewers,Arizona Diamondbacks,Christian Yelich,2,2nd,Lineout,Christian Yelich lines out to left fielder Lourdes Gurriel Jr.,False,False,False,False,False,2026-07-03,825062
+2,bottom,Arizona Diamondbacks,Milwaukee Brewers,Gabriel Moreno,0,empty,Lineout,Gabriel Moreno lines out to right fielder Sal Frelick.,False,False,False,False,False,2026-07-03,825062
+2,bottom,Arizona Diamondbacks,Milwaukee Brewers,Lourdes Gurriel Jr.,1,empty,Field Error,Lourdes Gurriel Jr. reaches on a throwing error by third baseman David Hamilton.,False,False,False,False,False,2026-07-03,825062
+2,bottom,Arizona Diamondbacks,Milwaukee Brewers,Nolan Arenado,1,1st,Flyout,Nolan Arenado flies out to second baseman Brice Turang.,False,False,False,False,False,2026-07-03,825062
+2,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ildemaro Vargas,2,empty,Single,Ildemaro Vargas singles on a ground ball to center fielder Garrett Mitchell. Lourdes Gurriel Jr. to 2nd.,True,True,False,False,True,2026-07-03,825062
+2,bottom,Arizona Diamondbacks,Milwaukee Brewers,LuJames Groover,2,1st_2nd,Strikeout,LuJames Groover called out on strikes.,False,False,False,False,False,2026-07-03,825062
+3,top,Milwaukee Brewers,Arizona Diamondbacks,Jackson Chourio,0,empty,Strikeout,Jackson Chourio strikes out swinging.,False,False,False,False,False,2026-07-03,825062
+3,top,Milwaukee Brewers,Arizona Diamondbacks,Brice Turang,1,empty,Single,Brice Turang singles on a ground ball to center fielder Tommy Troy.,True,False,False,False,True,2026-07-03,825062
+3,top,Milwaukee Brewers,Arizona Diamondbacks,William Contreras,1,1st,Single,William Contreras singles on a line drive to center fielder Tommy Troy. Brice Turang to 3rd.,True,True,False,False,True,2026-07-03,825062
+3,top,Milwaukee Brewers,Arizona Diamondbacks,Jake Bauers,1,loaded,Single,Jake Bauers singles on a line drive to right fielder Corbin Carroll. Brice Turang scores. William Contreras to 2nd.,True,True,True,False,True,2026-07-03,825062
+3,top,Milwaukee Brewers,Arizona Diamondbacks,Garrett Mitchell,1,1st_2nd,Flyout,Garrett Mitchell flies out sharply to left fielder Lourdes Gurriel Jr.,False,False,False,False,False,2026-07-03,825062
+3,top,Milwaukee Brewers,Arizona Diamondbacks,Sal Frelick,2,empty,Flyout,Sal Frelick flies out to center fielder Tommy Troy.,False,False,False,False,False,2026-07-03,825062
+3,bottom,Arizona Diamondbacks,Milwaukee Brewers,Tommy Troy,0,empty,Lineout,Tommy Troy lines out to right fielder Sal Frelick.,False,False,False,False,False,2026-07-03,825062
+3,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ketel Marte,1,empty,Single,Ketel Marte singles on a ground ball to second baseman Brice Turang.,True,False,False,False,True,2026-07-03,825062
+3,bottom,Arizona Diamondbacks,Milwaukee Brewers,Geraldo Perdomo,1,1st,Strikeout,Geraldo Perdomo strikes out swinging.,False,False,False,False,False,2026-07-03,825062
+3,bottom,Arizona Diamondbacks,Milwaukee Brewers,Corbin Carroll,2,empty,Single,Corbin Carroll singles on a ground ball to right fielder Sal Frelick. Ketel Marte to 3rd.,True,True,False,False,True,2026-07-03,825062
+3,bottom,Arizona Diamondbacks,Milwaukee Brewers,Gabriel Moreno,2,loaded,Single,Gabriel Moreno singles on a ground ball to right fielder Sal Frelick. Ketel Marte scores. Corbin Carroll to 3rd.,True,True,True,False,True,2026-07-03,825062
+3,bottom,Arizona Diamondbacks,Milwaukee Brewers,Lourdes Gurriel Jr.,2,loaded,Walk,Lourdes Gurriel Jr. walks. Gabriel Moreno to 2nd.,True,True,False,False,True,2026-07-03,825062
+3,bottom,Arizona Diamondbacks,Milwaukee Brewers,Nolan Arenado,2,1st_2nd,Double,Nolan Arenado doubles (16) on a fly ball to left fielder Jackson Chourio. Corbin Carroll scores. Gabriel Moreno scores. Lourdes Gurriel Jr. to 3rd.,True,True,True,False,True,2026-07-03,825062
+3,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ildemaro Vargas,2,2nd_3rd,Pop Out,Ildemaro Vargas pops out to catcher William Contreras in foul territory.,False,False,False,False,False,2026-07-03,825062
+4,top,Milwaukee Brewers,Arizona Diamondbacks,Cooper Pratt,0,empty,Single,"Cooper Pratt singles on a ground ball to center fielder Tommy Troy, deflected by pitcher Jose Cabrera.",True,False,False,False,True,2026-07-03,825062
+4,top,Milwaukee Brewers,Arizona Diamondbacks,David Hamilton,0,1st,Walk,David Hamilton walks.,True,True,False,False,True,2026-07-03,825062
+4,top,Milwaukee Brewers,Arizona Diamondbacks,Christian Yelich,0,1st_2nd,Groundout,"Christian Yelich grounds out, pitcher Jose Cabrera to first baseman Ildemaro Vargas. Cooper Pratt to 3rd. David Hamilton to 2nd.",False,True,False,False,True,2026-07-03,825062
+4,top,Milwaukee Brewers,Arizona Diamondbacks,Jackson Chourio,1,2nd_3rd,Double Play,"Jackson Chourio grounds into a double play, shortstop Geraldo Perdomo to first baseman Ildemaro Vargas. David Hamilton out at 3rd. Jackson Chourio out at 1st.",False,False,False,False,False,2026-07-03,825062
+4,bottom,Arizona Diamondbacks,Milwaukee Brewers,LuJames Groover,0,empty,Groundout,"LuJames Groover grounds out, third baseman David Hamilton to first baseman Jake Bauers.",False,False,False,False,False,2026-07-03,825062
+4,bottom,Arizona Diamondbacks,Milwaukee Brewers,Tommy Troy,1,empty,Lineout,Tommy Troy lines out to center fielder Garrett Mitchell.,False,False,False,False,False,2026-07-03,825062
+4,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ketel Marte,2,empty,Groundout,"Ketel Marte grounds out, first baseman Jake Bauers to pitcher Chad Patrick.",False,False,False,False,False,2026-07-03,825062
+5,top,Milwaukee Brewers,Arizona Diamondbacks,Brice Turang,0,empty,Groundout,"Brice Turang grounds out, first baseman Ildemaro Vargas to pitcher Jonathan Loáisiga.",False,False,False,False,False,2026-07-03,825062
+5,top,Milwaukee Brewers,Arizona Diamondbacks,William Contreras,1,empty,Single,William Contreras singles on a sharp line drive to left fielder Lourdes Gurriel Jr.,True,False,False,False,True,2026-07-03,825062
+5,top,Milwaukee Brewers,Arizona Diamondbacks,Jake Bauers,1,1st,Groundout,"Jake Bauers grounds out to first baseman Ildemaro Vargas. Missed catch error by shortstop Geraldo Perdomo, assist to first baseman Ildemaro Vargas.",False,True,False,False,True,2026-07-03,825062
+5,top,Milwaukee Brewers,Arizona Diamondbacks,Garrett Mitchell,2,2nd,Strikeout,Garrett Mitchell strikes out swinging.,False,False,False,False,False,2026-07-03,825062
+5,bottom,Arizona Diamondbacks,Milwaukee Brewers,Geraldo Perdomo,0,empty,Strikeout,Geraldo Perdomo strikes out swinging.,False,False,False,False,False,2026-07-03,825062
+5,bottom,Arizona Diamondbacks,Milwaukee Brewers,Corbin Carroll,1,empty,Flyout,Corbin Carroll flies out to second baseman Brice Turang.,False,False,False,False,False,2026-07-03,825062
+5,bottom,Arizona Diamondbacks,Milwaukee Brewers,Gabriel Moreno,2,empty,Pop Out,Gabriel Moreno pops out softly to first baseman Jake Bauers.,False,False,False,False,False,2026-07-03,825062
+6,top,Milwaukee Brewers,Arizona Diamondbacks,Sal Frelick,0,empty,Groundout,"Sal Frelick grounds out, second baseman Ketel Marte to first baseman Ildemaro Vargas.",False,False,False,False,False,2026-07-03,825062
+6,top,Milwaukee Brewers,Arizona Diamondbacks,Cooper Pratt,1,empty,Strikeout,Cooper Pratt strikes out swinging.,False,False,False,False,False,2026-07-03,825062
+6,top,Milwaukee Brewers,Arizona Diamondbacks,David Hamilton,2,empty,Single,"David Hamilton singles on a ground ball to shortstop Geraldo Perdomo, deflected by pitcher Kevin Ginkel.",True,False,False,False,True,2026-07-03,825062
+6,top,Milwaukee Brewers,Arizona Diamondbacks,Christian Yelich,2,1st,Groundout,"Christian Yelich grounds out, third baseman Nolan Arenado to first baseman Ildemaro Vargas.",False,False,False,False,False,2026-07-03,825062
+6,bottom,Arizona Diamondbacks,Milwaukee Brewers,Lourdes Gurriel Jr.,0,empty,Flyout,Lourdes Gurriel Jr. flies out to left fielder Jackson Chourio.,False,False,False,False,False,2026-07-03,825062
+6,bottom,Arizona Diamondbacks,Milwaukee Brewers,Nolan Arenado,1,empty,Strikeout,Nolan Arenado strikes out on a foul tip.,False,False,False,False,False,2026-07-03,825062
+6,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ildemaro Vargas,2,empty,Single,Ildemaro Vargas singles on a ground ball to third baseman David Hamilton.,True,False,False,False,True,2026-07-03,825062
+6,bottom,Arizona Diamondbacks,Milwaukee Brewers,Max Kepler,2,1st,Flyout,Max Kepler flies out to left fielder Jackson Chourio.,False,False,False,False,False,2026-07-03,825062
+7,top,Milwaukee Brewers,Arizona Diamondbacks,Jackson Chourio,0,empty,Strikeout,Jackson Chourio called out on strikes.,False,False,False,False,False,2026-07-03,825062
+7,top,Milwaukee Brewers,Arizona Diamondbacks,Brice Turang,1,empty,Groundout,"Brice Turang grounds out, pitcher Juan Morillo to first baseman Ildemaro Vargas.",False,False,False,False,False,2026-07-03,825062
+7,top,Milwaukee Brewers,Arizona Diamondbacks,William Contreras,2,empty,Lineout,William Contreras lines out to center fielder Tommy Troy.,False,False,False,False,False,2026-07-03,825062
+7,bottom,Arizona Diamondbacks,Milwaukee Brewers,Tommy Troy,0,empty,Walk,Tommy Troy walks.,True,False,False,False,True,2026-07-03,825062
+7,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ketel Marte,0,1st,Flyout,Ketel Marte flies out to left fielder Jackson Chourio.,False,False,False,False,False,2026-07-03,825062
+7,bottom,Arizona Diamondbacks,Milwaukee Brewers,Geraldo Perdomo,1,empty,Groundout,"Geraldo Perdomo grounds out, third baseman David Hamilton to first baseman Jake Bauers.",False,True,False,False,False,2026-07-03,825062
+7,bottom,Arizona Diamondbacks,Milwaukee Brewers,Corbin Carroll,2,2nd,Lineout,Corbin Carroll lines out to left fielder Jackson Chourio.,False,False,False,False,False,2026-07-03,825062
+8,top,Milwaukee Brewers,Arizona Diamondbacks,Jake Bauers,0,empty,Double,Jake Bauers doubles (13) on a line drive to left fielder Lourdes Gurriel Jr.,True,False,False,False,True,2026-07-03,825062
+8,top,Milwaukee Brewers,Arizona Diamondbacks,Garrett Mitchell,0,2nd,Walk,Garrett Mitchell walks.,True,False,False,False,False,2026-07-03,825062
+8,top,Milwaukee Brewers,Arizona Diamondbacks,Andrew Vaughn,0,1st,Forceout,"Andrew Vaughn grounds into a force out, first baseman Ildemaro Vargas to shortstop Geraldo Perdomo. Jake Bauers to 3rd. Garrett Mitchell out at 2nd. Andrew Vaughn to 1st.",False,True,False,False,True,2026-07-03,825062
+8,top,Milwaukee Brewers,Arizona Diamondbacks,Cooper Pratt,1,1st_3rd,Fielders Choice Out,"Cooper Pratt reaches on a fielder's choice out, catcher Gabriel Moreno to third baseman Nolan Arenado. Jake Bauers out at home. Blake Perkins to 2nd.",False,True,False,False,False,2026-07-03,825062
+8,top,Milwaukee Brewers,Arizona Diamondbacks,Joey Ortiz,2,1st_2nd,Strikeout,Joey Ortiz strikes out swinging.,False,False,False,False,False,2026-07-03,825062
+8,bottom,Arizona Diamondbacks,Milwaukee Brewers,Gabriel Moreno,0,empty,Single,Gabriel Moreno singles on a ground ball to right fielder Blake Perkins.,True,False,False,False,True,2026-07-03,825062
+8,bottom,Arizona Diamondbacks,Milwaukee Brewers,Lourdes Gurriel Jr.,0,1st,Lineout,Lourdes Gurriel Jr. lines out sharply to left fielder Jackson Chourio.,False,False,False,False,False,2026-07-03,825062
+8,bottom,Arizona Diamondbacks,Milwaukee Brewers,Nolan Arenado,1,empty,Lineout,Nolan Arenado lines out to shortstop Cooper Pratt.,False,False,False,False,False,2026-07-03,825062
+8,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ildemaro Vargas,2,empty,Strikeout,"Ildemaro Vargas challenged (pitch result), call on the field was confirmed: Ildemaro Vargas called out on strikes.",False,False,False,False,False,2026-07-03,825062
+9,top,Milwaukee Brewers,Arizona Diamondbacks,Christian Yelich,0,empty,Groundout,"Christian Yelich grounds out, second baseman Ketel Marte to pitcher Paul Sewald.",False,False,False,False,False,2026-07-03,825062
+9,top,Milwaukee Brewers,Arizona Diamondbacks,Jackson Chourio,1,empty,Flyout,Jackson Chourio flies out to left fielder Lourdes Gurriel Jr.,False,False,False,False,False,2026-07-03,825062
+9,top,Milwaukee Brewers,Arizona Diamondbacks,Brice Turang,2,empty,Single,"Brice Turang singles on a ground ball to left fielder Lourdes Gurriel Jr., deflected by third baseman Nolan Arenado.",True,False,False,False,True,2026-07-03,825062
+9,top,Milwaukee Brewers,Arizona Diamondbacks,William Contreras,2,1st,Flyout,William Contreras flies out to right fielder Corbin Carroll.,False,False,False,False,False,2026-07-03,825062
+9,bottom,Arizona Diamondbacks,Milwaukee Brewers,Max Kepler,0,empty,Flyout,Max Kepler flies out sharply to center fielder Garrett Mitchell.,False,False,False,False,False,2026-07-03,825062
+9,bottom,Arizona Diamondbacks,Milwaukee Brewers,Tommy Troy,1,empty,Lineout,Tommy Troy lines out to third baseman Joey Ortiz.,False,False,False,False,False,2026-07-03,825062
+9,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ketel Marte,2,empty,Single,Ketel Marte singles on a line drive to center fielder Garrett Mitchell.,True,False,False,False,True,2026-07-03,825062
+9,bottom,Arizona Diamondbacks,Milwaukee Brewers,Geraldo Perdomo,2,1st,Groundout,Geraldo Perdomo grounds out to first baseman Jake Bauers.,False,True,False,False,False,2026-07-03,825062
+10,top,Milwaukee Brewers,Arizona Diamondbacks,Jake Bauers,0,empty,Strikeout,Jake Bauers strikes out swinging.,False,False,False,False,False,2026-07-03,825062
+10,top,Milwaukee Brewers,Arizona Diamondbacks,Garrett Mitchell,1,empty,Groundout,"Garrett Mitchell grounds out, first baseman Ildemaro Vargas to pitcher Taylor Clarke. William Contreras to 3rd.",False,True,False,False,False,2026-07-03,825062
+10,top,Milwaukee Brewers,Arizona Diamondbacks,Blake Perkins,2,3rd,Groundout,"Blake Perkins grounds out, pitcher Taylor Clarke to first baseman Ildemaro Vargas.",False,False,False,False,False,2026-07-03,825062
+10,bottom,Arizona Diamondbacks,Milwaukee Brewers,Corbin Carroll,0,empty,Intent Walk,Grant Anderson intentionally walks Corbin Carroll.,False,False,False,False,False,2026-07-03,825062
+10,bottom,Arizona Diamondbacks,Milwaukee Brewers,Gabriel Moreno,0,1st,Grounded Into DP,"Gabriel Moreno grounds into a double play, shortstop Cooper Pratt to second baseman Brice Turang to first baseman Jake Bauers. Geraldo Perdomo to 3rd. Corbin Carroll out at 2nd. Gabriel Moreno out at 1st.",False,True,False,True,False,2026-07-03,825062
+10,bottom,Arizona Diamondbacks,Milwaukee Brewers,Lourdes Gurriel Jr.,2,3rd,Pop Out,Lourdes Gurriel Jr. pops out to shortstop Cooper Pratt.,False,False,False,False,False,2026-07-03,825062
+11,top,Milwaukee Brewers,Arizona Diamondbacks,Cooper Pratt,0,empty,Hit By Pitch,Cooper Pratt hit by pitch.,True,False,False,False,True,2026-07-03,825062
+11,top,Milwaukee Brewers,Arizona Diamondbacks,Joey Ortiz,0,1st,Sac Bunt,"Joey Ortiz out on a sacrifice bunt, pitcher Ryan Thompson to second baseman Ketel Marte. Blake Perkins to 3rd. Cooper Pratt to 2nd.",False,True,False,False,True,2026-07-03,825062
+11,top,Milwaukee Brewers,Arizona Diamondbacks,Christian Yelich,1,2nd_3rd,Intent Walk,Ryan Thompson intentionally walks Christian Yelich.,False,False,False,False,False,2026-07-03,825062
+11,top,Milwaukee Brewers,Arizona Diamondbacks,Jackson Chourio,1,1st,Single,Jackson Chourio singles on a ground ball to pitcher Ryan Thompson. Blake Perkins scores. Cooper Pratt scores. Christian Yelich to 3rd. Jackson Chourio to 2nd. Throwing error by pitcher Ryan Thompson.,True,True,True,False,True,2026-07-03,825062
+11,top,Milwaukee Brewers,Arizona Diamondbacks,Brice Turang,1,loaded,Single,Brice Turang singles on a sharp line drive to left fielder Lourdes Gurriel Jr. Christian Yelich scores. Jackson Chourio scores. Brice Turang to 2nd.,True,True,True,False,True,2026-07-03,825062
+11,top,Milwaukee Brewers,Arizona Diamondbacks,William Contreras,1,1st_2nd,Strikeout,William Contreras strikes out swinging.,False,False,False,False,False,2026-07-03,825062
+11,top,Milwaukee Brewers,Arizona Diamondbacks,Jake Bauers,2,empty,Strikeout,Jake Bauers called out on strikes.,False,False,False,False,False,2026-07-03,825062
+11,bottom,Arizona Diamondbacks,Milwaukee Brewers,Nolan Arenado,0,empty,Lineout,Nolan Arenado lines out to left fielder Jackson Chourio.,False,False,False,False,False,2026-07-03,825062
+11,bottom,Arizona Diamondbacks,Milwaukee Brewers,Ildemaro Vargas,1,empty,Single,Ildemaro Vargas singles on a sharp line drive to right fielder Blake Perkins. Lourdes Gurriel Jr. scores.,True,True,True,False,True,2026-07-03,825062
+11,bottom,Arizona Diamondbacks,Milwaukee Brewers,Max Kepler,1,1st,Pop Out,Max Kepler pops out to first baseman Jake Bauers in foul territory.,False,False,False,False,False,2026-07-03,825062
+11,bottom,Arizona Diamondbacks,Milwaukee Brewers,Tommy Troy,2,empty,Strikeout,Tommy Troy strikes out swinging.,False,True,False,False,False,2026-07-03,825062
+1,top,San Diego Padres,Los Angeles Dodgers,Fernando Tatis Jr.,0,empty,Walk,Fernando Tatis Jr. walks.,True,False,False,False,True,2026-07-03,823933
+1,top,San Diego Padres,Los Angeles Dodgers,Jake Cronenworth,0,1st,Walk,Jake Cronenworth walks. Fernando Tatis Jr. to 2nd.,True,True,False,False,True,2026-07-03,823933
+1,top,San Diego Padres,Los Angeles Dodgers,Manny Machado,0,1st_2nd,Strikeout,Manny Machado strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+1,top,San Diego Padres,Los Angeles Dodgers,Gavin Sheets,1,empty,Single,Gavin Sheets singles on a line drive to right fielder Kyle Tucker. Fernando Tatis Jr. scores. Jake Cronenworth to 3rd.,True,True,True,False,True,2026-07-03,823933
+1,top,San Diego Padres,Los Angeles Dodgers,Ty France,1,loaded,Strikeout,Ty France strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+1,top,San Diego Padres,Los Angeles Dodgers,Jackson Merrill,2,empty,Strikeout,Jackson Merrill strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+1,bottom,Los Angeles Dodgers,San Diego Padres,Shohei Ohtani,0,empty,Groundout,"Shohei Ohtani grounds out, second baseman Jake Cronenworth to first baseman Ty France.",False,False,False,False,False,2026-07-03,823933
+1,bottom,Los Angeles Dodgers,San Diego Padres,Andy Pages,1,empty,Groundout,"Andy Pages grounds out, third baseman Sung-Mun Song to first baseman Ty France.",False,False,False,False,False,2026-07-03,823933
+1,bottom,Los Angeles Dodgers,San Diego Padres,Freddie Freeman,2,empty,Strikeout,Freddie Freeman strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+2,top,San Diego Padres,Los Angeles Dodgers,Xander Bogaerts,0,empty,Groundout,"Xander Bogaerts grounds out sharply, first baseman Freddie Freeman to pitcher Shohei Ohtani.",False,False,False,False,False,2026-07-03,823933
+2,top,San Diego Padres,Los Angeles Dodgers,Sung-Mun Song,1,empty,Strikeout,Sung-Mun Song strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+2,top,San Diego Padres,Los Angeles Dodgers,Rodolfo Durán,2,empty,Strikeout,Rodolfo Durán strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+2,bottom,Los Angeles Dodgers,San Diego Padres,Mookie Betts,0,empty,Flyout,Mookie Betts flies out to right fielder Fernando Tatis Jr.,False,False,False,False,False,2026-07-03,823933
+2,bottom,Los Angeles Dodgers,San Diego Padres,Max Muncy,1,empty,Groundout,"Max Muncy grounds out, first baseman Ty France to pitcher Michael King.",False,False,False,False,False,2026-07-03,823933
+2,bottom,Los Angeles Dodgers,San Diego Padres,Kyle Tucker,2,empty,Flyout,Kyle Tucker flies out to left fielder Gavin Sheets.,False,False,False,False,False,2026-07-03,823933
+3,top,San Diego Padres,Los Angeles Dodgers,Fernando Tatis Jr.,0,empty,Strikeout,Fernando Tatis Jr. strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+3,top,San Diego Padres,Los Angeles Dodgers,Jake Cronenworth,1,empty,Strikeout,Jake Cronenworth strikes out on a foul tip.,False,False,False,False,False,2026-07-03,823933
+3,top,San Diego Padres,Los Angeles Dodgers,Manny Machado,2,empty,Groundout,"Manny Machado grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",False,False,False,False,False,2026-07-03,823933
+3,bottom,Los Angeles Dodgers,San Diego Padres,Teoscar Hernández,0,empty,Flyout,Teoscar Hernández flies out to center fielder Jackson Merrill.,False,False,False,False,False,2026-07-03,823933
+3,bottom,Los Angeles Dodgers,San Diego Padres,Dalton Rushing,1,empty,Strikeout,Dalton Rushing called out on strikes.,False,False,False,False,False,2026-07-03,823933
+3,bottom,Los Angeles Dodgers,San Diego Padres,Alex Freeland,2,empty,Strikeout,Alex Freeland strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+4,top,San Diego Padres,Los Angeles Dodgers,Gavin Sheets,0,empty,Groundout,"Gavin Sheets grounds out, second baseman Alex Freeland to first baseman Freddie Freeman.",False,False,False,False,False,2026-07-03,823933
+4,top,San Diego Padres,Los Angeles Dodgers,Ty France,1,empty,Pop Out,Ty France pops out to first baseman Freddie Freeman in foul territory.,False,False,False,False,False,2026-07-03,823933
+4,top,San Diego Padres,Los Angeles Dodgers,Jackson Merrill,2,empty,Home Run,Jackson Merrill homers (10) on a fly ball to center field.,True,False,True,False,True,2026-07-03,823933
+4,top,San Diego Padres,Los Angeles Dodgers,Xander Bogaerts,2,empty,Flyout,Xander Bogaerts flies out to center fielder Andy Pages.,False,False,False,False,False,2026-07-03,823933
+4,bottom,Los Angeles Dodgers,San Diego Padres,Shohei Ohtani,0,empty,Flyout,Shohei Ohtani flies out sharply to left fielder Gavin Sheets.,False,False,False,False,False,2026-07-03,823933
+4,bottom,Los Angeles Dodgers,San Diego Padres,Andy Pages,1,empty,Groundout,"Andy Pages grounds out, shortstop Xander Bogaerts to first baseman Ty France.",False,False,False,False,False,2026-07-03,823933
+4,bottom,Los Angeles Dodgers,San Diego Padres,Freddie Freeman,2,empty,Single,Freddie Freeman singles on a ground ball to right fielder Fernando Tatis Jr.,True,False,False,False,True,2026-07-03,823933
+4,bottom,Los Angeles Dodgers,San Diego Padres,Mookie Betts,2,1st,Lineout,Mookie Betts lines out to center fielder Jackson Merrill.,False,False,False,False,False,2026-07-03,823933
+5,top,San Diego Padres,Los Angeles Dodgers,Sung-Mun Song,0,empty,Groundout,"Sung-Mun Song grounds out, second baseman Alex Freeland to first baseman Freddie Freeman.",False,False,False,False,False,2026-07-03,823933
+5,top,San Diego Padres,Los Angeles Dodgers,Rodolfo Durán,1,empty,Single,"Rodolfo Durán singles on a ground ball to left fielder Teoscar Hernández, deflected by third baseman Max Muncy.",True,False,False,False,True,2026-07-03,823933
+5,top,San Diego Padres,Los Angeles Dodgers,Fernando Tatis Jr.,1,1st,Strikeout,Fernando Tatis Jr. strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+5,top,San Diego Padres,Los Angeles Dodgers,Jake Cronenworth,2,empty,Single,Jake Cronenworth singles on a ground ball to right fielder Kyle Tucker. Rodolfo Durán to 3rd.,True,True,False,False,True,2026-07-03,823933
+5,top,San Diego Padres,Los Angeles Dodgers,Manny Machado,2,loaded,Groundout,"Manny Machado grounds out, third baseman Max Muncy to first baseman Freddie Freeman.",False,False,False,False,False,2026-07-03,823933
+5,bottom,Los Angeles Dodgers,San Diego Padres,Max Muncy,0,empty,Strikeout,Max Muncy strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+5,bottom,Los Angeles Dodgers,San Diego Padres,Kyle Tucker,1,empty,Lineout,Kyle Tucker lines out to right fielder Fernando Tatis Jr.,False,False,False,False,False,2026-07-03,823933
+5,bottom,Los Angeles Dodgers,San Diego Padres,Teoscar Hernández,2,empty,Strikeout,Teoscar Hernández strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+6,top,San Diego Padres,Los Angeles Dodgers,Gavin Sheets,0,empty,Groundout,"Gavin Sheets grounds out, second baseman Alex Freeland to first baseman Freddie Freeman.",False,False,False,False,False,2026-07-03,823933
+6,top,San Diego Padres,Los Angeles Dodgers,Ty France,1,empty,Strikeout,Ty France strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+6,top,San Diego Padres,Los Angeles Dodgers,Jackson Merrill,2,empty,Single,Jackson Merrill singles on a line drive to left fielder Teoscar Hernández.,True,False,False,False,True,2026-07-03,823933
+6,top,San Diego Padres,Los Angeles Dodgers,Xander Bogaerts,2,1st,Double,Xander Bogaerts doubles (7) on a line drive to right fielder Kyle Tucker. Jackson Merrill scores.,True,True,True,False,True,2026-07-03,823933
+6,top,San Diego Padres,Los Angeles Dodgers,Sung-Mun Song,2,2nd_3rd,Single,Sung-Mun Song singles on a ground ball to shortstop Mookie Betts. Xander Bogaerts to 3rd.,True,True,False,False,True,2026-07-03,823933
+6,top,San Diego Padres,Los Angeles Dodgers,Rodolfo Durán,2,1st_3rd,Pop Out,Rodolfo Durán pops out to first baseman Freddie Freeman in foul territory.,False,True,False,False,False,2026-07-03,823933
+6,bottom,Los Angeles Dodgers,San Diego Padres,Dalton Rushing,0,empty,Single,Dalton Rushing singles on a sharp ground ball to center fielder Jackson Merrill.,True,False,False,False,True,2026-07-03,823933
+6,bottom,Los Angeles Dodgers,San Diego Padres,Alex Freeland,0,1st,Flyout,Alex Freeland flies out to left fielder Gavin Sheets.,False,False,False,False,False,2026-07-03,823933
+6,bottom,Los Angeles Dodgers,San Diego Padres,Shohei Ohtani,1,empty,Flyout,Shohei Ohtani flies out to right fielder Fernando Tatis Jr.,False,False,False,False,False,2026-07-03,823933
+6,bottom,Los Angeles Dodgers,San Diego Padres,Andy Pages,2,empty,Walk,Andy Pages walks. Dalton Rushing to 2nd.,True,True,False,False,True,2026-07-03,823933
+6,bottom,Los Angeles Dodgers,San Diego Padres,Freddie Freeman,2,1st_2nd,Groundout,"Freddie Freeman grounds out, second baseman Jake Cronenworth to first baseman Ty France.",False,False,False,False,False,2026-07-03,823933
+7,top,San Diego Padres,Los Angeles Dodgers,Fernando Tatis Jr.,0,empty,Strikeout,Fernando Tatis Jr. strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+7,top,San Diego Padres,Los Angeles Dodgers,Jake Cronenworth,1,empty,Single,Jake Cronenworth singles on a line drive to center fielder Andy Pages.,True,False,False,False,True,2026-07-03,823933
+7,top,San Diego Padres,Los Angeles Dodgers,Manny Machado,1,1st,Walk,Manny Machado walks. Jake Cronenworth to 2nd.,True,True,False,False,True,2026-07-03,823933
+7,top,San Diego Padres,Los Angeles Dodgers,Gavin Sheets,1,1st_2nd,Grounded Into DP,"Gavin Sheets grounds into a double play, second baseman Alex Freeland to shortstop Mookie Betts to first baseman Freddie Freeman. Manny Machado out at 2nd. Gavin Sheets out at 1st.",False,False,False,True,False,2026-07-03,823933
+7,bottom,Los Angeles Dodgers,San Diego Padres,Mookie Betts,0,empty,Walk,Mookie Betts walks.,True,False,False,False,True,2026-07-03,823933
+7,bottom,Los Angeles Dodgers,San Diego Padres,Max Muncy,0,1st,Single,Max Muncy singles on a ground ball to right fielder Fernando Tatis Jr. Mookie Betts to 2nd.,True,True,False,False,True,2026-07-03,823933
+7,bottom,Los Angeles Dodgers,San Diego Padres,Kyle Tucker,0,1st_2nd,Fielders Choice,"Kyle Tucker reaches on a fielder's choice, fielded by second baseman Jake Cronenworth. Mookie Betts to 3rd. Max Muncy to 2nd. Fielding error by second baseman Jake Cronenworth.",False,True,False,False,True,2026-07-03,823933
+7,bottom,Los Angeles Dodgers,San Diego Padres,Teoscar Hernández,0,loaded,Home Run,Teoscar Hernández hits a grand slam (8) to center field. Mookie Betts scores. Max Muncy scores. Kyle Tucker scores.,True,True,True,False,True,2026-07-03,823933
+7,bottom,Los Angeles Dodgers,San Diego Padres,Dalton Rushing,0,empty,Groundout,"Dalton Rushing grounds out, first baseman Ty France to pitcher Adrian Morejon.",False,False,False,False,False,2026-07-03,823933
+7,bottom,Los Angeles Dodgers,San Diego Padres,Tommy Edman,1,empty,Walk,Tommy Edman walks.,True,False,False,False,True,2026-07-03,823933
+7,bottom,Los Angeles Dodgers,San Diego Padres,Miguel Rojas,2,1st,Double,Miguel Rojas hits a ground-rule double (8) on a ground ball through the hole at shortstop.,True,False,False,False,True,2026-07-03,823933
+7,bottom,Los Angeles Dodgers,San Diego Padres,Andy Pages,2,2nd,Intent Walk,Adrian Morejon intentionally walks Andy Pages.,False,False,False,False,False,2026-07-03,823933
+7,bottom,Los Angeles Dodgers,San Diego Padres,Freddie Freeman,2,1st,Groundout,"Freddie Freeman grounds out, first baseman Ty France to pitcher Adrian Morejon.",False,False,False,False,False,2026-07-03,823933
+8,top,San Diego Padres,Los Angeles Dodgers,Ty France,0,empty,Groundout,"Ty France grounds out sharply, third baseman Max Muncy to first baseman Freddie Freeman.",False,False,False,False,False,2026-07-03,823933
+8,top,San Diego Padres,Los Angeles Dodgers,Jackson Merrill,1,empty,Strikeout,Jackson Merrill strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+8,top,San Diego Padres,Los Angeles Dodgers,Xander Bogaerts,2,empty,Groundout,"Xander Bogaerts grounds out sharply, third baseman Max Muncy to first baseman Freddie Freeman.",False,False,False,False,False,2026-07-03,823933
+8,bottom,Los Angeles Dodgers,San Diego Padres,Mookie Betts,0,empty,Pop Out,Mookie Betts pops out to first baseman Ty France.,False,False,False,False,False,2026-07-03,823933
+8,bottom,Los Angeles Dodgers,San Diego Padres,Max Muncy,1,empty,Walk,Max Muncy walks.,True,False,False,False,True,2026-07-03,823933
+8,bottom,Los Angeles Dodgers,San Diego Padres,Kyle Tucker,1,1st,Flyout,Kyle Tucker flies out to shortstop Xander Bogaerts.,False,False,False,False,False,2026-07-03,823933
+8,bottom,Los Angeles Dodgers,San Diego Padres,Teoscar Hernández,2,empty,Groundout,"Teoscar Hernández grounds out, third baseman Sung-Mun Song to first baseman Ty France.",False,False,False,False,False,2026-07-03,823933
+9,top,San Diego Padres,Los Angeles Dodgers,Samad Taylor,0,empty,Strikeout,Samad Taylor strikes out swinging.,False,False,False,False,False,2026-07-03,823933
+9,top,San Diego Padres,Los Angeles Dodgers,Miguel Andujar,1,empty,Strikeout,Miguel Andujar called out on strikes.,False,False,False,False,False,2026-07-03,823933
+9,top,San Diego Padres,Los Angeles Dodgers,Fernando Tatis Jr.,2,empty,Strikeout,Fernando Tatis Jr. called out on strikes.,False,False,False,False,False,2026-07-03,823933
+1,top,Toronto Blue Jays,Seattle Mariners,Nathan Lukes,0,empty,Groundout,"Nathan Lukes grounds out, second baseman Cole Young to first baseman Josh Naylor.",False,False,False,False,False,2026-07-03,823120
+1,top,Toronto Blue Jays,Seattle Mariners,Vladimir Guerrero Jr.,1,empty,Strikeout,Vladimir Guerrero Jr. called out on strikes.,False,False,False,False,False,2026-07-03,823120
+1,top,Toronto Blue Jays,Seattle Mariners,Kazuma Okamoto,2,empty,Field Error,Kazuma Okamoto reaches on a throwing error by third baseman J.P. Crawford.,False,False,False,False,False,2026-07-03,823120
+1,top,Toronto Blue Jays,Seattle Mariners,Daulton Varsho,2,1st,Pop Out,Daulton Varsho pops out to shortstop Colt Emerson.,False,False,False,False,False,2026-07-03,823120
+1,bottom,Seattle Mariners,Toronto Blue Jays,J.P. Crawford,0,empty,Strikeout,J.P. Crawford strikes out swinging.,False,False,False,False,False,2026-07-03,823120
+1,bottom,Seattle Mariners,Toronto Blue Jays,Randy Arozarena,1,empty,Strikeout,"Randy Arozarena challenged (pitch result), call on the field was confirmed: Randy Arozarena called out on strikes.",False,False,False,False,False,2026-07-03,823120
+1,bottom,Seattle Mariners,Toronto Blue Jays,Dominic Canzone,2,empty,Strikeout,Dominic Canzone called out on strikes.,False,False,False,False,False,2026-07-03,823120
+2,top,Toronto Blue Jays,Seattle Mariners,Alejandro Kirk,0,empty,Groundout,"Alejandro Kirk grounds out, shortstop Colt Emerson to first baseman Josh Naylor.",False,False,False,False,False,2026-07-03,823120
+2,top,Toronto Blue Jays,Seattle Mariners,Yohendrick Piñango,1,empty,Strikeout,Yohendrick Piñango strikes out on a foul tip.,False,False,False,False,False,2026-07-03,823120
+2,top,Toronto Blue Jays,Seattle Mariners,Ernie Clement,2,empty,Groundout,"Ernie Clement grounds out, first baseman Josh Naylor to pitcher Luis Castillo.",False,False,False,False,False,2026-07-03,823120
+2,bottom,Seattle Mariners,Toronto Blue Jays,Cal Raleigh,0,empty,Groundout,Cal Raleigh grounds out to first baseman Vladimir Guerrero Jr.,False,False,False,False,False,2026-07-03,823120
+2,bottom,Seattle Mariners,Toronto Blue Jays,Josh Naylor,1,empty,Groundout,"Josh Naylor grounds out, second baseman Ernie Clement to first baseman Vladimir Guerrero Jr.",False,False,False,False,False,2026-07-03,823120
+2,bottom,Seattle Mariners,Toronto Blue Jays,Luke Raley,2,empty,Strikeout,Luke Raley strikes out swinging.,False,False,False,False,False,2026-07-03,823120
+3,top,Toronto Blue Jays,Seattle Mariners,Sean Keys,0,empty,Single,Sean Keys singles on a ground ball to center fielder Victor Robles.,True,False,False,False,True,2026-07-03,823120
+3,top,Toronto Blue Jays,Seattle Mariners,Andrés Giménez,0,1st,Double,Andrés Giménez doubles (14) on a sharp line drive to center fielder Victor Robles. Sean Keys scores.,True,True,True,False,True,2026-07-03,823120
+3,top,Toronto Blue Jays,Seattle Mariners,Nathan Lukes,0,2nd_3rd,Sac Bunt,"Nathan Lukes out on a sacrifice bunt, third baseman J.P. Crawford to first baseman Josh Naylor. Andrés Giménez to 3rd.",False,True,False,False,False,2026-07-03,823120
+3,top,Toronto Blue Jays,Seattle Mariners,Vladimir Guerrero Jr.,1,3rd,Single,Vladimir Guerrero Jr. singles on a line drive to right fielder Luke Raley. Andrés Giménez scores.,True,True,True,False,True,2026-07-03,823120
+3,top,Toronto Blue Jays,Seattle Mariners,Kazuma Okamoto,1,1st,Single,Kazuma Okamoto singles on a line drive to left fielder Randy Arozarena. Vladimir Guerrero Jr. to 2nd.,True,True,False,False,True,2026-07-03,823120
+3,top,Toronto Blue Jays,Seattle Mariners,Daulton Varsho,1,1st_2nd,Lineout,Daulton Varsho lines out to center fielder Victor Robles. Vladimir Guerrero Jr. to 3rd.,False,True,False,False,True,2026-07-03,823120
+3,top,Toronto Blue Jays,Seattle Mariners,Alejandro Kirk,2,3rd,Groundout,"Alejandro Kirk grounds out, shortstop Colt Emerson to first baseman Josh Naylor.",False,False,False,False,False,2026-07-03,823120
+3,bottom,Seattle Mariners,Toronto Blue Jays,Cole Young,0,empty,Single,Cole Young singles on a line drive to left fielder Yohendrick Piñango.,True,False,False,False,True,2026-07-03,823120
+3,bottom,Seattle Mariners,Toronto Blue Jays,Victor Robles,0,1st,Single,Victor Robles singles on a line drive to left fielder Yohendrick Piñango. Cole Young to 2nd.,True,True,False,False,True,2026-07-03,823120
+3,bottom,Seattle Mariners,Toronto Blue Jays,Colt Emerson,0,1st_2nd,Grounded Into DP,"Colt Emerson grounds into a double play, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr. Cole Young to 3rd. Victor Robles out at 2nd. Colt Emerson out at 1st.",False,True,False,True,False,2026-07-03,823120
+3,bottom,Seattle Mariners,Toronto Blue Jays,J.P. Crawford,2,3rd,Walk,J.P. Crawford walks.,True,False,False,False,True,2026-07-03,823120
+3,bottom,Seattle Mariners,Toronto Blue Jays,Randy Arozarena,2,1st,Groundout,"Randy Arozarena grounds out, second baseman Ernie Clement to first baseman Vladimir Guerrero Jr.",False,False,False,False,False,2026-07-03,823120
+4,top,Toronto Blue Jays,Seattle Mariners,Yohendrick Piñango,0,empty,Strikeout,Yohendrick Piñango strikes out swinging.,False,False,False,False,False,2026-07-03,823120
+4,top,Toronto Blue Jays,Seattle Mariners,Ernie Clement,1,empty,Flyout,Ernie Clement flies out to center fielder Victor Robles.,False,False,False,False,False,2026-07-03,823120
+4,top,Toronto Blue Jays,Seattle Mariners,Sean Keys,2,empty,Double,Sean Keys doubles (1) on a sharp line drive to center fielder Victor Robles.,True,False,False,False,True,2026-07-03,823120
+4,top,Toronto Blue Jays,Seattle Mariners,Andrés Giménez,2,2nd,Walk,Andrés Giménez walks.,True,False,False,False,True,2026-07-03,823120
+4,top,Toronto Blue Jays,Seattle Mariners,Nathan Lukes,2,1st,Groundout,"Nathan Lukes grounds out, second baseman Cole Young to first baseman Josh Naylor.",False,False,False,False,False,2026-07-03,823120
+4,bottom,Seattle Mariners,Toronto Blue Jays,Dominic Canzone,0,empty,Strikeout,"Alejandro Kirk challenged (pitch result), call on the field was overturned: Dominic Canzone called out on strikes.",False,False,False,False,False,2026-07-03,823120
+4,bottom,Seattle Mariners,Toronto Blue Jays,Cal Raleigh,1,empty,Strikeout,Cal Raleigh strikes out swinging.,False,False,False,False,False,2026-07-03,823120
+4,bottom,Seattle Mariners,Toronto Blue Jays,Josh Naylor,2,empty,Flyout,Josh Naylor flies out to right fielder Nathan Lukes.,False,False,False,False,False,2026-07-03,823120
+5,top,Toronto Blue Jays,Seattle Mariners,Vladimir Guerrero Jr.,0,empty,Groundout,"Vladimir Guerrero Jr. grounds out, second baseman Cole Young to first baseman Josh Naylor.",False,False,False,False,False,2026-07-03,823120
+5,top,Toronto Blue Jays,Seattle Mariners,Kazuma Okamoto,1,empty,Flyout,Kazuma Okamoto flies out to right fielder Luke Raley.,False,False,False,False,False,2026-07-03,823120
+5,top,Toronto Blue Jays,Seattle Mariners,Daulton Varsho,2,empty,Strikeout,Daulton Varsho strikes out swinging.,False,False,False,False,False,2026-07-03,823120
+5,bottom,Seattle Mariners,Toronto Blue Jays,Luke Raley,0,empty,Lineout,Luke Raley lines out sharply to center fielder Daulton Varsho.,False,False,False,False,False,2026-07-03,823120
+5,bottom,Seattle Mariners,Toronto Blue Jays,Cole Young,1,empty,Strikeout,Cole Young called out on strikes.,False,False,False,False,False,2026-07-03,823120
+5,bottom,Seattle Mariners,Toronto Blue Jays,Victor Robles,2,empty,Flyout,Victor Robles flies out to left fielder Yohendrick Piñango.,False,False,False,False,False,2026-07-03,823120
+6,top,Toronto Blue Jays,Seattle Mariners,Alejandro Kirk,0,empty,Lineout,Alejandro Kirk lines out sharply to center fielder Victor Robles.,False,False,False,False,False,2026-07-03,823120
+6,top,Toronto Blue Jays,Seattle Mariners,Yohendrick Piñango,1,empty,Flyout,Yohendrick Piñango flies out to right fielder Luke Raley.,False,False,False,False,False,2026-07-03,823120
+6,top,Toronto Blue Jays,Seattle Mariners,Ernie Clement,2,empty,Field Error,Ernie Clement reaches on a throwing error by second baseman Cole Young.,False,False,False,False,False,2026-07-03,823120
+6,top,Toronto Blue Jays,Seattle Mariners,Sean Keys,2,1st,Lineout,Sean Keys lines out to right fielder Luke Raley.,False,False,False,False,False,2026-07-03,823120
+6,bottom,Seattle Mariners,Toronto Blue Jays,Colt Emerson,0,empty,Strikeout,Colt Emerson strikes out swinging.,False,False,False,False,False,2026-07-03,823120
+6,bottom,Seattle Mariners,Toronto Blue Jays,J.P. Crawford,1,empty,Double,J.P. Crawford doubles (7) on a ground ball to left fielder Yohendrick Piñango.,True,False,False,False,True,2026-07-03,823120
+6,bottom,Seattle Mariners,Toronto Blue Jays,Randy Arozarena,1,2nd,Strikeout,Randy Arozarena strikes out on a foul tip.,False,False,False,False,False,2026-07-03,823120
+6,bottom,Seattle Mariners,Toronto Blue Jays,Dominic Canzone,2,empty,Flyout,Dominic Canzone flies out to right fielder Nathan Lukes.,False,False,False,False,False,2026-07-03,823120
+7,top,Toronto Blue Jays,Seattle Mariners,Andrés Giménez,0,empty,Groundout,"Andrés Giménez grounds out, third baseman J.P. Crawford to first baseman Josh Naylor.",False,False,False,False,False,2026-07-03,823120
+7,top,Toronto Blue Jays,Seattle Mariners,Nathan Lukes,1,empty,Strikeout,Nathan Lukes called out on strikes.,False,False,False,False,False,2026-07-03,823120
+7,top,Toronto Blue Jays,Seattle Mariners,Vladimir Guerrero Jr.,2,empty,Walk,Vladimir Guerrero Jr. walks.,True,False,False,False,True,2026-07-03,823120
+7,top,Toronto Blue Jays,Seattle Mariners,Kazuma Okamoto,2,1st,Flyout,Kazuma Okamoto flies out sharply to center fielder Victor Robles.,False,False,False,False,False,2026-07-03,823120
+7,bottom,Seattle Mariners,Toronto Blue Jays,Cal Raleigh,0,empty,Flyout,Cal Raleigh flies out to left fielder Yohendrick Piñango.,False,False,False,False,False,2026-07-03,823120
+7,bottom,Seattle Mariners,Toronto Blue Jays,Josh Naylor,1,empty,Pop Out,Josh Naylor pops out to third baseman Kazuma Okamoto.,False,False,False,False,False,2026-07-03,823120
+7,bottom,Seattle Mariners,Toronto Blue Jays,Luke Raley,2,empty,Pop Out,Luke Raley pops out to third baseman Kazuma Okamoto.,False,False,False,False,False,2026-07-03,823120
+8,top,Toronto Blue Jays,Seattle Mariners,Daulton Varsho,0,empty,Flyout,Daulton Varsho flies out to center fielder Victor Robles.,False,False,False,False,False,2026-07-03,823120
+8,top,Toronto Blue Jays,Seattle Mariners,Alejandro Kirk,1,empty,Lineout,Alejandro Kirk lines out to center fielder Victor Robles.,False,False,False,False,False,2026-07-03,823120
+8,top,Toronto Blue Jays,Seattle Mariners,Yohendrick Piñango,2,empty,Single,Yohendrick Piñango singles on a line drive to right fielder Luke Raley.,True,False,False,False,True,2026-07-03,823120
+8,top,Toronto Blue Jays,Seattle Mariners,Ernie Clement,2,1st,Groundout,"Ernie Clement grounds out, shortstop Colt Emerson to first baseman Josh Naylor.",False,False,False,False,False,2026-07-03,823120
+8,bottom,Seattle Mariners,Toronto Blue Jays,Cole Young,0,empty,Groundout,"Cole Young grounds out, second baseman Ernie Clement to first baseman Vladimir Guerrero Jr.",False,False,False,False,False,2026-07-03,823120
+8,bottom,Seattle Mariners,Toronto Blue Jays,Victor Robles,1,empty,Walk,Victor Robles walks.,True,False,False,False,True,2026-07-03,823120
+8,bottom,Seattle Mariners,Toronto Blue Jays,Colt Emerson,1,1st,Strikeout,Colt Emerson strikes out swinging.,False,False,False,False,False,2026-07-03,823120
+8,bottom,Seattle Mariners,Toronto Blue Jays,J.P. Crawford,2,empty,Strikeout,J.P. Crawford strikes out swinging.,False,False,False,False,False,2026-07-03,823120
+9,top,Toronto Blue Jays,Seattle Mariners,Sean Keys,0,empty,Groundout,"Sean Keys grounds out, first baseman Josh Naylor to pitcher Nick Davila.",False,False,False,False,False,2026-07-03,823120
+9,top,Toronto Blue Jays,Seattle Mariners,Andrés Giménez,1,empty,Groundout,"Andrés Giménez grounds out, second baseman Cole Young to first baseman Josh Naylor.",False,False,False,False,False,2026-07-03,823120
+9,top,Toronto Blue Jays,Seattle Mariners,Nathan Lukes,2,empty,Groundout,"Nathan Lukes grounds out, second baseman Cole Young to first baseman Josh Naylor.",False,False,False,False,False,2026-07-03,823120
+9,bottom,Seattle Mariners,Toronto Blue Jays,Randy Arozarena,0,empty,Groundout,Randy Arozarena grounds out to first baseman Vladimir Guerrero Jr.,False,False,False,False,False,2026-07-03,823120
+9,bottom,Seattle Mariners,Toronto Blue Jays,Dominic Canzone,1,empty,Single,Dominic Canzone singles on a line drive to right fielder Nathan Lukes.,True,False,False,False,True,2026-07-03,823120
+9,bottom,Seattle Mariners,Toronto Blue Jays,Cal Raleigh,1,1st,Strikeout,Cal Raleigh strikes out swinging.,False,False,False,False,False,2026-07-03,823120
+9,bottom,Seattle Mariners,Toronto Blue Jays,Josh Naylor,2,empty,Forceout,"Josh Naylor grounds into a force out, fielded by shortstop Andrés Giménez. Weston Wilson out at 2nd.",False,False,False,False,False,2026-07-03,823120
