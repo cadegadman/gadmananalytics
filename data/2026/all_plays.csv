@@ -94917,7 +94917,7 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 8,top,Athletics,Los Angeles Angels,Jonah Heim,1,1st_2nd,Walk,Jonah Heim walks. Shea Langeliers to 3rd. Lawrence Butler to 2nd.,True,True,False,False,True,2026-06-27,824015
 8,top,Athletics,Los Angeles Angels,Carlos Cortes,1,loaded,Strikeout,Carlos Cortes strikes out on a foul tip.,False,False,False,False,False,2026-06-27,824015
 8,top,Athletics,Los Angeles Angels,Max Muncy,2,empty,Lineout,Max Muncy lines out to center fielder Jose Siri.,False,False,False,False,False,2026-06-27,824015
-8,bottom,Los Angeles Angels,Athletics,Jorge Soler,0,empty,Single,Jorge Soler singles on a ground ball to shortstop Alika Williams.,True,False,False,False,True,2026-06-27,824015
+8,bottom,Los Angeles Angels,Athletics,Jorge Soler,0,empty,Field Error,Jorge Soler reaches on a throwing error by shortstop Alika Williams.,False,False,False,False,False,2026-06-27,824015
 8,bottom,Los Angeles Angels,Athletics,Wade Meckler,0,1st,Strikeout,Wade Meckler strikes out swinging.,False,False,False,False,False,2026-06-27,824015
 8,bottom,Los Angeles Angels,Athletics,Jo Adell,1,empty,Hit By Pitch,Jo Adell hit by pitch. Jorge Soler to 2nd.,True,True,False,False,True,2026-06-27,824015
 8,bottom,Los Angeles Angels,Athletics,Oswald Peraza,1,1st_2nd,Single,Oswald Peraza singles on a sharp line drive to center fielder Henry Bolte. Vaughn Grissom scores. Jo Adell to 2nd.,True,True,True,False,True,2026-06-27,824015
@@ -102374,7 +102374,7 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 5,bottom,New York Yankees,Minnesota Twins,Jazz Chisholm Jr.,1,empty,Flyout,Jazz Chisholm Jr. flies out to right fielder Luke Keaschall.,False,False,False,False,False,2026-07-05,823525
 5,bottom,New York Yankees,Minnesota Twins,Max Schuemann,2,empty,Flyout,Max Schuemann flies out to right fielder Luke Keaschall.,False,False,False,False,False,2026-07-05,823525
 6,top,Minnesota Twins,New York Yankees,Brooks Lee,0,empty,Double,Brooks Lee doubles (13) on a sharp line drive to right fielder Max Schuemann.,True,False,False,False,True,2026-07-05,823525
-6,top,Minnesota Twins,New York Yankees,Ryan Kreidler,0,2nd,Field Error,Ryan Kreidler reaches on a fielding error by shortstop Anthony Volpe.,False,False,False,False,False,2026-07-05,823525
+6,top,Minnesota Twins,New York Yankees,Ryan Kreidler,0,2nd,Single,Ryan Kreidler singles on a ground ball to shortstop Anthony Volpe.,True,False,False,False,False,2026-07-05,823525
 6,top,Minnesota Twins,New York Yankees,Luke Keaschall,0,1st,Single,Luke Keaschall singles on a soft bunt pop to shortstop Anthony Volpe. Brooks Lee to 3rd. Ryan Kreidler to 2nd.,True,True,False,False,True,2026-07-05,823525
 6,top,Minnesota Twins,New York Yankees,Austin Martin,0,loaded,Walk,Austin Martin walks. Brooks Lee scores. Ryan Kreidler to 3rd. Luke Keaschall to 2nd.,True,True,True,False,True,2026-07-05,823525
 6,top,Minnesota Twins,New York Yankees,Kyler Fedko,0,loaded,Strikeout,Kyler Fedko strikes out on a foul tip.,False,False,False,False,False,2026-07-05,823525
@@ -107832,7 +107832,7 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 8,bottom,Texas Rangers,Houston Astros,Brandon Nimmo,0,1st,Single,Brandon Nimmo singles on a line drive to left fielder LaMonte Wade Jr. Josh Jung to 2nd.,True,True,False,False,True,2026-07-10,822878
 8,bottom,Texas Rangers,Houston Astros,Jake Burger,0,1st_2nd,Home Run,Jake Burger homers (16) on a fly ball to left center field. Josh Jung scores. Brandon Nimmo scores.,True,True,True,False,True,2026-07-10,822878
 8,bottom,Texas Rangers,Houston Astros,Ezequiel Duran,0,empty,Single,Ezequiel Duran singles on a fly ball to right fielder Cam Smith.,True,False,False,False,True,2026-07-10,822878
-8,bottom,Texas Rangers,Houston Astros,Evan Carter,0,1st,Bunt Groundout,"Evan Carter bunt grounds out softly, pitcher Bryan King to second baseman Jose Altuve. Ezequiel Duran to 2nd.",False,True,False,False,True,2026-07-10,822878
+8,bottom,Texas Rangers,Houston Astros,Evan Carter,0,1st,Sac Bunt,"Evan Carter out on a sacrifice bunt, pitcher Bryan King to second baseman Jose Altuve. Ezequiel Duran to 2nd.",False,True,False,False,True,2026-07-10,822878
 8,bottom,Texas Rangers,Houston Astros,Justin Foscue,1,2nd,Strikeout,"Yainer Diaz challenged (pitch result), call on the field was overturned: Justin Foscue called out on strikes.",False,False,False,False,False,2026-07-10,822878
 8,bottom,Texas Rangers,Houston Astros,Kyle Higashioka,2,empty,Flyout,Kyle Higashioka flies out to center fielder Brice Matthews.,False,False,False,False,False,2026-07-10,822878
 9,top,Houston Astros,Texas Rangers,Jose Altuve,0,empty,Single,Jose Altuve singles on a sharp line drive to center fielder Evan Carter.,True,False,False,False,True,2026-07-10,822878
@@ -109559,7 +109559,7 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 1,bottom,Baltimore Orioles,Kansas City Royals,Samuel Basallo,2,empty,Groundout,"Samuel Basallo grounds out, second baseman Michael Massey to first baseman Salvador Perez.",False,False,False,False,False,2026-07-12,824814
 2,top,Kansas City Royals,Baltimore Orioles,Salvador Perez,0,empty,Strikeout,Salvador Perez strikes out swinging.,False,False,False,False,False,2026-07-12,824814
 2,top,Kansas City Royals,Baltimore Orioles,Michael Massey,1,empty,Groundout,"Michael Massey grounds out, first baseman Pete Alonso to pitcher Shane Baz.",False,False,False,False,False,2026-07-12,824814
-2,top,Kansas City Royals,Baltimore Orioles,Josh Rojas,2,empty,Field Error,Josh Rojas reaches on a throwing error by third baseman Blaze Alexander.,False,False,False,False,False,2026-07-12,824814
+2,top,Kansas City Royals,Baltimore Orioles,Josh Rojas,2,empty,Single,Josh Rojas singles on a ground ball to third baseman Blaze Alexander.,True,False,False,False,True,2026-07-12,824814
 2,top,Kansas City Royals,Baltimore Orioles,Isaac Collins,2,1st,Triple,Isaac Collins triples (1) on a ground ball to right fielder Leody Taveras. Josh Rojas scores.,True,True,True,False,True,2026-07-12,824814
 2,top,Kansas City Royals,Baltimore Orioles,Carter Jensen,2,3rd,Strikeout,Carter Jensen strikes out swinging.,False,False,False,False,False,2026-07-12,824814
 2,bottom,Baltimore Orioles,Kansas City Royals,Blaze Alexander,0,empty,Single,Blaze Alexander singles on a sharp line drive to left fielder Isaac Collins.,True,False,False,False,True,2026-07-12,824814
