@@ -110587,3 +110587,73 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 9,top,Toronto Blue Jays,San Diego Padres,Ernie Clement,0,empty,Groundout,"Ernie Clement grounds out, third baseman Sung-Mun Song to first baseman Ty France.",False,False,False,False,False,2026-07-12,823274
 9,top,Toronto Blue Jays,San Diego Padres,Myles Straw,1,empty,Pop Out,Myles Straw pops out to second baseman Jake Cronenworth.,False,False,False,False,False,2026-07-12,823274
 9,top,Toronto Blue Jays,San Diego Padres,Vladimir Guerrero Jr.,2,empty,Strikeout,Vladimir Guerrero Jr. strikes out swinging.,False,False,False,False,False,2026-07-12,823274
+1,top,New York Mets,Philadelphia Phillies,A.J. Ewing,0,empty,Strikeout,A.J. Ewing strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+1,top,New York Mets,Philadelphia Phillies,Juan Soto,1,empty,Single,"Juan Soto singles on a ground ball to center fielder Justin Crawford, deflected by shortstop Trea Turner.",True,False,False,False,True,2026-07-16,823440
+1,top,New York Mets,Philadelphia Phillies,Bo Bichette,1,1st,Grounded Into DP,"Bo Bichette grounds into a double play, first baseman Bryce Harper to shortstop Trea Turner to first baseman Bryce Harper. Juan Soto out at 2nd. Bo Bichette out at 1st.",False,False,False,True,False,2026-07-16,823440
+1,bottom,Philadelphia Phillies,New York Mets,Trea Turner,0,empty,Lineout,Trea Turner lines out to center fielder A.J. Ewing.,False,False,False,False,False,2026-07-16,823440
+1,bottom,Philadelphia Phillies,New York Mets,Kyle Schwarber,1,empty,Flyout,Kyle Schwarber flies out to center fielder A.J. Ewing.,False,False,False,False,False,2026-07-16,823440
+1,bottom,Philadelphia Phillies,New York Mets,Bryce Harper,2,empty,Strikeout,Bryce Harper strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+2,top,New York Mets,Philadelphia Phillies,Francisco Lindor,0,empty,Flyout,Francisco Lindor flies out to right fielder Gabriel Rincones Jr.,False,False,False,False,False,2026-07-16,823440
+2,top,New York Mets,Philadelphia Phillies,Carson Benge,1,empty,Single,Carson Benge singles on a ground ball to left fielder Brandon Marsh.,True,False,False,False,True,2026-07-16,823440
+2,top,New York Mets,Philadelphia Phillies,Jorge Polanco,1,1st,Pop Out,Jorge Polanco pops out to shortstop Trea Turner.,False,False,False,False,False,2026-07-16,823440
+2,top,New York Mets,Philadelphia Phillies,Jared Young,2,empty,Strikeout,Jared Young strikes out swinging.,False,True,False,False,False,2026-07-16,823440
+2,bottom,Philadelphia Phillies,New York Mets,Brandon Marsh,0,empty,Groundout,Brandon Marsh grounds out to first baseman Jared Young.,False,False,False,False,False,2026-07-16,823440
+2,bottom,Philadelphia Phillies,New York Mets,Alec Bohm,1,empty,Groundout,"Alec Bohm grounds out, third baseman Bo Bichette to first baseman Jared Young.",False,False,False,False,False,2026-07-16,823440
+2,bottom,Philadelphia Phillies,New York Mets,Bryson Stott,2,empty,Strikeout,Bryson Stott strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+3,top,New York Mets,Philadelphia Phillies,Brett Baty,0,empty,Flyout,Brett Baty flies out to center fielder Justin Crawford.,False,False,False,False,False,2026-07-16,823440
+3,top,New York Mets,Philadelphia Phillies,Francisco Alvarez,1,empty,Home Run,Francisco Alvarez homers (10) on a fly ball to center field.,True,False,True,False,True,2026-07-16,823440
+3,top,New York Mets,Philadelphia Phillies,A.J. Ewing,1,empty,Strikeout,A.J. Ewing strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+3,top,New York Mets,Philadelphia Phillies,Juan Soto,2,empty,Walk,Juan Soto walks.,True,False,False,False,True,2026-07-16,823440
+3,top,New York Mets,Philadelphia Phillies,Bo Bichette,2,1st,Strikeout,Bo Bichette strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+3,bottom,Philadelphia Phillies,New York Mets,J.T. Realmuto,0,empty,Single,J.T. Realmuto singles on a ground ball to center fielder A.J. Ewing.,True,False,False,False,True,2026-07-16,823440
+3,bottom,Philadelphia Phillies,New York Mets,Gabriel Rincones Jr.,0,1st,Strikeout,Gabriel Rincones Jr. strikes out on a foul tip.,False,False,False,False,False,2026-07-16,823440
+3,bottom,Philadelphia Phillies,New York Mets,Justin Crawford,1,empty,Pop Out,Justin Crawford pops out to pitcher Christian Scott in foul territory.,False,False,False,False,False,2026-07-16,823440
+3,bottom,Philadelphia Phillies,New York Mets,Trea Turner,2,empty,Strikeout,Trea Turner strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+4,top,New York Mets,Philadelphia Phillies,Francisco Lindor,0,empty,Groundout,"Francisco Lindor grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",False,False,False,False,False,2026-07-16,823440
+4,top,New York Mets,Philadelphia Phillies,Carson Benge,1,empty,Groundout,"Carson Benge grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",False,False,False,False,False,2026-07-16,823440
+4,top,New York Mets,Philadelphia Phillies,Jorge Polanco,2,empty,Groundout,"Jorge Polanco grounds out, shortstop Trea Turner to first baseman Bryce Harper.",False,False,False,False,False,2026-07-16,823440
+4,bottom,Philadelphia Phillies,New York Mets,Kyle Schwarber,0,empty,Strikeout,Kyle Schwarber strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+4,bottom,Philadelphia Phillies,New York Mets,Bryce Harper,1,empty,Double,Bryce Harper doubles (18) on a ground ball to right fielder Carson Benge.,True,False,False,False,True,2026-07-16,823440
+4,bottom,Philadelphia Phillies,New York Mets,Brandon Marsh,1,2nd,Flyout,Brandon Marsh flies out to left fielder Juan Soto.,False,False,False,False,False,2026-07-16,823440
+4,bottom,Philadelphia Phillies,New York Mets,Alec Bohm,2,empty,Pop Out,Alec Bohm pops out to first baseman Jared Young in foul territory.,False,False,False,False,False,2026-07-16,823440
+5,top,New York Mets,Philadelphia Phillies,Jared Young,0,empty,Walk,Jared Young walks.,True,False,False,False,True,2026-07-16,823440
+5,top,New York Mets,Philadelphia Phillies,Brett Baty,0,1st,Single,Brett Baty singles on a sharp line drive to center fielder Justin Crawford. Jared Young to 2nd.,True,True,False,False,True,2026-07-16,823440
+5,top,New York Mets,Philadelphia Phillies,Francisco Alvarez,0,1st_2nd,Walk,Francisco Alvarez walks. Jared Young to 3rd. Brett Baty to 2nd.,True,True,False,False,True,2026-07-16,823440
+5,top,New York Mets,Philadelphia Phillies,A.J. Ewing,0,loaded,Double Play,"A.J. Ewing lines into an unassisted double play, first baseman Bryce Harper. Francisco Alvarez out at 1st.",False,False,False,False,False,2026-07-16,823440
+5,top,New York Mets,Philadelphia Phillies,Juan Soto,2,empty,Intent Walk,Aaron Nola intentionally walks Juan Soto.,False,False,False,False,False,2026-07-16,823440
+5,top,New York Mets,Philadelphia Phillies,Bo Bichette,2,1st,Flyout,Bo Bichette flies out to right fielder Gabriel Rincones Jr.,False,False,False,False,False,2026-07-16,823440
+5,bottom,Philadelphia Phillies,New York Mets,Bryson Stott,0,empty,Strikeout,Bryson Stott strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+5,bottom,Philadelphia Phillies,New York Mets,J.T. Realmuto,1,empty,Groundout,"J.T. Realmuto grounds out, second baseman Brett Baty to first baseman Jared Young.",False,False,False,False,False,2026-07-16,823440
+5,bottom,Philadelphia Phillies,New York Mets,Gabriel Rincones Jr.,2,empty,Strikeout,"Gabriel Rincones Jr. challenged (pitch result), call on the field was confirmed: Gabriel Rincones Jr. called out on strikes.",False,False,False,False,False,2026-07-16,823440
+6,top,New York Mets,Philadelphia Phillies,Francisco Lindor,0,empty,Groundout,"Francisco Lindor grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",False,False,False,False,False,2026-07-16,823440
+6,top,New York Mets,Philadelphia Phillies,Carson Benge,1,empty,Field Error,Carson Benge reaches on a fielding error by shortstop Trea Turner. Carson Benge to 2nd.,False,True,False,False,False,2026-07-16,823440
+6,top,New York Mets,Philadelphia Phillies,Jorge Polanco,1,1st_2nd,Strikeout,Jorge Polanco strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+6,top,New York Mets,Philadelphia Phillies,Jared Young,2,empty,Strikeout,Jared Young strikes out on a foul tip.,False,False,False,False,False,2026-07-16,823440
+6,bottom,Philadelphia Phillies,New York Mets,Justin Crawford,0,empty,Groundout,"Justin Crawford grounds out, shortstop Francisco Lindor to first baseman Jared Young.",False,False,False,False,False,2026-07-16,823440
+6,bottom,Philadelphia Phillies,New York Mets,Trea Turner,1,empty,Lineout,Trea Turner lines out to second baseman Brett Baty.,False,False,False,False,False,2026-07-16,823440
+6,bottom,Philadelphia Phillies,New York Mets,Kyle Schwarber,2,empty,Double,"Umpire reviewed (home run), call on the field was upheld: Kyle Schwarber doubles (10) on a fly ball to right fielder Carson Benge.",True,False,False,False,True,2026-07-16,823440
+6,bottom,Philadelphia Phillies,New York Mets,Bryce Harper,2,2nd,Walk,Bryce Harper walks.,True,True,False,False,True,2026-07-16,823440
+6,bottom,Philadelphia Phillies,New York Mets,Brandon Marsh,2,1st_3rd,Strikeout,Brandon Marsh strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+7,top,New York Mets,Philadelphia Phillies,Brett Baty,0,empty,Home Run,Brett Baty homers (5) on a fly ball to right center field.,True,False,True,False,True,2026-07-16,823440
+7,top,New York Mets,Philadelphia Phillies,Francisco Alvarez,0,empty,Home Run,Francisco Alvarez homers (11) on a line drive to left field.,True,False,True,False,True,2026-07-16,823440
+7,top,New York Mets,Philadelphia Phillies,A.J. Ewing,0,empty,Groundout,A.J. Ewing grounds out to first baseman Bryce Harper.,False,False,False,False,False,2026-07-16,823440
+7,top,New York Mets,Philadelphia Phillies,Juan Soto,1,empty,Walk,Juan Soto walks.,True,False,False,False,True,2026-07-16,823440
+7,top,New York Mets,Philadelphia Phillies,Bo Bichette,1,1st,Grounded Into DP,"Bo Bichette grounds into a double play, shortstop Trea Turner to first baseman Bryce Harper. Juan Soto out at 2nd. Bo Bichette out at 1st.",False,False,False,True,False,2026-07-16,823440
+7,bottom,Philadelphia Phillies,New York Mets,Alec Bohm,0,empty,Groundout,"Alec Bohm grounds out, third baseman Bo Bichette to first baseman Jared Young.",False,False,False,False,False,2026-07-16,823440
+7,bottom,Philadelphia Phillies,New York Mets,Bryson Stott,1,empty,Flyout,Bryson Stott flies out to center fielder A.J. Ewing.,False,False,False,False,False,2026-07-16,823440
+7,bottom,Philadelphia Phillies,New York Mets,J.T. Realmuto,2,empty,Groundout,"J.T. Realmuto grounds out, shortstop Francisco Lindor to first baseman Jared Young.",False,False,False,False,False,2026-07-16,823440
+8,top,New York Mets,Philadelphia Phillies,Francisco Lindor,0,empty,Flyout,Francisco Lindor flies out to shortstop Trea Turner.,False,False,False,False,False,2026-07-16,823440
+8,top,New York Mets,Philadelphia Phillies,Carson Benge,1,empty,Groundout,"Carson Benge grounds out, second baseman Bryson Stott to first baseman Bryce Harper.",False,False,False,False,False,2026-07-16,823440
+8,top,New York Mets,Philadelphia Phillies,Jorge Polanco,2,empty,Lineout,Jorge Polanco lines out sharply to left fielder Brandon Marsh.,False,False,False,False,False,2026-07-16,823440
+8,bottom,Philadelphia Phillies,New York Mets,Gabriel Rincones Jr.,0,empty,Flyout,Gabriel Rincones Jr. flies out sharply to center fielder A.J. Ewing.,False,False,False,False,False,2026-07-16,823440
+8,bottom,Philadelphia Phillies,New York Mets,Justin Crawford,1,empty,Pop Out,Justin Crawford pops out to third baseman Bo Bichette.,False,False,False,False,False,2026-07-16,823440
+8,bottom,Philadelphia Phillies,New York Mets,Trea Turner,2,empty,Home Run,Trea Turner homers (11) on a fly ball to left field.,True,False,True,False,True,2026-07-16,823440
+8,bottom,Philadelphia Phillies,New York Mets,Kyle Schwarber,2,empty,Groundout,"Kyle Schwarber grounds out, second baseman Brett Baty to first baseman Jared Young.",False,False,False,False,False,2026-07-16,823440
+9,top,New York Mets,Philadelphia Phillies,Jared Young,0,empty,Walk,Jared Young walks.,True,False,False,False,True,2026-07-16,823440
+9,top,New York Mets,Philadelphia Phillies,Brett Baty,0,1st,Flyout,Brett Baty flies out to left fielder Brandon Marsh.,False,False,False,False,False,2026-07-16,823440
+9,top,New York Mets,Philadelphia Phillies,Francisco Alvarez,1,empty,Strikeout,Francisco Alvarez strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+9,top,New York Mets,Philadelphia Phillies,A.J. Ewing,2,empty,Double,A.J. Ewing doubles (10) on a ground ball to left fielder Brandon Marsh. Jared Young scores.,True,True,True,False,True,2026-07-16,823440
+9,top,New York Mets,Philadelphia Phillies,Tyrone Taylor,2,2nd_3rd,Strikeout,Tyrone Taylor strikes out swinging.,False,False,False,False,False,2026-07-16,823440
+9,bottom,Philadelphia Phillies,New York Mets,Bryce Harper,0,empty,Groundout,"Bryce Harper grounds out, second baseman Brett Baty to first baseman Jared Young.",False,False,False,False,False,2026-07-16,823440
+9,bottom,Philadelphia Phillies,New York Mets,Brandon Marsh,1,empty,Lineout,Brandon Marsh lines out to left fielder Tyrone Taylor.,False,False,False,False,False,2026-07-16,823440
+9,bottom,Philadelphia Phillies,New York Mets,Alec Bohm,2,empty,Strikeout,Alec Bohm strikes out swinging.,False,False,False,False,False,2026-07-16,823440
