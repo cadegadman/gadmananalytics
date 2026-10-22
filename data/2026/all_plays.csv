@@ -142795,7 +142795,7 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 2,bottom,Pittsburgh Pirates,Boston Red Sox,Nick Yorke,0,empty,Strikeout,Nick Yorke strikes out swinging.,False,False,False,False,False,2026-08-16,823344
 2,bottom,Pittsburgh Pirates,Boston Red Sox,Billy Cook,1,empty,Strikeout,Billy Cook called out on strikes.,False,False,False,False,False,2026-08-16,823344
 2,bottom,Pittsburgh Pirates,Boston Red Sox,Henry Davis,2,empty,Pop Out,Henry Davis pops out to shortstop Andruw Monasterio.,False,False,False,False,False,2026-08-16,823344
-3,top,Boston Red Sox,Pittsburgh Pirates,Anthony Seigler,0,empty,Double,Anthony Seigler doubles (12) on a to left fielder Jake Mangum.,True,False,False,False,True,2026-08-16,823344
+3,top,Boston Red Sox,Pittsburgh Pirates,Anthony Seigler,0,empty,Double,Anthony Seigler doubles (12) on a line drive to left fielder Jake Mangum.,True,False,False,False,True,2026-08-16,823344
 3,top,Boston Red Sox,Pittsburgh Pirates,Connor Wong,0,2nd,Pop Out,Connor Wong pops out to first baseman Rafael Flores Jr. in foul territory.,False,False,False,False,False,2026-08-16,823344
 3,top,Boston Red Sox,Pittsburgh Pirates,Nick Sogard,1,empty,Strikeout,"Henry Davis challenged (pitch result), call on the field was overturned: Nick Sogard called out on strikes.",False,False,False,False,False,2026-08-16,823344
 3,top,Boston Red Sox,Pittsburgh Pirates,Ceddanne Rafaela,2,empty,Strikeout,Ceddanne Rafaela strikes out swinging.,False,False,False,False,False,2026-08-16,823344
