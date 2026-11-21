@@ -123549,7 +123549,7 @@ inning,half,team,opponent,batter,outs,base_state,event,description,batter_reache
 4,top,Philadelphia Phillies,Miami Marlins,Alec Bohm,1,empty,Flyout,Alec Bohm flies out to right fielder Griffin Conine.,False,False,False,False,False,2026-07-28,823838
 4,top,Philadelphia Phillies,Miami Marlins,Brandon Marsh,2,empty,Groundout,"Brandon Marsh grounds out, second baseman Xavier Edwards to first baseman Kyle Stowers.",False,False,False,False,False,2026-07-28,823838
 4,bottom,Miami Marlins,Philadelphia Phillies,Xavier Edwards,0,empty,Single,Xavier Edwards singles on a sharp line drive to right fielder Bryan De La Cruz.,True,False,False,False,True,2026-07-28,823838
-4,bottom,Miami Marlins,Philadelphia Phillies,Liam Hicks,0,1st,Double Play,"Liam Hicks grounds into a double play, first baseman Alec Bohm to shortstop Trea Turner. Xavier Edwards out at 2nd. Liam Hicks out at 1st.",False,False,False,False,False,2026-07-28,823838
+4,bottom,Miami Marlins,Philadelphia Phillies,Liam Hicks,0,1st,Grounded Into DP,"Liam Hicks grounds into a double play, first baseman Alec Bohm to shortstop Trea Turner. Xavier Edwards out at 2nd. Liam Hicks out at 1st.",False,False,False,True,False,2026-07-28,823838
 4,bottom,Miami Marlins,Philadelphia Phillies,Griffin Conine,2,empty,Lineout,Griffin Conine lines out to center fielder Justin Crawford.,False,False,False,False,False,2026-07-28,823838
 5,top,Philadelphia Phillies,Miami Marlins,Edmundo Sosa,0,empty,Pop Out,Edmundo Sosa pops out to first baseman Kyle Stowers.,False,False,False,False,False,2026-07-28,823838
 5,top,Philadelphia Phillies,Miami Marlins,Justin Crawford,1,empty,Lineout,Justin Crawford lines out to right fielder Griffin Conine.,False,False,False,False,False,2026-07-28,823838
